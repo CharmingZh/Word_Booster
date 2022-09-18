@@ -1,0 +1,550 @@
+3910	certainty	4	['sə:tənti]	n.确定, 确实的事情	
+3911	compile	4	[kəm'pail]	vt.编译, 编辑	
+3912	prodigious	4	[prə'didʒəs]	a.巨大的, 惊人的	
+3913	fountain	4	['fauntin]	n.喷泉	
+3914	electrically	4	[i'lektrikli]	ad.用电力,有关电地	
+3915	generous	4	['dʒenərəs]	a.慷慨的,丰富的	
+3916	sprawl	4	[sprɔ:l]	v.伸开,扩张, 蔓延	
+3917	petal	4	['petl]	n.花瓣	
+3918	likelihood	4	['laiklihud]	n.可能(性)	
+3919	farsighted	4	['fɑ:'saitid]	a.有先见之明的, 远视的	
+3920	fatten	4	['fætən]	v.养肥,使肥沃	
+3921	spit	4	[spit]	n.唾液.v.吐(唾沫)	
+3922	crawl	4	[krɔ:l]	vi./n.爬行, 蠕动	
+3923	cautious	4	['kɔ:∫əs]	a.谨慎的, 小心的	
+3924	expanse	4	[ik'spæns]	n.广阔,宽阔的区域	
+3925	dawn	4	[dɔ:n]	n.黎明.vi.破晓,开始出现	
+3926	purify	4	['pjuərifai]	vt.使纯净,(cid:6656)纯	
+3927	wonderful	4	['wʌndəfəl]	a.精彩的, 极好的	
+3928	quit	4	[kwit]	v.离开, 辞职	
+3929	confront	4	[kən'frʌnt]	vt.面临, 对抗	
+3930	arduous	4	['ɑ:djuəs]	a.费力的, 辛勤的,努力的,险峻的	
+3931	imbalance	4	[im'bæləns]	n.不平衡,不均衡	
+3932	immigration	4	[͵imi'ɡrei∫ən]	n.移民入境	
+3933	agitation	4	[ædӡi'tei∫ən]	n.鼓动,焦虑	
+3934	vivid	4	['vivid]	a.生动的,栩栩如生的	
+3935	necessitate	4	[ni'sesi͵teit]	v.使 ... 成为必需,迫使	
+3936	poverty	4	['pɔvəti]	n.贫穷, 贫困	
+3937	accidentally	4	[.æksi'dentl]	a.意外的,偶然(发生)的	
+3938	sweat	4	[swet]	n.汗 v.(使)出汗	
+3939	mediate	4	['mi:dieit]	v.调停, 斡旋	
+3940	verify	4	['verifai]	vt.核实, 证明	
+3941	reelection	4	[ri'ilekʃən]	n.再选, 改选	
+3942	dwelling	4	['dweliŋ]	n.住处	
+3943	foremost	4	['fɔ:məust]	a.最重要的,最初的	
+3944	crocodile	4	['krɔkədail]	n.鳄鱼, 鳄鱼皮	
+3945	integration	4	[͵inti'ɡrei∫ən]	n.综合,整合	
+3946	usefulness	4	['ju:sfʊlnɪs]	n.有用, 有效性	
+3947	prerequisite	4	['pri:'rekwizit]	n.先决条件.adj. 首要必备的	
+3948	occupational	4	[.ɔkju'peiʃnl]	a.职业的	
+3949	eclipse	4	[i'klips]	n.(日、月)食,丧失.vt.形成(日、月)食	
+3950	refute	4	[ri'fju:t]	vt.驳斥,驳倒	
+3951	deliberation	4	[di͵libə'rei∫ən]	n.仔细考虑,商量	
+3952	absent	4	['æbsənt]	a.缺席的,缺乏的	
+3953	biology	4	[bai'ɔlədӡi]	n.(生物)学	
+3954	fatal	4	['feitl]	a.致命的,灾难性的	
+3955	romanticism	4	[rə'mæntisizəm]	n.浪漫精神, 浪漫主义	
+3956	palace	4	['pælis]	n.宫, 宫殿	
+3957	ingenious	4	[in'dʒi:njəs]	a.设计独特的,巧妙的	
+3958	motionless	4	['məʊ∫(ə)nlɪs]	a.不动的, 静止的	
+3959	renewable	4	[ri'nju(:)əbl]	a.可更新的, 可再生的	
+3960	aural	4	['ɔ:rəl]	a.听觉的	
+3961	amateur	4	['æmətjuə]	n.业余爱好者	
+3962	tangle	4	['tæŋɡl]	v.(使)乱作一团.n.混乱	
+3963	ornamental	4	[͵ɔ:nə'mentl]	a.装饰的 .n.装饰品	
+3964	connective	4	[kə'nəktɪv]	a.连合的, 连接的	
+3965	meaningless	4	['mi:nɪŋlɪs]	a.无意义的	
+3966	capitalist	4	['kæpitəlist]	a.资本主义的.n.资本家	
+3967	estate	4	[i'steit]	n.财产, 地产,身份	
+3968	seedling	4	['si:dliŋ]	n.幼苗	
+3969	endurance	4	[in'djurəns]	n.忍耐(力), 持久(力)	
+3970	tribute	4	['tribju:t]	n.颂词,称赞	
+3971	jungle	4	['dӡʌŋɡl]	n.(热带)丛林	
+3972	usher	4	['ʌ∫ə]	vt.引,领,陪同.n.带位员	
+3973	fusion	4	['fju:ӡən]	n.熔化,融合	
+3974	scarcely	4	['skεəsli]	ad.几乎不, 简直没有	
+3975	suspicious	4	[səs'piʃəs]	a.可疑的,多疑的	
+3976	monarch	4	['mɔnək]	n.君主	
+3977	boost	4	[bu:st]	vt.(cid:6656)高,推动,宣扬.n.增涨,激励	
+3978	objectively	4	[əb'dʒektivli]	ad.客观地	
+3979	chilly	4	['t∫ili]	a.寒冷的	
+3980	corporation	4	[͵kɔ:pə'rei∫ən]	n.公司, 法人	
+3981	expertise	4	[͵ekspə'ti:z]	n.专门知识(或技能等),专长	
+3982	operator	4	['ɔpəreitə]	n.操作员, 技工	
+3983	temper	4	['tempə]	n.脾气,韧度.vt.调和,锻炼	
+3984	humanness	4	['hju:mənnis]	n.为人,人性	
+3985	companion	4	[kəm'pænjən]	n.同伴, 共事者	
+3986	protective	4	[prə'tektiv]	a.给予保护的, 保护的	
+3987	incidental	4	[͵insi'dentl]	a.偶然的,附带的	
+3988	intruder	4	[in'tru:də]	n.入侵者,干扰者	
+3989	intentionally	4	[in'tenʃənli]	ad.有意地,故意地	
+3990	impractical	4	[im'præktikəl]	a.不切实际的,不实用的	
+3991	steal	4	[sti:l]	v.偷, 窃取	
+3992	immaturity	4	[imə'tjuəriti]	n.不成熟,不完全	
+3993	understandable	4	[.ʌndə'stændəbl]	a.可理解的,能够懂的	
+3994	offset	4	['ɔ:fset]	vt.补偿,抵消	
+3995	faculty	4	['fækəlti]	n.能力,院系,全体教员	
+3996	dare	4	[dεə]	vt.敢, 挑战	
+3997	marvelous	4	['mɑ:viləs]	a.令人惊异的, 非凡的,了不起的	
+3998	naive	4	[nɑ:'i:v]	a.天真的	
+3999	breakthrough	4	['breik'θru:]	n.突破	
+4000	manager	4	['mænidӡə]	n.经理, 管理人员,管理器	
+4001	compositional	4	[.kɔmpə'ziʃənəl]	a.合成的,组成的.n.作文,作曲 ,合成物	
+4002	authorize	4	['ɔ:θəraɪz]	v.批准,全权委托,认可,授权给	
+4003	municipal	4	[mju(:)'nisipəl]	a.市政的,自治都市的,地方自治的	
+4004	imagery	4	['imidӡəri]	n.意象, 肖像,比喻	
+4005	refreeze	4	[ri:'fri:z]	vt.再结冰, 重新冻结	
+4006	dietary	4	['daiətəri]	a.饮食的.n.规定的食物	
+4007	hydropower	4	['haidrəupauə]	n.水力发出的电力	
+4008	granule	4	['ɡrænju:l]	n.小粒,微粒	
+4009	recreational	4	[.rekri'eiʃənəl]	a.娱乐的, 消遣的	
+4010	insecure	4	[.insi'kjuə]	a.不安全的,不稳固的,缺乏安全感的	
+4011	dealing	4	['di:liŋ]	n.行为, 交易,待人态度,商业往来	
+4012	staff	4	[stɑ:f]	n.全体职工,全体人员 ,棒,支撑	
+4013	asset	4	['æset]	n.资产,有利条件,才能,有价值的物品	
+4014	multiplicity	4	[͵mʌlti'plisiti]	n.多样性,多重性	
+4015	figuratively	4	['figjurətivli]	ad.比喻地,象征性地	
+4016	crime	4	[kraim]	n.犯罪,违反道德的行为.vt.对..定罪	
+4017	undermine	4	[͵ʌndə'main]	v.破坏,在..下挖坑道	
+4018	greener	4	['gri:nə]	n.生手	
+4019	entrepreneurial	4	[.ɔntrəprə'njuriəl]	a.企业家的,  企业性质的,承包人	
+4020	foliage	4	['fəuliidӡ]	n.树叶,植物	
+4021	self-assertion	4	[.selfə'sə:ʃən]	n.坚持己见,  自信,自作主张	
+4022	vice	4	[vais]	n.缺点, 恶习.a.副的,代替的	
+4023	supreme	4	[sju:'pri:m]	a.最高的, 至上的	
+4024	marshy	4	['mɑ:∫i]	a.沼泽般的,湿软的	
+4025	anxiety	4	[æŋɡ'zaiəti]	n.忧虑, 焦急,渴望	
+4026	retirement	4	[ri'taiəmənt]	n.退休,退役,退职,隐居	
+4027	sympathetic	4	[͵simpə'θetik]	a.同情的,赞同的,和谐的	
+4028	excitement	4	[ɪk'saɪtmənt]	n.刺激, 兴奋	
+4029	amaze	4	[ə'meiz]	vt.使吃惊	
+4030	experimentation	4	[eks͵perimen'tei∫ən]	n.实验	
+4031	percussion	4	[pə:'kʌʃən]	n.碰撞, 打击乐器	
+4032	plausible	4	['plɔ:zəbl]	a.似真实合理的,花言巧语的	
+4033	crisscross	4	['kriskrɔs]	v.交叉, 来回移动.n.十字形,矛盾	
+4034	blink	4	[bliŋk]	v./n.眨眼, 闪烁,对..视而不见	
+4035	converter	4	[kən'vз:tə(r)]	n.转炉,教化者,（电视等）的变频器	
+4036	layout	4	['lei͵aut]	n.布局,安排,陈列,版面编排	
+4037	claw	4	[klɔ:]	n.(脚)爪	
+4038	repel	4	[ri'pel]	vt.排斥,击退 ,使人厌恶	
+4039	legitimate	4	[li'dӡitimit]	a.合法的.vt.授权,使合法	
+4040	plus	4	[plʌs]	prep.加上.a.正的,有利的	
+4041	octopus	4	['ɔktəpəs]	n.章鱼	
+4042	temporal	4	['tempərəl]	a.现世的, 暂时的,太阳穴的	
+4043	unpredictability	4	[.ʌnpri.diktə'biliti]	n.不可预测性	
+4044	makeshift	4	['meɪk∫ɪft]	a.临时的.n.临时替代物,权宜之计	
+4045	reap	4	[ri:p]	v.收割, 收获,遭到报应,得到报偿	
+4046	improvise	4	['imprəvaiz]	v.即兴创作,临时做	
+4047	ascend	4	[ə'send]	v.攀登, 上升.vi.追溯到（(cid:7680)个时间）	
+4048	summit	4	['sʌmit]	n.顶点, 最高阶层	
+4049	appointment	4	[ə'pɔintmənt]	n.约会, 指定,(旅馆,船舶等的)陈设,设备	
+4050	doctrine	4	['dɔktrin]	n.教条, 学说	
+4051	immeasurably	4	[i'meʒərəbli]	ad.无法计量地, 无限地,无边无际的	
+4052	ambition	4	[æm'bi∫ən]	n.野心, 雄心,志气	
+4053	humanitarian	4	[hju(:)͵mæni'tεəriən]	n./a.人道主义者(的)	
+4054	logically	4	['lɔdʒikli]	ad.符合逻辑地, 逻辑上地	
+4055	unsafe	4	['ʌn'seif]	a.不安全的	
+4056	thoughtful	4	['θɔ:tful]	a.深思的,体贴的	
+4057	ignite	4	[iɡ'nait]	v.点火,使激动	
+4058	unbroken	4	['ʌn'brəukən]	a.不间断的,（记录）未打破的	
+4059	consult	4	[kən'sʌlt]	v.商量, 商议,请教,当顾问	
+4060	inhospitable	4	[in'hɔspitəbl]	a.不好客的,不适于居住的	
+4061	artistically	4	[ɑ:'tistikəli]	ad.艺术地, 在艺术上	
+4062	aristocracy	4	[͵æris'tɔkrəsi]	n.贵族（政治）,一批优秀人物	
+4063	advise	4	[əd'vaiz]	vt.劝告, 忠告, 警告, 建议	
+4064	greedy	4	['ɡri:di]	a.贪婪的 ,渴望的,(兴趣等)强烈的	
+4065	pierce	4	[piəs]	v.刺穿,识破,（亮光）照进	
+4066	instability	4	[͵instə'biliti]	n.不稳定(性)	
+4067	embrace	4	[im'breis]	vt.拥抱,接受,信奉	
+4068	license	4	['laɪsəns]	n.许可证.vt.许可	
+4069	heel	4	[hi:l]	n.脚后跟	
+4070	obsession	4	[əb'se∫ən]	n.迷住, 困扰	
+4071	cellar	4	['selə]	n.地窖, 地下室	
+4072	pain	4	[pein]	n.痛苦,辛苦.vt.使痛苦	
+4073	hail	4	[heil]	n.雹.v.下雹,高呼	
+4074	elective	4	[ɪ'lektɪv]	a.选举的,随意选择的	
+4075	devour	4	[di'vauə]	vt.吞食,吞没,毁灭	
+4076	physically	4	['fɪzɪk(ə)lɪ]	ad.身体上地,实际上,按照自然规律地	
+4077	eagerly	4	['i:gəli]	ad.热心地,急切地	
+4078	husbandry	4	['hʌzbəndri]	n.管理,农事,耕作	
+4079	fortification	4	[͵fɔ:tifi'kei∫ən]	n.防御工事,加强,设防	
+4080	built-up	4	['bilt'ʌp]	a.组合的,高楼林立的	
+4081	unavailable	4	['ʌnə'veiləbl]	a.难以获得的,没空的	
+4082	latest	4	['leitist]	a.最近的	
+4083	instinctively	4	[in'stiŋktivli]	ad.本能地	
+4084	universally	4	[.ju:ni'və:səli]	ad.普遍地	
+4085	guard	4	[ɡɑ:d]	n.警戒.v.守卫	
+4086	matrix	4	['meitriks]	n.矩阵,母体	
+4087	complaint	4	[kəm'pleint]	n.诉苦, 抱怨,控告	
+4088	celebration	4	[͵seli'brei∫ən]	n.庆祝, 庆典	
+4089	propel	4	[prə'pel]	v.推进, 驱使	
+4090	unlimited	4	[ʌn'limitid]	a.无限的,过渡的	
+4091	portrayal	4	[pɔ:'treɪəl]	n.(cid:6655)画, (cid:6655)写	
+4092	declare	4	[di'klεə]	v.宣布,声明,断言	
+4093	undisturbed	4	['ʌndis'tə:bd]	a.未受干扰的,安静的	
+4094	ascent	4	[ə'sent]	n.上升,(cid:6656)高	
+4095	amass	4	[ə'mæs]	v.积累,积聚	
+4096	causal	4	['kɔ:zəl]	a.原因的	
+4097	floral	4	['flɔ:rəl]	a.花的,像花的	
+4098	personalize	4	['pə:snəlaiz]	vt.个人化, 私人化	
+4099	tenant	4	['tenənt]	n.承租人, 房客	
+4100	herbaceous	4	[hə:'beiʃəs]	a.草本植物的	
+4101	respective	4	[ri'spektiv]	a.分别的, 各自的	
+4102	primordial	4	[prai'mɔ:djəl]	a.原始的,最初的,根本的	
+4103	oversee	4	['əuvə'si:]	vt.监督,监管,俯瞰	
+4104	infrequent	4	[in'fri:kwənt]	a.不频发的,不常见的,珍贵的	
+4105	acclaim	4	[ə'kleim]	n./v.喝采, 欢呼,称赞	
+4106	originality	4	[ə,ridʒə'næləti]	n.独创性	
+4107	wander	4	['wɔndə]	vi.漫步, 徘徊	
+4108	intervene	4	[͵intə'vi:n]	vi.干涉,干预	
+4109	situate	4	['sitjueit]	v.位于,坐落在	
+4110	alcohol	4	['ælkəhɔl]	n.酒精,酒	
+4111	approval	4	[ə'pru:vəl]	n.赞同,批准, 认可	
+4112	accidental	4	[͵æksi'dentl]	a.意外的,偶然(发生)的	
+4113	disastrous	4	[di'zɑ:strəs]	a.灾难性的, 极糟的	
+4114	exemplify	4	[iɡ'zemplifai]	vt.例证, 例示	
+4115	pantomime	4	['pæntəmaim]	n.哑剧.v.用手势示意	
+4116	transparent	4	[træns'pεərənt]	a.透明的, 显然的	
+4117	conscious	4	['kɔn∫əs]	a.意识到的,自觉的,神志清醒的	
+4118	adversely	4	[æd'və:sli]	ad.不利地,逆向地	
+4119	indirectly	4	[.indi'rektli]	ad.间接地	
+4120	domesticate	4	[də'mestikeit]	vt.驯养, 教化	
+4121	deceive	4	[di'si:v]	v.欺骗, 行骗	
+4122	aesthetically	4	[es'θetikli]	ad.有审美能力地	
+4123	functionalism	4	[.fʌŋkʃənə.lizəm]	n.功能主义, 机能心理学	
+4124	talent	4	['tælənt]	n.天才,才能	
+4125	continuation	4	[kən͵tinju'ei∫ən]	n.继续(部分),续篇	
+4126	detach	4	[di'tæt∫]	vt.拆卸,使分开	
+4127	disproportionate	4	[͵disprə'pɔ:∫ənit]	a.不成比例的	
+4128	lament	4	[lə'ment]	n.悲伤v.哀悼,悔恨	
+4129	systematically	4	[.sistə'mætikəli]	ad.有系统地, 有条理地	
+4130	curiosity	4	[͵kjuəri'ɔsiti]	n.好奇心,新奇的事物	
+4131	ancestral	4	[æn'sestrəl]	a.祖先的	
+4132	resume	4	[ri'zju:m]	v.(中断后)继续.n.摘要,简历	
+4133	eligible	4	['elidӡəbl]	a.有资格的, 合适的	
+4134	absolutely	4	['æbsəlu:tli]	ad.完全地, 绝对地	
+4135	senator	4	['senətə]	n.参议员,理事	
+4136	radius	4	['reidjəs]	n.半径（范围）	
+4137	withdrawal	4	[wið'drɔ:əl]	n.收回, 撤退,退股,(cid:6656)款,取消	
+4138	launch	4	[lɔ:nt∫,lɑ:nt∫]	vt./n.发射.v.发起	
+4139	primal	4	['praiməl]	a.最初的,主要的	
+4140	regulatory	4	['regjulətəri]	a.管理的, 控制的,调整的	
+4141	extension	4	[ik'stenʃən]	n.延长, 扩充	
+4142	ultimate	4	['ʌltimit]	a.最后的, 最终的n.终极(限)	
+4143	omit	4	[əu'mit]	vt.省略,遗漏,删除,疏忽	
+4144	applicable	4	['æplikəbl]	a.合适的, 适用的,	
+4145	persuasively	4	[pə'sweisivli]	ad.有说服力的,口才好的	
+4146	livable	4	['livəbl]	a.适于居住的	
+4147	pretty	4	['priti]	a.漂亮的, 可爱的.ad.相当	
+4148	testify	4	['testifai]	v.证明, 证实,作证	
+4149	outlying	4	['aut.laiiŋ]	a.远离中心的,偏僻的	
+4150	privilege	4	['privilidӡ]	n.特权,优惠	
+4151	disruption	4	[dis'rʌp∫ən]	n.分裂,瓦解,破坏,毁坏	
+4152	subsistence	4	[sʌb'sistəns]	n.生存, 生活, 留存	
+4153	notwithstanding	4	[͵nɔtwiθ'stændiŋ]	prep.／ ad.尽管	
+4154	clip	4	[klip]	n.夹子.vt.夹住	
+4155	impetus	4	['impitəs]	n.推动力, 促进	
+4156	sophistication	4	[sə,fɪstɪ`keɪ∫ən]	n.老练, 精明	
+4157	instructive	4	[in'strʌktiv]	a.有益的, 教育性的	
+4158	manual	4	['mænjuəl]	a.手工的.n.手册,指南	
+4159	mundane	4	['mʌndein]	a.平凡的, 世俗的	
+4160	appoint	4	[ə'pɔint]	v.任命, 委派,指定	
+4161	inflation	4	[in'flei∫ən]	n.通货膨胀, 膨胀	
+4162	injure	4	['indӡə]	vt.伤害,损害	
+4163	instigate	4	['instiɡeit]	v.鼓动,怂恿,教唆	
+4164	rigorously	3	['rigərəsli]	ad.严格地,残酷地	
+4165	high-velocity	3	[haɪ'vilɔsiti]	n.高速	
+4166	constitutional	3	[͵kɔnsti'tju:∫ənəl]	a.法治的,体质的	
+4167	accuse	3	[ə'kju:z]	vt.控告, 谴责	
+4168	temporarily	3	['tempərərili]	ad.临时	
+4169	befit	3	[bi'fit]	vt.适合	
+4170	endow	3	[in'dau]	v.捐赠, 赋予	
+4171	patience	3	['pei∫əns]	n.耐性, 忍耐	
+4172	residency	3	['rezidənsi]	n.居住, 住所	
+4173	collaborative	3	[kə`læbəreɪtɪv]	a.合作的, 协作的	
+4174	refrigerate	3	[ri'fridʒəreit]	v.使冷冻, 使冷藏	
+4175	rage	3	[reidӡ]	n.愤怒.v.肆虐	
+4176	execution	3	[͵eksi'kju:∫ən]	n.处决, 执行.n.死刑	
+4177	tough	3	[tʌf]	a.坚韧的,强硬的,困难的	
+4178	cling	3	[kliŋ]	vi.紧贴, 附着	
+4179	wholesale	3	['həulseil]	n.批发.a.大规模的	
+4180	adrift	3	[ə'drift]	a./ad.漂流的,漫无目的	
+4181	mystical	3	['mistikəl]	a.神秘的	
+4182	coerce	3	[kəu'ə:s]	vt.强制,威胁	
+4183	crash	3	[kræ∫]	vi.碰撞,撞击,坠毁	
+4184	eccentricity	3	[,eksen'trisəti]	n.反常,怪癖	
+4185	distasteful	3	[dis'teistfəl]	a.味道差的,反感的	
+4186	tragedy	3	['trædӡidi]	n.悲剧, 惨案	
+4187	lantern	3	['læntən]	n.灯笼,(cid:6656)灯	
+4188	spell	3	[spel]	vt.拼写.n.咒语,一段时间	
+4189	durability	3	[,duərə'biləti]	n.经久, 耐久力	
+4190	stark	3	[stɑ:k]	a.荒凉的,严酷的.ad.完全	
+4191	crush	3	[krʌ∫]	vt./n.压碎.n.迷恋	
+4192	uniquely	3	[ju:'ni:kli]	adv独特地, 唯一地	
+4193	adaptability	3	[ə,dæptə'biləti]	n.适应性	
+4194	strive	3	[straiv]	v.努力, 奋斗,斗争	
+4195	qualitative	3	['kwɔlitətiv]	a.性质上的, 定性的	
+4196	prohibitive	3	[prə'hibitiv,prəu-]	a.禁止的, 抑制的	
+4197	prospector	3	[prɔ'spektə(r)]	n.探勘者, 采矿者	
+4198	contradiction	3	[͵kɔntrə'dik∫ən]	n.反驳, 矛盾,否认	
+4199	regime	3	[reɪ'ӡi:m]	n.政权制度,政权	
+4200	skepticism	3	['skeptisizəm]	n.怀疑论	
+4201	commandment	3	[kə'mɑ:n(d)mənt]	n.戒律,法令	
+4202	glimpse	3	[ɡlimps]	n.一瞥v.瞥见	
+4203	preferable	3	['prefərəbl]	a.更好的,更合意的	
+4204	delineate	3	[di'linieit]	v.(cid:6655)绘,(cid:6655)写,画…的轮廓	
+4205	inadequacy	3	[in'ædikwəsi]	n.不充分,不胜任,缺乏信心	
+4206	crumble	3	['krʌmbl]	v.弄碎,崩溃	
+4207	dissatisfaction	3	['dis͵sætis'fæk∫ən]	n.不满	
+4208	lengthy	3	['leŋθi]	a.冗长的	
+4209	intersect	3	[͵intə'sekt]	v.贯穿, 交叉	
+4210	masterpiece	3	['mɑ:stəpi:s]	n.杰作, 名著	
+4211	accessory	3	[æk'sesəri]	n.附件.a.辅助的,配件	
+4212	seriousness	3	['siəriəsnis]	n.严肃, 认真,严重性	
+4213	finely	3	['fainli]	ad.细微地,美好地	
+4214	preferentially	3	['prefə'renʃl]	a.优先地, 优待地	
+4215	acquisition	3	[͵ækwi'zi∫ən]	n.获得(物)	
+4216	sterile	3	['sterail]	a.贫脊的,不结果的,无菌的	
+4217	rally	3	['ræli]	n.集会.v.集合	
+4218	detachment	3	[di'tæt∫mənt]	n.冷漠, 脱离,公平无私	
+4219	oblige	3	[ə'blaidӡ]	vt.迫使,施恩于	
+4220	inconclusive	3	[.inkən'klu:siv]	a.非决定性的,不确定的	
+4221	innovator	3	[`ɪnəʊveɪtə(r)]	n.改革者, 革新者	
+4222	necessitate	3	[ni'sesi.teit]	vt.使成为必要,需要	
+4223	rebuild	3	['ri:'bild]	v.重建, 改造	
+4224	uncompetitive	3	[.ʌnkəm'petitiv]	a.非竞争性的,不爱竞争的	
+4225	conceive	3	[kən'si:v]	v.构想,设想,怀孕	
+4226	earn	3	[ə:n]	vt.赚得	
+4227	quietly	3	['kwaɪətlɪ]	ad.平静地,寂静地	
+4228	panic	3	['pænik]	n.恐(惊)慌.v.(使)恐慌	
+4229	meanwhile	3	['mɪnhwaɪl]	ad.其间	
+4230	ravage	3	['rævidӡ]	n./v.毁坏	
+4231	adaptable	3	[ə'dæptəbl]	a.能适应的,适应性强的,可改编的	
+4232	converge	3	[kən'və:dӡ]	vi.聚合, 集中	
+4233	fortune	3	['fɔ:t∫ən]	n.财富, 运气,命运	
+4234	endeavor	3	[in'devə]	n./v.尽力, 努力	
+4235	supervisor	3	['sju:pəvaizə]	n.管理人,监督人	
+4236	invisibly	3	[in'vizəbli]	ad.看不见地, 看不出地	
+4237	visibility	3	[͵vizi'biliti]	n.可见度	
+4238	generalize	3	['dӡenərəlaiz]	vt.归纳, 概括	
+4239	unpopular	3	['ʌn'pɔpjulə]	a.不流行的, 不受欢迎的	
+4240	linear	3	['liniə]	a.线的, 直线的	
+4241	thesis	3	['θi:sis]	n.论题, 论文	
+4242	astronaut	3	['æstrənɔ:t]	n.宇航员	
+4243	reuse	3	['ri:'ju:z]	vt.再使用 n.重新使用	
+4244	antagonism	3	[æn'tæɡənizəm]	n.对抗(状态), 对抗性	
+4245	rehabilitation	3	['ri:(h)ə͵bili'tei∫ən]	n.复原,昭雪	
+4246	canoe	3	[kə'nu:]	n.独木舟.v.用独木舟运	
+4247	leisurely	3	['leʒəli]	a.从容地,慢慢地,悠闲的	
+4248	quote	3	[kwəut]	vt.引用, 引证,报价	
+4249	unobtainable	3	['ʌnəb'teinəbl]	a.无法得到的,难获得的	
+4250	utterly	3	[`ʌtəlɪ]	ad.完全地,绝对地	
+4251	rejection	3	[ri'dӡek∫ən]	n.拒绝.[医]排异	
+4252	outweigh	3	[aut'wei]	v.在重量(或价值等)上超过	
+4253	communicative	3	[kə'mju:nikətiv]	a.健谈的,交流的	
+4254	conversely	3	['kɔnvз:slɪ]	ad.倒地,逆地	
+4255	racial	3	['rei∫əl]	a.人种的, 种族的	
+4256	ambient	3	['æmbiənt]	a.周围的,环绕的,外界的.n.周围环境	
+4257	accrete	3	[æ'kri:t]	v.共生, 附着, 增加	
+4258	resent	3	[ri'zent]	v.愤恨, 怨恨	
+4259	correlation	3	[͵kɔri'lei∫ən]	n.相互关系	
+4260	devotion	3	[di'vəu∫ən]	n.献身, 热爱,奉献,忠诚	
+4261	useless	3	['ju:slis]	a.无用的, 无效的	
+4262	politically	3	[pə'litikəli]	ad.政治上地	
+4263	optimum	3	['ɔptiməm]	n./a.最适宜(的),最佳效果	
+4264	presently	3	['prezəntli]	ad.目前, 不久	
+4265	reelect	3	[.ri:i'lekt]	vt.重选, 改选	
+4266	bold	3	[bəuld]	a.大胆的 ,粗体的	
+4267	ensue	3	[in'sju:]	vi.接着发生,接踵而来	
+4268	historic	3	[his'tɔrik]	a.有历史意义的, 历史的	
+4269	languish	3	['læŋɡwi∫]	vi.憔悴, 凋萎,失去活力	
+4270	lateness	3	['leitnis]	n.迟, 晚	
+4271	foresightedness	3	['fɔ:saitidnis]	n.先见之明	
+4272	brittle	3	['britl]	a.易碎的, 脆弱的	
+4273	dispense	3	[dis'pens]	vt.分发, 分配	
+4274	inedible	3	[in'edibl]	a.不能吃的,不宜食用的	
+4275	lure	3	[ljuə]	v.引诱.n.饵	
+4276	swiftly	3	['swiftli]	ad.很快地, 即刻,敏捷地	
+4277	risky	3	['riski]	a.危险的,大胆的	
+4278	avalanche	3	['ævəlɑ:ntʃ]	n.雪崩	
+4279	cessation	3	[sə'sei∫ən]	n.停止,中断,中止	
+4280	steamer	3	['sti:mə]	n.汽船, 蒸汽机	
+4281	sentimental	3	[,senti'mentl]	a.感伤的,多愁善感的	
+4282	cushion	3	['ku∫ən]	n.垫子.vt.保护,减缓	
+4283	technician	3	[tek'nɪ∫(ə)n]	n.技术员, 技师	
+4284	heater	3	['hi:tə]	n.加热器	
+4285	circumference	3	[sə'kʌmfərəns]	n.圆周, 周围	
+4286	treatment	3	['tri:tmənt]	n.待遇, 对待,治疗	
+4287	sanitation	3	[sæni'tei∫ən]	n.卫生(设施)	
+4288	scrape	3	[skreɪp]	v./n.刮,擦	
+4289	violently	3	['vaɪələntlɪ]	ad.猛烈地, 激烈地	
+4290	flexibility	3	[͵fleksə'biliti]	n.灵活性, 弹性	
+4291	obstruct	3	[əb'strʌkt]	vt.阻塞,堵塞,妨碍	
+4292	distinguishable	3	[dis'tiŋgwiʃəbl]	a.可区别的, 可辨别的	
+4293	commute	3	[kə'mju:t]	v.通勤, 折换.n.乘车上下班	
+4294	absenteeism	3	[æbsən'ti:ɪz(ə)m]	n.（无故）旷课, 旷工	
+4295	unchangeable	3	[ʌn'tʃeindʒəbl]	a.不变的,不能改变的	
+4296	ignorant	3	['iɡnərənt]	a.无知的,不知道的	
+4297	illusory	3	[ɪ'lusərɪ]	a.虚幻的,错觉的,产生幻觉的	
+4298	sparsely	3	['spa:rsli]	ad.稀疏地,贫乏地	
+4299	luxurious	3	[lʌg'ʒu:riəs]	a.奢侈的, 豪华的	
+4300	receptacle	3	[ri'septəkl]	n.容器	
+4301	recreation	3	[rekrɪ'eɪ∫(ə)n]	n.消遣, 娱乐	
+4302	edifice	3	['edifis]	n.大厦, 大建筑物	
+4303	disdain	3	[dis'dein]	n.轻蔑.v.蔑视	
+4304	predispose	3	['pri:dis'pəuz]	v.(使)易罹患, (使)预先偏向于	
+4305	preposterous	3	[pri'pɔstərəs]	a.荒谬的, 可笑的,前后颠倒的	
+4306	undisputed	3	['ʌndis'pju:tid]	a.无可置辩的,毫无疑问的	
+4307	maneuver	3	[mə'nu:və]	n.策略[ pl.]演习.v.(巧妙)控制,用策略	
+4308	revitalization	3	[ri:,vaitəlai'zeiʃən,-li'z-]	n.新生 复兴,复苏	
+4309	inaccessible	3	[.inæk'sesəbl]	a.难接近的, 难达到的	
+4310	qualify	3	['kwɔlifai]	v.(使)胜任,(使)合格	
+4311	skillfully	3	['skilfuli]	ad.巧妙地,技术好地	
+4312	dormancy	3	['dɔ:mənsi]	n.休眠	
+4313	supposedly	3	[sə'pəuzidli]	ad.推测地, 大概	
+4314	amuse	3	[ə'mju:z]	vt.使发笑,使愉快	
+4315	legal	3	['li:ɡəl]	a.法律的,合法的	
+4316	insignificant	3	[.insig'nifikənt]	a.无关紧要的,  可忽略的	
+4317	implicitly	3	[im'plisitli]	ad.含蓄地,  暗中地	
+4318	rhythmical	3	[`rɪðmɪkɚl]	a.节奏的, 合拍的	
+4319	legally	3	['li:gəli]	ad.法律上, 合法地	
+4320	immunity	3	[i'mju:niti]	n.免疫性	
+4321	restriction	3	[ris'trik∫ən]	n.限制, 约束	
+4322	notorious	3	[nəu'tɔ:riəs]	a.臭名昭著的	
+4323	idiom	3	['idiəm]	n.成语, 方言	
+4324	psychology	3	[sai'kɔlədӡi]	n.心理学	
+4325	hurricane	3	['hɜ:rɪkeɪn ]	n.飓风, 狂风	
+4326	bilingual	3	[bai'liŋɡwəl]	a.能说两种语言的,双语的	
+4327	abolish	3	[ə'bɔli∫]	vt.废止, 废除	
+4328	sting	3	[stiŋ]	n./v.刺, 刺痛	
+4329	rotary	3	['rəutəri]	a.旋转的,转动的,轮流的	
+4330	immigrate	3	['imiɡreit]	vi.移入	
+4331	brand	3	[brænd]	n.商标, 牌子, 烙印	
+4332	disappointment	3	[͵disə'pɔintmənt]	n.失望	
+4333	attainment	3	[ə'teinmənt]	n.达到	
+4334	careless	3	['kεəlis]	a.粗心的, 疏忽的,无忧无虑的	
+4335	progression	3	[prə'ɡre∫ən]	n.行进, 级数,发展	
+4336	casual	3	['kæӡjuəl]	a.偶然的, 不经意的,便装的	
+4337	hinder	3	['hində]	v.阻碍, 打扰.a.后面的	
+4338	elemental	3	[͵eli'mentl]	a.元素的,自然力的	
+4339	ridiculous	3	[ri'dikjuləs]	a.荒谬的, 可笑的	
+4340	journalism	3	['dӡə:nəlizəm]	n.新闻业,新闻工作	
+4341	complementary	3	[kɔmplə'mentərɪ]	a.补充的, 补足的	
+4342	adornment	3	[ə'dɔ:nmənt]	n.装饰, 装饰品	
+4343	purification	3	[͵pjuərifi'kei∫ən]	n.净化	
+4344	saving	3	['seiviŋ]	n.存款.a.搭救的, 节约的	
+4345	astound	3	[əs'taund]	vt.使惊骇, 使大吃一惊	
+4346	incomprehensible	3	[in,kɔmpri'hensəbl]	a.费解的,不可思议的	
+4347	evidently	3	['evidəntli]	ad.显然,清楚地	
+4348	label	3	['leibl]	n.标签,商标.vt.贴标签于	
+4349	precarious	3	[pri'kεəriəs]	a.危险的,不确定的,不稳定的	
+4350	artificially	3	[,a:ti'fiʃəli]	ad.人工地,不自然地	
+4351	exempt	3	[iɡ'zempt]	v.免除.a.被免除的	
+4352	rehabilitate	3	[͵ri:(h)ə'biliteit]	vt.修复, 改造,使康复	
+4353	persuade	3	[pə'sweid]	v.说服, 劝说, (使)相信	
+4354	sunset	3	['sʌnset]	n.日落, 晚年	
+4355	intoxication	3	[in͵tɔksi'kei∫ən]	n.陶醉,中毒,喝醉	
+4356	genuine	3	['dӡenjuin]	a.真实的, 真正的, 诚恳的	
+4357	alteration	3	[͵ɔ:ltə'rei∫ən]	n.变更, 改造,修改	
+4358	customary	3	['kʌstəməri]	a.习惯的, 惯例的	
+4359	subjective	3	[sʌb'dӡektiv]	a.主观的, 个人的.n.主语	
+4360	appreciable	3	[ə'pri:ʃiəbl]	a.可感知的,相当可观的	
+4361	tent	3	[tent]	n.帐篷	
+4362	marrow	3	['mærəu]	n.精华, 活力, 骨髓	
+4363	rapidity	3	[rə'piditi]	n.速度,迅速,急速	
+4364	immersion	3	[i'mə:∫ən]	n.沉浸,专心,陷入	
+4365	indispensable	3	[͵indis'pensəbl]	n.不可缺少之物.a.不可缺少的	
+4366	frustrate	3	[frʌs'treit]	v.挫败, 阻挠.n.挫败的	
+4367	unsatisfactory	3	['ʌn,sætis'fæktəri]	a.不令人满意的,不满足的	
+4368	separately	3	['sepəritli]	ad.分别地,分离地	
+4369	mercury	3	['mə:kjuri]	n.水银, 汞	
+4370	rider	3	['raidə]	n.骑手, 附文, 扶手	
+4371	opera	3	['ɔpərə]	n.歌剧	
+4372	landslide	3	['lændslaɪd]	n.[地]山崩, 滑坡	
+4373	stature	3	['stæt∫ə]	n.身高,(精神、道德等的)高度	
+4374	relaxation	3	[͵ri:læk'sei∫ən]	n.松弛, 放宽	
+4375	remediation	3	[͵ri͵midi'ei∫ən]	n.补习,补救,矫正	
+4376	unincorporated	3	[,ʌnin'kɔ:pəreitid]	n.未联合的,未合并的	
+4377	profile	3	['prəufail]	n.侧面,轮廓,简介	
+4378	discriminate	3	[dis'krimineit]	v.歧视,区别待遇,辨别	
+4379	recommendation	3	[͵rekəmen'dei∫ən]	n.推荐, 介绍(信)	
+4380	comprehensible	3	[,kɔmpri'hensəbl]	a.可理解的	
+4381	instantly	3	['instəntli]	ad.立即地, 即刻地conj. 一…就…	
+4382	realistically	3	[,riə'listikəli]	ad.现实地,逼真地,实际地	
+4383	unintentionally	3	[,ʌnin'tenʃənəli]	ad.无意地,非故意地	
+4384	magnetize	3	['mæɡnɪtaɪz]	v.使磁化, 吸引	
+4385	hatchling	3	['hæt∫liŋ]	n.人工孵化的鱼苗或小鸟	
+4386	specialist	3	['spe∫əlɪst]	n.专门医师, 专家	
+4387	comprehensive	3	[͵kɔmpri'hensiv]	a.全面的,能充分理解的	
+4388	morally	3	['mɔrəli]	ad.道德上	
+4389	inherent	3	[in'hiərənt]	a.固有的,与生俱来的	
+4390	inconspicuous	3	[,inkən'spikjuəs]	a.不显眼的,不引人注意的	
+4391	integrity	3	[in'teɡrəti]	n.正直, 诚实, 完整,廉正	
+4392	enroll	3	[ɪn'rəʊl]	v.登记, 招收, 参加	
+4393	utterance	3	['ʌtərəns]	n.意见, 说话, 发表	
+4394	treasury	3	['treӡəri]	n.财政部, 国库	
+4395	apparatus	3	[͵æpə'reitəs]	n.器械, 设备, 仪器,机构	
+4396	unify	3	['ju:nifai]	vt.统一,使成一体	
+4397	sympathy	3	['simpəθi]	n.同情, 同情心,同感	
+4398	approve	3	[ə'pru:v]	v.赞成, 批准	
+4399	excellence	3	['eksələns]	n.优秀, 卓越	
+4400	ineffective	3	[͵ini'fektiv]	a.无效的, (指人)工作效率低的	
+4401	explosive	3	[ik'spləusiv]	a.爆炸(性)的,暴露.n.爆炸物	
+4402	actor	3	['æktə]	n.男演员,行动者	
+4403	lovely	3	['lʌvli]	a.可爱的,有趣的	
+4404	receptiveness	3	[ri'septivnis]	n.感受性,接受能力	
+4405	punish	3	['pʌni∫]	v.惩罚,处罚	
+4406	animate	3	['ænimeit]	v.鼓舞.a.生气勃勃的	
+4407	militaristic	3	[,militə'ristik]	a.军国主义的	
+4408	interference	3	[͵intə'fiərəns]	n.冲突, 干涉,干扰	
+4409	credible	3	['krɛdəb!]	a.可信的,可靠的	
+4410	flute	3	[flu:t]	n.长笛.v.吹长笛,刻槽	
+4411	inequality	3	[,ini'kwaləti]	n.不等式,不均等,不平衡	
+4412	automate	3	['ɔ:təmeit]	v.使自动化, 自动操作	
+4413	pedagogy	3	['pedəɡɔɡi]	n.教学, 教授	
+4414	pregnant	3	['preɡnənt]	a.怀孕的, 重要的	
+4415	trait	3	[treit]	n.显著的特点, 特性,少许	
+4416	autonomy	3	[ɔ:'tɔnəmi]	n.自治,自主	
+4417	exuberant	3	[iɡ'zju:bərənt]	a.繁茂的,生气勃勃的,充溢的	
+4418	option	3	['ɔp∫ən]	n.选项, 选择权	
+4419	plague	3	[pleiɡ]	n.瘟疫,麻烦.vt.折磨, 使苦恼	
+4420	unreal	3	['ʌn'ri(:)əl]	a.不真实的, 虚幻的	
+4421	fond	3	[fɔnd]	a.喜欢的,温柔的	
+4422	parade	3	[pə'reid]	n.游行,炫耀.v.游行,炫耀	
+4423	receptive	3	[ri'septiv]	a.善于接受的,能容纳的	
+4424	clarity	3	['klæriti]	n.清楚,透明,明晰	
+4425	neuron	3	['njuərɔn]	n.[解]神经细胞,神经元	
+4426	commensal	3	[kɔ'mensəl]	a.共餐的.n.共食伙伴, 共生物	
+4427	inadvertently	3	[in'ədvə:təntli]	ad.非故意地,不注意地	
+4428	administer	3	[əd'ministə]	v.管理, 给予, 执行	
+4429	fasten	3	['fɑ:sn]	v.扎牢,扣住	
+4430	diversify	3	[dai'və:sifai]	vt.使多样化, 作多样性的投资	
+4431	grumble	3	['ɡrʌmbl]	a.嘟囔地说.n.怨言.v.发牢骚	
+4432	subsidy	3	['sʌbsidi]	n.补助金,津贴	
+4433	commonsense	3	['kɔmən'sens]	a.常识的,具有常识的,明白事理的	
+4434	destination	3	[͵desti'nei∫ən]	n.目的地	
+4435	mosquito	3	[məs'ki:təu]	n.蚊子	
+4436	paucity	3	['pɔ:siti]	n.极小量,缺乏,少数	
+4437	infect	3	[in'fekt]	vt.[医] 传染, 感染	
+4438	deserve	3	[di'zə:v]	v.应受, 值得	
+4439	subsidize	3	['sʌbsidaiz]	vt.资助,津贴	
+4440	excitation	3	[͵eksi'tei∫ən]	n.刺激,兴奋, 激动	
+4441	noxious	3	['nɔk∫əs]	a.有害的,有毒的	
+4442	deviate	3	['di:vieit]	v.偏离,偏轨	
+4443	gradient	3	['ɡreidiənt]	a.倾斜的.n.梯度,坡度	
+4444	regulator	3	['reɡjuleitə]	n.调整者,调整器	
+4445	hiccup	3	['hikʌp]	n.打嗝.v.打嗝	
+4446	nurse	3	[nə:s]	n.护士,保姆.v.护理,照料	
+4447	lump	3	[lʌmp]	n.肿块,笨人.v.使成块状.a.全部的	
+4448	unexpectedly	3	['ʌnik'spektidli]	ad.出乎意料地,意外地	
+4449	disappearance	3	[͵disə'piərəns]	n.不见,消失	
+4450	abrupt	3	[ə'brʌpt]	a.突然的,陡峭的,生硬的,鲁莽的	
+4451	individuality	3	[͵indi͵vidju'æliti]	n.个性,(通常用复数)个人的嗜好	
+4452	cheese	3	[t∫i:z]	n.干酪	
+4453	shrink	3	[∫riŋk]	v.收缩, (使)皱缩.n.收缩	
+4454	dampen	3	['dæmpən]	v.使潮湿,沮丧	
+4455	textural	3	['tekstʃərəl]	a.组织的,结构的	
+4456	commitment	3	[kə'mitmənt]	n.委托事项,许诺,献身	
+4457	verbalize	3	['və:bəlaiz]	v.用语言(cid:6655)述,累赘,唠叨	
+4458	generator	3	['dӡenəreitə]	n.发电机, 发生器	
+4459	uphold	3	[ʌp'həuld]	vt.支持, 赞成,举起	

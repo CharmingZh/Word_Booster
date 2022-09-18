@@ -1,0 +1,735 @@
+4467	comic	2	['kɔmik]	n.滑稽演员.a.滑稽的, 喜剧的	
+4468	resilient	2	[ri'ziliənt]	a.适应力强的, 有弹力的	
+4469	indigestible	2	[͵indi'dӡestəbl]	a.难消化的,难理解的	
+4470	subtitle	2	['sʌbtaitl]	n.字幕,(书本中的)副题.vt.给…加字幕	
+4471	prolifically	2	[prəu'lifikəli]	a.丰富地,多产地	
+4472	elevator	2	['eliveitə]	n.电梯,升降机	
+4473	rigidity	2	[ri'dӡiditi]	n.刻板,严格,坚硬	
+4474	soar	2	[sɔ:r]	vi.高飞,昂扬.n.高涨程度	
+4475	dismantle	2	[dis'mæntl]	v.拆除	
+4476	monotonous	2	[mə'nɔtənəs]	a.单调的,无抑扬顿挫的	
+4477	aquatic	2	[ə'kwætik]	a.水的,水生的.n.水生动物	
+4478	vibration	2	[vai'brei∫ən]	n.振动,颤动	
+4479	suggestive	2	[sə'dӡestiv]	a.(cid:6656)示的,暗示的	
+4480	sensation	2	[sen'sei∫ən]	n.感觉,感情,轰动	
+4481	contend	2	[kən'tend]	v.斗争, 竞争, 主张	
+4482	grace	2	[ɡreis]	n.优美, 雅致.vt.使优雅	
+4483	Chile	2	['t∫ili]	n.智利	
+4484	slumber	2	['slʌmbə]	n.睡眠.v.睡眠	
+4485	negligible	2	['neɡlidӡəbl]	a.可以忽略的, 不予重视的	
+4486	finite	2	['fainait]	a.有限的,限定的	
+4487	unmatched	2	[,ʌn'mætʃt]	a.无与伦比的,不相配的,无配偶的	
+4488	nutritive	2	['nju:tritiv]	a.营养的.n.营养物	
+4489	revision	2	[ri'viӡən]	n.修订,修正,修订本,复习	
+4490	flexibly	2	['fleksəbli]	ad.易曲地, 柔软地,灵活地	
+4491	cumulative	2	['kju:mju,leitiv]	a.累积的	
+4492	creep	2	[kri:p]	vi.爬, 蹑手蹑脚.n.爬行	
+4493	tan	2	[tæn]	n.日晒后的颜色.a.棕褐色的.v.晒成褐色	
+4494	rigor	2	['riɡə]	n.严格,精确	
+4495	prostrate	2	[prɔs'treit]	a.降伏的,俯卧的.vt.使屈服	
+4496	protector	2	[prə'tektə]	n.保护者	
+4497	substantiate	2	[sʌbs'tæn∫ieit]	vt.使实体化,证实	
+4498	nonstop	2	['nɔn'stɔp]	a.不断的,直达的.ad.不休息地	
+4499	versatile	2	['və:sətail]	a.多才多艺的,万能的	
+4500	mentally	2	['mentəlɪ]	ad.精神上, 智力上	
+4501	obliterate	2	[ə'blitəreit]	vt.涂去, 删除, 忘掉	
+4502	aspiration	2	[͵æspə'rei∫ən]	n.热望, 渴望,抱负	
+4503	conceivable	2	[kən'si:vəbl]	a.可能的,想得到的	
+4504	popularize	2	['pɔpjuləraiz]	v.普及	
+4505	responsive	2	[ri'spɔnsiv]	a.响应的,应答的,易感应的	
+4506	amplify	2	['æmplifai]	v.放大,详述,增强	
+4507	pertinent	2	['pə:tinənt]	a.有关的,相干的	
+4508	concise	2	[kən'sais]	a.简明的,简练的	
+4509	utilization	2	[͵ju:tilai'zei∫ən]	n.利用,使用	
+4510	theoretical	2	[,θiə'retikəl]	a.理论的,理论上的,空谈的	
+4511	figural	2	['fiɡjurəl]	a.借喻的,比喻的	
+4512	youth	2	[ju:θ]	n.青春,少年	
+4513	flatter	2	['flætə]	vt.过分夸赞, 奉承,使满意	
+4514	fortuitously	2	[fɔ:'tjuətəsli]	ad.偶然地,意外地	
+4515	plentifully	2	['plentifuli]	ad.丰富地,富裕地	
+4516	monopolize	2	[mə'nɔpəlaiz]	vt.独占, 垄断,拥有…的专卖权	
+4517	burden	2	['bə:dn]	n.担子, 负担.v.烦扰	
+4518	annihilate	2	[ə'naiəleit]	v.消灭,湮灭,废止	
+4519	hypothesize	2	[hai'pɔθisaiz]	v.假设,假定	
+4520	routinely	2	[ru:'ti:nli]	ad.例行公事地,老一套地	
+4521	predicament	2	[pri'dikəmənt]	n.困境,窘状	
+4522	divergence	2	[daɪ`vз:dӡəns]	n.分歧	
+4523	decisive	2	[di'saisiv]	a.决定性的,果断的,坚定的	
+4524	comparably	2	['kɔmpərəbli]	ad.同等地,可比较地	
+4525	attendant	2	[ə'tendənt]	n.服务员,出席者.a.伴随的	
+4526	deference	2	['defərəns]	n.顺从, 尊重	
+4527	pendant	2	['pendənt]	n.垂饰, 下垂物	
+4528	interestingly	2	['intristiŋli]	ad.有趣地	
+4529	perfume	2	['pə:fju:m]	n.芳香,香水.v.使发香,洒香水于	
+4530	reckless	2	['reklis]	a.不计后果的,鲁莽的	
+4531	rigidly	2	['ridʒidli]	ad.坚硬地, 严格地,严厉地,牢牢地	
+4532	renounce	2	[ri'nauns]	v.宣布放弃,断绝关系,垫牌	
+4533	observatory	2	[əb'zə:vətəri]	a.天文台,气象台	
+4534	forward-looking	2	['fɔ:wəd-lukiŋ]	a.有远见的, 向前看的	
+4535	urbanism	2	['ə:bə͵nizəm]	n.都市生活,都市化	
+4536	refrigeration	2	[ri͵fridӡə'rei∫ən]	n.冷藏, 致冷	
+4537	harshly	2	['ha:ʃli]	ad.严厉地, 苛刻地	
+4538	adjunct	2	['ædӡʌŋkt]	n.附件, 助手.a.附属的	
+4539	deplorable	2	[di'plɔ:rəbl]	a.可叹的,凄惨的	
+4540	loneliness	2	['ləʊnlɪnɪz]	n.孤独, 寂寞	
+4541	hopeless	2	['həʊplɪs]	a.没有希望的,不可救药	
+4542	interchangeable	2	[,intə'tʃeindʒəbl]	a.可互换的,可交换的	
+4543	laundry	2	['lɔ:ndri]	n.洗衣店, 要洗的衣服	
+4544	definitive	2	[di'finitiv]	a.最后的,确定的.n.限定词	
+4545	puncture	2	['pʌŋkt∫ə]	n.小孔.v.刺破	
+4546	interactive	2	[,intər'æktiv]	a.交互式的,相互作用的	
+4547	preform	2	['pri:'fɔ:m]	vt.预先形成.n.粗加工的成品	
+4548	unusable	2	[,ʌn'ju:zəbl]	a.不能用的,与众不同的	
+4549	inducible	2	[in'dju:səbl]	a.可诱导的,可导致的	
+4550	endowment	2	[in'daumənt]	n.捐赠,天资,捐款	
+4551	exhaustion	2	[iɡ'zɔ:st∫ən]	n.耗尽枯竭,疲惫,竭尽	
+4552	brave	2	[breiv]	a.勇敢的.v.勇敢地面对	
+4553	compatible	2	[kəm'pætəbl]	a.谐调的,兼容的	
+4554	unselfish	2	['ʌn'selfiʃ]	a.无私的,慷慨的	
+4555	unrestricted	2	[,ʌnri'striktid]	a.自由的,无限制的	
+4556	morality	2	[mə'ræləti]	n.道德,品行	
+4557	premature	2	[͵premə'tjuə]	a.未成熟的,早熟的,早产的	
+4558	reliability	2	[ri͵laiə'biliti]	n.可靠性	
+4559	unemployed	2	['ʌnim'plɔid]	a.失业的, 未被利用的	
+4560	immobility	2	[i,məu'biləti]	n.牢固,不动	
+4561	talented	2	['tæləntid]	a.有才能的,有天赋的	
+4562	uniformity	2	[,ju:ni'fɔ:məti]	n.一致,均匀性	
+4563	surgeon	2	['sə:dӡən]	n.外科医生	
+4564	idle	2	['aidl]	a.空闲的,懒惰的.v.虚度, 闲散	
+4565	resentment	2	[ri'zentmənt]	n.怨恨,愤恨	
+4566	purposely	2	['pə:pəsli]	ad.故意地,蓄意地	
+4567	irresponsibly	2	[,iri'spɔnsəbli]	ad.不负责任地,不可靠地	
+4568	quench	2	[kwent∫]	v.结束,熄灭,解渴	
+4569	grapple	2	['ɡræpl]	v.格斗,抓住.n.格斗	
+4570	haunt	2	[hɔ:nt]	v.出没于(像鬼魂一样)	
+4571	revealingly	2	[ri'vi:liŋli]	ad.启发人地,袒胸露肩地	
+4572	obedience	2	[ə'bi:djəns]	n.服众, 顺从	
+4573	rearrange	2	['ri:ə'reindӡ]	vt.再排列,重新整理	
+4574	roar	2	[rɔ:]	n.吼叫, 怒号.v.滚动,咆哮	
+4575	self-disciplined	2	['self'disiplaind]	a.有自我约束力的,能律己的	
+4576	slippery	2	['slipəri]	a.滑的,光滑的,靠不住的	
+4577	secrecy	2	['si:krisi]	n.秘密,保密	
+4578	impediment	2	[im'pedimənt]	n.妨碍,口吃, 障碍物	
+4579	nurture	2	['nə:t∫ə]	n.养育,教育.vt.养育,给与营养物	
+4580	misinterpret	2	['misin'tə:prit]	vt.曲解,误解	
+4581	meteoritic	2	[,mi:tiə'ritik]	a.陨星的,陨石的	
+4582	antiquate	2	['æntikwit]	a.旧式的,过时的	
+4583	replicate	2	['replikit]	v.复制.a.复制的	
+4584	painful	2	['peinful]	a.疼痛的,使痛苦的	
+4585	elegance	2	['elɪɡəns]	n.高雅,典雅	
+4586	eternal	2	[i(:)'tə:nl]	a.永恒的,永远的,不朽的	
+4587	permeability	2	[,pə:rmiə'biləti]	n.渗透性	
+4588	permeable	2	['pə:miəbl]	a.有浸透性的, 能透过的	
+4589	alienate	2	['eiljəneit]	v.疏远,离间	
+4590	implicit	2	[im'plisit]	a.暗示的,盲从的,含蓄的	
+4591	preponderance	2	[prɪ`pɔndərɚns]	n.优势,占优势	
+4592	imperfect	2	[im'pə:fikt]	a.有缺点的,未完成的.n.未完成体	
+4593	burdensome	2	['bə:dnsəm]	a.繁重的,难以承担的,恼人的	
+4594	convict	2	['kɔnvikt]	vt.证明...有罪.n.罪犯.a.被定罪的	
+4595	authorization	2	[͵ɔ:θərai'zei∫ən]	n.授权,认可,批准,委任	
+4596	gymnastic	2	[dӡim'næstik]	a.体操的,体育的.n.训练课程	
+4597	stagger	2	['stæɡə]	v.蹒跚,交错.a.交错的	
+4598	readjust	2	[ri:ə'dӡʌst]	v.重新调整,再调整	
+4599	pre-modern	2	[pri'mɔdən]	a.前近代	
+4600	rivalry	2	['raɪvəlrɪ]	n.竞争,竞赛,敌对	
+4601	nobility	2	[nou'biləti]	n.高贵,贵族,高尚	
+4602	revive	2	[ri'vaiv]	v.苏醒, (使)复兴	
+4603	ponderous	2	['pɔndərəs]	a.笨重的,沉闷的,呆板的	
+4604	utensil	2	[ju(:)'tensl]	n.器具	
+4605	knight	2	[nait]	n.(欧洲中世纪的)骑士.vt.授以爵位	
+4606	thrifty	2	['θrifti]	a.节约的	
+4607	enactment	2	[ɪ'næktm(ə)nt]	n.制定,(法律的)制定颁布	
+4608	proclaim	2	[prə'kleim]	vt.宣布,声明,显露	
+4609	besiege	2	[bi'si:dӡ]	vt.围困,围攻	
+4610	unsubstantiated	2	[,ʌnsəb'stænʃieitid]	a.未经证实的,无事实根据的	
+4611	unaware	2	['ʌnə'wεə]	a.不知道的, 没觉察到的	
+4612	prejudice	2	['predӡudis]	n.偏见,损害.vt.损害,有偏见	
+4613	extraordinarily	2	[ik'strɔ:rdəneri]	ad.非常,格外地	
+4614	twenty-odd	2	['twenti-ɔd]	a.二十多个	
+4615	unquestionably	2	[ʌn'kwestʃənəbli]	ad.无可非议地,确凿地	
+4616	versatility	2	[,vз:sə`tɪlətɪ]	n.多功能性,多才多艺	
+4617	inconvenient	2	[,inkən'vi:njənt]	a.不便的,打扰的	
+4618	penetration	2	[peni'trei∫ən]	n.穿过, 渗透, 突破,洞察力	
+4619	subtract	2	[səb'trækt]	v.(～ from)减去, 减	
+4620	adequacy	2	['ædikwəsi]	n.适当, 足够,妥善性	
+4621	irreversible	2	[,iri'və:səbl]	a.不可逆的,不能取消的,不可挽回的	
+4622	commend	2	[kə'mend]	v.称赞, 表扬, 推荐	
+4623	distinctly	2	[dis'tiŋktli]	ad.清楚地, 显然	
+4624	deteriorate	2	[di'tiəriəreit]	v.(使)恶化,衰退	
+4625	taut	2	[tɔ:t]	a.(绳子)拉紧的,紧张的.vt.使纠缠	
+4626	fortify	2	['fɔ:tifai]	vt.增强(体力,结构等).vi.筑防御工事	
+4627	vestigial	2	[ve'stidʒiəl]	a.退化的,发育不全的	
+4628	nonfunctional	2	[nɔn'fʌŋkʃənəl]	a.无功能的	
+4629	everest	2	['evərist]	n.珠穆朗玛峰(世界最高峰)	
+4630	flesh-eating	2	[fleʃ-i:tiŋ]	a.食肉的	
+4631	concede	2	[kən'si:d]	vt.勉强, 承认, 退让.vi.让步	
+4632	selective	2	[si'lektiv]	a.选择的, 选择性的	
+4633	donation	2	[dəu'nei∫ən]	n.捐赠品, 捐款, 贡献	
+4634	atlas	2	['ætləs]	n.地图, 地图集	
+4635	wireless	2	['waiəlis]	a.无线的.n.无线	
+4636	logic	2	['lɔdӡik]	n.逻辑, 逻辑学.a.逻辑的	
+4637	satisfaction	2	[͵sætis'fæk∫ən]	n.满意, 满足, 令人满意的事物	
+4638	gossip	2	['ɡɔsip]	n.闲话, 闲谈.v.散播(流言蜚语)	
+4639	attendance	2	[ə'tendəns]	n.出席, 出席的人数	
+4640	preferential	2	[,prefə'renʃəl]	a.优先的,选择的	
+4641	unresolved	2	['ʌnri'zɔlvd]	a.未解决的,未决定的	
+4642	exhilarate	2	[iɡ'ziləreit]	vt.使高兴, 使愉快,使振奋	
+4643	lately	2	['leitli]	ad.近来, 最近	
+4644	scarcity	2	['skεəsiti]	n.缺乏, 不足	
+4645	exemplary	2	[iɡ'zempləri]	a.典范的,惩戒性的	
+4646	periodization	2	[,pɪərɪədaɪ`zeɪ∫ɚn]	n.周期化,（历史等的）时期划分	
+4647	chronicle	2	['krɔnikl]	n.编年史 .vt.编入编年史	
+4648	sustenance	2	['sʌstinəns]	n.食物, 生计, (受)支持	
+4649	charitable	2	['tʃærətəbl]	a.慈善事业的,慷慨的,仁慈的	
+4650	tremendously	2	[tri'mendəsli]	ad.非常地,可怕地,惊人地	
+4651	outlook	2	['autluk]	n.景色, 展望 ,观点	
+4652	perceptive	2	[pə'septiv]	a.感知的,知觉的,有洞察力的	
+4653	legacy	2	['leɡəsi]	n.遗赠(物), 遗产	
+4654	painstaking	2	['peinsteikiŋ]	n.辛苦 .a.辛苦的, 辛勤的	
+4655	unsure	2	['ʌn'∫uə]	a.没有自信的, 不确定的	
+4656	ill-equipped	2	[ɪl-ɪ'kwɪpt]	a.装备不良的	
+4657	responsiveness	2	[ri'spɔnsivnis]	n.响应能力,有同情心	
+4658	partition	2	[pɑ:'ti∫ən]	vt.区分, 分割.n.分割, 划分	
+4659	neutrality	2	[nu:'træləti]	n.中立, 中性	
+4660	alkaline	2	['ælkəlain]	a.碱性的,碱的	
+4661	ratify	2	['rætifai]	vt.批准, 认可	
+4662	counterbalance	2	[͵kauntə'bæləns]	vt.使平均, 弥补 .n.平衡量, 平衡力	
+4663	creditor	2	['kreditə]	n.债权人,贷方	
+4664	regionalization	2	[͵ri:dӡənəlai'zei∫ən]	n.分成地区, 按地区安排	
+4665	telescopic	2	[,teli'skɔpik]	a.望远镜的,[眼科] 远视的	
+4666	ample	2	['æmpl]	a.充足的, 丰富的	
+4667	synchronize	2	['sɪŋkrənaɪz]	v.同步,同时发生	
+4668	fluffy	2	[`flʌfɪ]	a.绒毛似的, 蓬松的	
+4669	militarily	2	[milə`terɪlɪ]	ad.在军事上	
+4670	precision	2	[pri'siӡən]	n.精确, 精密度, 精度	
+4671	clause	2	[klɔ:z]	n.子句, 条款	
+4672	enforcer	2	[in'fɔ:sə]	n.实施者,强制执行者	
+4673	extracurricular	2	[eskstrəkə'rɪkjʊlə(r)]	a.课外的, 业余的	
+4674	habitual	2	[hə'bitjuəl]	a.习惯的, 惯常的	
+4675	thinker	2	['θiŋkə]	n.思想者, 思想家, 心智	
+4676	align	2	[ə'lain]	v.排列,使结盟	
+4677	diffusely	2	[di'fju:zli]	ad.广泛地,扩散地	
+4678	surrender	2	[sə'rendə]	v./n.放弃, 投降	
+4679	preach	2	[pri:t∫]	v.鼓吹,布道	
+4680	impatient	2	[im'peiʃənt]	a.焦躁的,不耐心的	
+4681	thirst	2	[θə:st]	n.口渴,热望.vi.渴望	
+4682	ridicule	2	['ridikju:l]	n.嘲笑, 奚落 .vt.嘲笑	
+4683	admiration	2	[͵ædmə'rei∫ən]	n.钦佩, 赞美, 羡慕	
+4684	recreate	2	['ri:kri'eit]	v.(使)得到休养, (使)得到娱乐,再创造	
+4685	uncritical	2	[,ʌn'kritikəl]	a.无批判力的,不加批判的	
+4686	toss	2	[tɔs]	v.投, 掷.	
+4687	glance	2	[ɡlɑ:ns]	n./v.一瞥,匆匆一看	
+4688	pretension	2	[pri:'ten∫ən]	n.借口, 要求, 自负	
+4689	remuneration	2	[ri͵mju:nə'rei∫ən]	n.报酬,偿还	
+4690	expressiveness	2	[ik'spresivnis]	n.表现, 表示	
+4691	scant	2	[skænt]	a.缺乏的,不足的.v.节省,减少	
+4692	celebratory	2	[,selə'breitəri]	a.快乐的,庆祝的	
+4693	digestion	2	[dai'dӡest∫ən]	n.消化力, 领悟	
+4694	consultant	2	[kən'sʌltənt]	n.顾问, 商议者, 咨询者	
+4695	misunderstand	2	['misʌndə'stænd]	vt.误解, 误会	
+4696	indifferent	2	[in'difərənt]	a.漠不关心的,中性的	
+4697	doubtful	2	['dautful]	a.可疑的, 不确的, 疑心的	
+4698	idealization	2	[ai.diəlai'zeiʃən]	n.理想化, 理想化的事物	
+4699	fidelity	2	[fi'deliti]	n.忠实, 诚实,  (收音机等的)保真度	
+4700	appreciably	2	[ə'pri:ʃəbli]	ad.略微, 有一点,可察觉地	
+4701	exceedingly	2	[ik'si:diŋli]	ad.非常,极度地	
+4702	immensely	2	[i'mensli]	ad.极大地,无限地	
+4703	interdependent	2	[,intədi'pendənt]	a.相互依赖的,互助的	
+4704	understandably	2	[,ʌndə'stændəbli]	ad.可理解地	
+4705	misunderstanding	2	[mɪsʌndə'stændɪŋ]	n.误会, 误解	
+4706	emblem	2	['embləm]	n.象征,符号, 徽章 .vt.用象征表示	
+4707	lyrical	2	['lirikəl]	a.抒情诗调的, 充满感情的	
+4708	module	2	['mɔdju:l]	n.模数, 模块,(航天器的)舱	
+4709	victimize	2	['viktimaiz]	vt.使牺牲,使受害,欺骗	
+4710	uppermost	2	['ʌpəməust]	a./ad.至上的,最高的	
+4711	ape	2	[eip]	n.猿	
+4712	suburban	2	[sə'bə:bən]	a.郊外的, 偏远的	
+4713	edible	2	['edibl]	a.可食用的	
+4714	discontent	2	['diskən'tent]	n.不满.a.不满的.vt.使不满	
+4715	rib	2	[rib]	n.肋骨.vt.戏弄	
+4716	nursery	2	['nə:səri]	n.托儿所,苗圃,温床	
+4717	stir	2	[stə:]	n.轰动, 搅动.v.搅拌,激起	
+4718	humble	2	['hʌmbl]	a.卑下的, 微贱的 .vt.使...卑下, 挫	
+4719	unsuccessful	2	[,ʌnsək'sesful]	a.不成功的,失败的	
+4720	seeker	2	['si:kə]	n.搜索者, 探求者	
+4721	unfavorably	2	[ʌn'feivərəbli]	ad.不利地,不适宜地	
+4722	acquaintance	2	[ə'kweintəns]	n.相识, 熟人,了解,知道	
+4723	decease	2	[di'si:s]	n.死亡 .vi.死	
+4724	divine	2	[di'vain]	a.神圣的, 非凡的.n.牧师.v.占卜	
+4725	colonel	2	['kə:nl]	n.陆军上校, 团长	
+4726	dilemma	2	[də'lemə]	n.进退两难的局面, 困难的选择	
+4727	validity	2	[və'lidəti]	n.有效性, 合法性, 正确性	
+4728	dismiss	2	[dis'mis]	v.解散, 下课, 解职,	
+4729	superficial	2	[sju:pə'fi∫əl]	a.表面的, 肤浅的.n.浅薄的人	
+4730	bounce	2	[bauns]	v.(使)反跳, 弹起 .n.(球)跳起, 弹回	
+4731	apace	2	[ə'peis]	ad.快速地, 急速地	
+4732	compactness	2	[kəm'pæktnis]	n.紧密, 简洁,小巧	
+4733	hurl	2	[hə:l]	n.用力或猛烈的投掷.v.用力投掷	
+4734	localization	2	[͵ləukəlai'zei∫ən]	n.地方化, 局限, 定位	
+4735	airborne	2	['εəbɔ:n]	a.空运的, 空气传播的	
+4736	rarity	2	['rεəriti]	n.稀有,珍品	
+4737	beneficiary	2	[beni'fi∫əri]	n.受惠者, 受益人	
+4738	leaflet	2	['li:flit]	n.小叶, 传单	
+4739	affordable	2	[ə'fɔ:dəbl]	a.负担得起的	
+4740	reply	2	[ri'plai]	n.答复, 答辩.v.答复, 回击	
+4741	importation	2	[͵impɔ:'tei∫ən]	n.进口, 输入品	
+4742	deny	2	[di'nai]	v.否认, 拒绝	
+4743	elaboration	2	[ɪ,læbə`reɪ∫ən]	n.苦心经营, 详尽的细节,精心制作	
+4744	survivor	2	[sə'vaivə]	n.生还者, 残存物	
+4745	uninhabited	2	['ʌnin'hæbitid]	a.无人居住的,杳无人迹的	
+4746	overrun	2	[͵əuvə'rʌn]	n.泛滥成灾.v.超过, 泛滥	
+4747	fever	2	['fi:və]	n.发烧, 狂热.v.(使)发烧, 狂热	
+4748	loosen	2	['lu:sn]	v.解开, 放松, 松开	
+4749	Netherland	2	['neðəlænd]	n.荷兰	
+4750	incorrectly	2	[,inkə'rektli]	ad.错误地,不适当地	
+4751	bravely	2	['breivli]	ad.勇敢地	
+4752	impressively	2	[im'presivli]	a.令人难忘地,  令人印象深刻地	
+4753	overkill	2	[͵əuvə'kil]	n.过度的杀伤威力.v.超量杀伤	
+4754	outskirt	2	['autskə:t]	n.外边, 郊区,市郊	
+4755	supplier	2	[sə'plaiə]	n.供应者, 补充者	
+4756	infinitesimally	2	[infini'tesiməli]	ad.极小地	
+4757	viability	2	[͵vaiə'biliti]	n.生存能力,可行性	
+4758	lyric	2	['lirik]	n.抒情诗, 歌词	
+4759	dispose	2	[dis'pəuz]	v.处理,布置, 安排	
+4760	insulator	2	['insjuleitə]	n.绝缘体, 绝热器	
+4761	manageable	2	['mænidʒəbəl]	a.易处理的,易管理的	
+4762	disaffection	2	[͵disə'fek∫ən]	n.不满,背叛	
+4763	requisition	2	[͵rekwi'zi∫ən]	n.正式请求,征用,要求	
+4764	reprint	2	['ri:'print]	v.再版	
+4765	cheerful	2	['t∫iəful]	a.愉快的, 高兴的	
+4766	untie	2	['ʌn'tai]	v.解开,  松开	
+4767	impermeable	2	[im'pə:miəbl]	a.不能渗透的	
+4768	condenses	2	[kən'densiz]	v.浓缩,  压缩.动词condense的三单形式	
+4769	pork	2	[pɔ:k]	n.猪肉,	
+4770	looseness	2	[lu:snis]	n.松开, 解除	
+4771	auction	2	['ɔ:k∫ən]	n.／.vt.拍卖,竞卖	
+4772	successively	2	[sək'sesivli]	ad.一个接一个地	
+4773	obey	2	[ə'bei]	v.服从, 顺从	
+4774	earthen	2	['ə:θən]	a.土制的, 陶制的	
+4775	turnover	2	['tə:n͵əuvə]	n.翻转,营业额,转移	
+4776	enhancement	2	[in'hɑ:nsmənt]	n.增进, 增加,放大	
+4777	memorize	2	['meməraɪz]	v.记住, 记忆	
+4778	session	2	['se∫ən]	n.会议, 开庭,会期	
+4779	indeterminate	2	[.indi'tə:minit]	a.不确定的, 含混的	
+4780	unbalance	2	['ʌn'bæləns]	v.使失衡,使精神紊乱n.失衡	
+4781	conclusively	2	[kən'klu:sivli]	ad.最后地, 确定地,决定性地	
+4782	fortuitous	2	[fɔ:'tju:itəs]	a.偶然的, 幸运的,意外的	
+4783	admirable	2	['ædmərəbl]	a.令人钦佩的,令人赞赏的	
+4784	democratization	2	[di.mɔkrətɑi'zeiʃən]	n.民主化	
+4785	peacefully	2	['pi:sfuli]	ad.平静地,  和平地	
+4786	upheaval	2	[ʌp'hi:vəl]	n.剧变,向上的运动	
+4787	inflection	2	[in'flek∫ən]	n.变形,音调变化	
+4788	stocking	2	['stɔkiŋ]	n.长袜	
+4789	eletricity	2	[.ilek'trisiti]	n.电, 电学	
+4790	depiction	2	[di'pikʃən]	n.(cid:6655)写, 叙述	
+4791	unfair	2	['ʌn'fεə]	a.不公平的	
+4792	underscore	2	[͵ʌndə'skɔ:]	vt.画底线,强调	
+4793	fluidity	2	[flu:'idəti]	n.流动性,变移性	
+4794	ongoing	2	['ɔnɡəuiŋ]	a.正在进行的,不断发展的	
+4795	loyalist	2	['lɔiəlist]	n.忠诚的人, 反对独立者	
+4796	pray	2	[prei]	v.祈祷, 恳求	
+4797	incoming	2	['in͵kʌmiŋ]	a.引入的,正来临的, 新任的	
+4798	unpredictably	2	[.ʌn'pridiktəbəl]	ad.不可预见地,  不能预料地	
+4799	immature	2	[͵imə'tjuə]	a.不成熟的, 未完全发展的	
+4800	accuracy	2	['ækjurəsi]	n.精确性, 正确度	
+4801	momentarily	2	[,moumən'terəli]	ad.暂时地, 立刻地	
+4802	overconfident	2	['əuvə'kɔnfidənt]	a.自负的, 过于自信的	
+4803	bother	2	['bɔðə]	v./n.烦扰, 打扰.v.使恼怒	
+4804	interdependence	2	[,ɪntədɪ`pendəns]	n.互相依赖	
+4805	broaden	2	['brɔ:dn]	v.放宽, 变宽, 扩大, 加宽	
+4806	enterprising	2	['entə.praiziŋ]	a.有事业心的, 有进取心的	
+4807	moisten	2	['mɔisn]	vt.弄湿 vi.变潮湿	
+4808	medicinal	2	[me'disinəl]	a.药物的,治疗的,医学的	
+4809	unattractive	2	['ʌnə'træktiv]	a.无魅力的, 无吸引力的	
+4810	tug	2	[tʌɡ]	n./v.用力拉, 拖船	
+4811	envelope	2	['enviləup]	n.信封, 封套	
+4812	misty	2	['misti]	a.有薄雾的,朦胧的	
+4813	unbreakable	2	[ʌn'breikəbl]	a.不易破碎的, 牢不可破的	
+4814	intermittently	2	[intə'mitəntli]	ad.间歇地	
+4815	healthful	2	['helθful]	a.有益健康的	
+4816	hydration	2	[hai'drei∫ən]	n.水合作用	
+4817	incorporate	2	[in'kɔ:pəreit]	v.合并, 组成公司 .a.合并的	
+4818	Arabian	2	[ə'reibjən]	n.阿拉伯人.a.阿拉伯(人)的	
+4819	bypass	2	['baɪpɑ:s]	vt.绕开, 忽视.n.旁道	
+4820	segregate	2	['seɡriɡeit]	v.隔离,分离	
+4821	willingness	2	['wiliŋnis]	n.乐意, 愿意	
+4822	marketplace	2	['mɑ:kit'pleis]	n.集会场所, 市场	
+4823	revenue	2	['revinju:]	n.收入,税收	
+4824	unconsciously	2	[ʌn'kɔnʃəsli]	ad.无意识地,不觉察地	
+4825	forebear	2	['fɔ:bεə]	n.祖先, 祖宗	
+4826	fatigue	2	[fə'ti:ɡ]	n.疲劳,劳累.v.(使)疲劳	
+4827	wreck	2	[rek]	vt.毁坏,使遇难.n.失事(船等),残骸	
+4828	disintegrate	2	[dis'intigreit]	v.分裂成小片,瓦解	
+4829	moody	2	['mu:di]	a.易怒的, 情绪化的	
+4830	faithful	2	['feiθful]	a.守信的, 忠实的,忠贞的	
+4831	awesome	2	['ɔ:səm]	a.可怕的, 表示敬畏的,精彩的	
+4832	favorably	2	['feivərəbli]	ad.赞同地, 亲切地	
+4833	proud	2	[praud]	a.自豪的, 得意的,自尊的	
+4834	unemployment	2	['ʌnim'plɔimənt]	n.失业, 失业人数	
+4835	preferably	2	['prefərəbli]	ad.更好地,宁愿	
+4836	encase	2	[in'keis]	v.把...装入箱中,包起	
+4837	hurry	2	['hʌri]	v.赶紧,匆忙	
+4838	minutely	2	['minitli]	a.每分钟的,持续的.ad.微小地	
+4839	cohesiveness	2	[kəu'hi:sivnis]	n.粘合, 凝聚性	
+4840	peculiarly	2	[pi'kju:ljəli]	ad.古怪地,  特有地	
+4841	cruise	2	[kru:z]	vi./n.巡游, 漫游	
+4842	meticulous	2	[mi'tikjuləs]	a.一丝不苟的, 缜密的	
+4843	impermanence	2	[ɪm`pз:mɚnəns]	n.暂时, 无常	
+4844	impenetrable	2	[im'penitrəbl]	a.不能穿过的, 不可理喻的	
+4845	undeniable	2	[.ʌndi'naiəbl]	a.不可否认的, 无可辩驳的	
+4846	conqueror	2	['kɔŋkərə]	n.征服者, 胜利者	
+4847	commercialize	2	[kə'mə:ʃəlaiz]	v.使商业化	
+4848	verbalizable	2	['və:bəlaizəbl]	a.可用言辞表达的	
+4849	incompatibility	2	['inkəm,pætə'biləti]	n.不两立, 不相容	
+4850	forefront	2	['fɔ:frʌnt]	n.最前部, 最前线	
+4851	verbally	2	['vз:bəlɪ]	ad.用言辞地, 口头地	
+4852	viewpoint	2	['vju:͵pɔint]	n.观点	
+4853	kernel	2	['kə:nl]	n.果仁,核心	
+4854	wine	2	[wain]	n.(葡萄)酒	
+4855	incline	2	[in'klain]	v.(使)倾斜,倾向于,.n.斜面	
+4856	necessitate	2	[ni'sesiteit]	v.成为必要	
+4857	magnet	2	['mæɡnit]	n.磁体, 磁铁	
+4858	trivial	2	['triviəl]	a.琐碎的,不重要的	
+4859	distortion	2	[dis'tɔ:∫ən]	n.扭曲, 变形,曲解	
+4860	implicate	2	['implikeit]	vt.含意, 暗示	
+4861	shortwave	2	[`∫ɔ:t`weɪv]	n.短波	
+4862	pluralism	2	['pluərəlizəm]	n.复数, 兼职,多元主义,多元论	
+4863	alumnus	2	[ə'lʌmnəs]	n.男毕业生, 男校友	
+4864	heritage	2	['heritidӡ]	n.遗产, 继承权,传统	
+4865	overgrow	2	['əuvə'ɡrəu]	v.长满,生长过快	
+4866	enlargement	2	[in'lɑ:dӡmənt]	n.放大,扩建	
+4867	idiomatic	2	[.idiə'mætik]	a.地道的 成语的,惯用的	
+4868	nonproductive	2	[.nɔnprə'dʌktiv]	a.非生产性的,无生产力的	
+4869	junior	2	['dӡu:njə]	a.年少的,资历较浅的.n.年少者,晚辈	
+4870	ruler	2	['ru:lə]	n.统治者, (直)尺	
+4871	intimacy	2	['intiməsi]	n.亲密, 隐私	
+4872	inorganic	2	['inɔ:'gænik]	a.无机的, 非自然生长的	
+4873	forever	2	[fə'revə]	ad.永远, 永恒	
+4874	unacceptable	2	['ʌnək'septəbl]	a.不能接受的, 不受欢迎的	
+4875	unprofitable	2	[ʌn'prɔfitəbl]	a.没有利润的, 无益的	
+4876	attractiveness	2	[ə'træktivnis]	n.魅力,  吸引力	
+4877	unparalleled	2	[ʌn'pærəleld]	a.无比的, 空前的	
+4878	disadvantageous	2	[dis.ædvən'teidʒəs]	a.不利的	
+4879	vicinity	2	[vi'sinəti]	n.邻近, 附近	
+4880	harmonious	2	[hɑ:'məuniəs]	a.和谐的, 和睦的	
+4881	ironically	2	[ai'rɔnikli]	ad.具有讽刺意味地,嘲讽地	
+4882	genre	2	[ӡɑ:nrə]	n.类型, 流派	
+4883	marginal	2	['mɑ:dӡinəl]	a.边缘的, 边际的,页边的	
+4884	visually	2	['vɪzjʊəlɪ]	ad.在视觉上地, 真实地	
+4885	primacy	2	['praiməsi]	n.首位,卓越	
+4886	hazardous	2	['hæzədəs]	a.危险的, 冒险的	
+4887	unsuspected	2	['ʌnsəs'pektid]	a.未知的, 未被怀疑的	
+4888	underestimate	2	['ʌndər'estimeit]	vt./.n.估计不足,低估,看清	
+4889	exportation	2	[͵ekspɔ:'tei∫ən]	n.出口,输出	
+4890	extremity	2	[ik'streməti]	n.极度,绝境	
+4891	converse	2	[kən'və:s]	vi.交谈.n.反面说法,逆命题.a.相反的	
+4892	grounding	2	['ɡraundiŋ]	n.基础训练, 染色的底色,[电]接地	
+4893	curiously	2	['kjuəriəsli]	ad.好奇地	
+4894	duplicate	2	['dju:plikeit]	n.复制品 .a.复制的 .vt.复制,复印	
+4895	microbe	2	['maɪkrəʊb]	n.微生物, 细菌	
+4896	virtual	2	['və:tjuəl]	a.实质的, 虚拟的	
+4897	inanimate	2	[in'ænimit]	a.无生命的,没精打采的	
+4898	commentary	2	['kɔməntəri]	n.注释, 解说词,评论	
+4899	avid	2	['ævid]	a.渴望的,贪婪的	
+4900	ascribe	2	[əs'kraib]	vt.归因于, 归咎于	
+4901	everlasting	2	[͵evə'lɑ:stiŋ]	a.永恒的, 持久的	
+4902	abound	2	[ə'baund]	v.富于,  充满	
+4903	activist	2	['æktivist]	n.激进主义分子, 行动主义分子	
+4904	incessant	2	[in'sesnt]	a.不断的,  无尽的,连续的	
+4905	fancy	2	['fænsi]	vt.喜欢n.爱好,想象力	
+4906	preliminary	2	[pri'liminəri]	a.预备的, 初步的,开始的	
+4907	afloat	2	[ə'fləut]	a./ad.飘浮的, 传播的	
+4908	affectional	2	[ə'fekʃənəl]	a.情感上的,  爱情的	
+4909	abnormal	2	[æb'nɔ:məl]	a.反常的, 变态的	
+4910	autobiography	2	[͵ɔ:təbai'ɔɡrəfi]	n.自传	
+4911	inhibition	2	[͵inhi'bi∫ən]	n.禁止, 阻止,抑制,压抑	
+4912	perceivable	2	pə'si:vəbəl]]	a.可知觉的,可感知的	
+4913	incompletely	2	[.inkəm'pli:tli]	ad.不完全地	
+4914	disappoint	2	[͵disə'pɔint]	vt.使失望	
+4915	chase	2	[t∫eis]	vt.追赶, 追逐	
+4916	uproot	2	[ʌp'ru:t]	vt.连根拔起, 根除	
+4917	refuge	2	['refju:dӡ]	n.庇护, 避难所.v.给予庇护	
+4918	quantitative	2	['kwɔntitətiv]	a.数量的, 定量的	
+4919	suitably	2	['sju:təbli]	ad.合适地, 适宜地	
+4920	colorless	1	['kʌləlɪs]	a.无色的, 无趣味的	
+4921	onion	1	['ʌnjən]	n.洋葱	
+4922	unsettle	1	['ʌn'setl]	v.不安,使动摇	
+4923	dispatch	1	[dis'pæt∫]	vt.分派, 派遣	
+4924	eradication	1	[i͵rædi'kei∫ən]	n.连根拔除, 根除	
+4925	shear	1	[∫iə]	v.剪, 剪切	
+4926	avoidable	1	[ə'vɔidəbl]	a.可避免的	
+4927	insightful	1	['insaitfəl]	a.有深刻见解的, 富有洞察力的	
+4928	proficient	1	[prə'fi∫ənt]	a.精通的	
+4929	diligence	1	['dilidӡəns]	n.勤奋	
+4930	separable	1	['sepərəbl]	a.可分离的, 可分的	
+4931	dim	1	[dim]	v.(使)暗淡,(使)模糊.a.暗淡的	
+4932	harmfully	1	['hɑ:mfəli]	ad.伤害地,有害地	
+4933	admittedly	1	[əd'mitidli]	ad.不可否认的, 公认地	
+4934	carelessly	1	['kɛəlisli]	ad.粗心地,疏忽地	
+4935	imaginative	1	[imædʒənətiv]	a.富有想象力的	
+4936	incapacitated	1	[.inkə'pæsiteit]	vt.使不能	
+4937	enigma	1	[i'niɡmə]	n.谜, 难以理解的事物	
+4938	grateful	1	['ɡreitful]	a.感激的, 感谢的	
+4939	modernization	1	[͵mɔdənai'zei∫ən]	n.现代化	
+4940	propriety	1	[prə'praiəti]	n.适当,规矩	
+4941	affluent	1	['æfluənt]	a.丰富的, 富裕的	
+4942	deteriorates	1	[di'tiəriəreit]	v.恶化,变坏	
+4943	enjoyable	1	[in'dʒɔiəbl]	a.有趣的, 愉快的	
+4944	reluctantly	1	[ri'lʌktəntli]	a.不情愿地,勉强地	
+4945	overbalance	1	[͵əuvə'bæləns]	v.失去平衡,重于..	
+4946	lethal	1	['li:θəl]	a.致命的 n.致死因子	
+4947	thrift	1	[θrift]	n.节俭	
+4948	fiercely	1	[`fɪəslɪ]	ad.猛烈地, 厉害地	
+4949	supportive	1	[sə'pɔ:tiv]	a.支持的	
+4950	documentary	1	[͵dɔkju'mentəri]	n.记录片.a.纪录的, 文件的	
+4951	reachable	1	['ri:tʃəbl]	a.可达成的, 可获得的	
+4952	paradox	1	['pærədɔks]	n.似非而是的论点, 自相矛盾的话	
+4953	inflexibly	1	[in'fleksəbli]	ad.不弯曲地, 不屈地	
+4954	convincingly	1	[kən'vinsiŋli]	ad.令人信服地, 有说服力地	
+4955	unwillingness	1	[ʌn'wiliŋnis]	n.不愿意, 不情愿	
+4956	vitality	1	[vai'tæləti]	n.活力, 生命力	
+4957	eventually	1	[i'ventʃuəli]	ad.终于,最后	
+4958	bearing	1	['bεəriŋ]	n.举止,风度	
+4959	clutch	1	[klʌt∫]	v.抓住, 攫住 .n.爪子	
+4960	permission	1	[pə(:)'mi∫ən]	n.许可, 允许	
+4961	abnormality	1	[͵æbnɔ:'mæliti]	n.变态 畸形,反常	
+4962	abruptness	1	[ə'brʌptnis]	n.唐突,粗鲁	
+4963	esteem	1	[is'ti:m]	n.／.vt.尊重,敬重,认为	
+4964	achievable	1	[ə'tʃi:vəbəl]	a.做得成的, 可完成的	
+4965	fixation	1	[fik'sei∫ən]	n.固定, 注视,[心理]固恋	
+4966	acknowledge	1	[ək'nɔlidӡ]	vt.承认, 答谢,公认	
+4967	uncooperative	1	['ʌnkəu'ɔpərətiv]	a.不合作的, 不配合的	
+4968	physician	1	[fi'zi∫ən]	n.医师, 内科医师	
+4969	hesitant	1	['hezitənt]	a.迟疑的, 犹豫不定的	
+4970	uneducated	1	[.ʌn'edjukeitid]	a.没受教育的,文盲的,缺乏教养的	
+4971	awaken	1	[ə'weikən]	v.唤醒, 醒来,使意识到	
+4972	afflict	1	[ə'flikt]	vt.使痛苦, 折磨,使苦恼	
+4973	abbreviate	1	[ə'bri:vieit]	v.缩写, 简化	
+4974	legislative	1	['ledӡis͵leitiv]	a.立法的, 立法机关的	
+4975	hostility	1	[hɔs'tiliti]	n.敌意, 不友善	
+4976	republish	1	[ri:'pʌbli∫]	vt.再版, 重新发表	
+4977	publicly	1	['pʌblɪklɪ]	ad.公然地, 舆论上,以公众名义	
+4978	fierce	1	[fiəs]	a.凶猛的, 猛烈的	
+4979	fateful	1	['feitfəl]	a.重大的,命中注定的	
+4980	gesture	1	['dӡest∫ə]	n.姿态, 手势.v.做手势	
+4981	dining	1	['dainiŋ]	n.吃饭	
+4982	amenity	1	ə'menəti]	n.宜人, 礼仪,舒适	
+4983	disability	1	[,disə'biləti]	n.无力, 残疾	
+4984	amplifier	1	['æmpli͵faiə]	n.扩音器, 放大器	
+4985	dentist	1	['dentist]	n.牙科医生	
+4986	merciless	1	['mə:siləs]	a.残忍的,无情的	
+4987	passion	1	['pæ∫ən]	n.激情,热情	
+4988	supplementary	1	[͵sʌpli'mentəri]	a.增补的,补充的	
+4989	thermal	1	['θə:məl]	a.热的, 热量的	
+4990	faintly	1	[`feɪntlɪ]	ad.微弱地, 朦胧地	
+4991	dazzlingly	1	[dæzlɪŋli]	ad.灿烂地, 耀眼地	
+4992	proudly	1	['praudli]	ad.骄傲地	
+4993	unmanageable	1	[ʌn'mænidʒəbl]	a.难处理的, 难控制的	
+4994	remodel	1	['ri:'mɔdl]	vt.重新塑造, 改造	
+4995	adequately	1	['ædikwitli]	ad.充分地,适当地	
+4996	unproductive	1	['ʌnprə'dʌktiv]	a.不生产的, 徒劳的	
+4997	unnoticeable	1	['ʌn'nəutisəbl]	a.不引人注意的	
+4998	irreparable	1	[I'repərəbəl]	a.无法修复的,不能挽回的	
+4999	negotiation	1	[ni͵ɡəu∫i'ei∫ən]	n.商议, 谈判	
+5000	homeless	1	['həʊmlɪs]	a.无家的, 无家可归的	
+5001	mystify	1	['mistifai]	v.迷惑,使神秘化	
+5002	clumsy	1	['klʌmzi]	a.笨拙的,笨重的	
+5003	Shakespeare	1	[ʃeikspir]	n.莎士比亚(1564-1616,英国剧作家,诗人)	
+5004	helpless	1	['helplis]	a.无助的,没用的	
+5005	rebellious	1	[ri'beljəs]	a.反抗的,难控制的,叛逆的	
+5006	sufficiency	1	[sə'fi∫ənsi]	n.充足,充裕	
+5007	timid	1	['timid]	a.胆小的, 羞怯的	
+5008	industrious	1	[in’dʌstriəs]	a.勤劳的, 勤奋的	
+5009	irony	1	['aiərəni]	n.反话, 讽刺	
+5010	cheerless	1	['t∫ɪəlɪs]	a.不快活的	
+5011	grip	1	[ɡrip]	vt.握紧,抓牢.n.控制	
+5012	innocence	1	['inəsns]	n.清白,天真无邪	
+5013	cardinal	1	['kɑ:dinəl]	.a.主要的, 最重要的.n.基数	
+5014	willingly	1	['wiliŋli]	ad.自动地, 欣然地	
+5015	seduce	1	[si'dju:s]	vt.勾引,引诱,怂恿	
+5016	solitude	1	['sɔlitju:d]	n.孤独,隐居,荒僻的地方	
+5017	displacement	1	[dis'pleismənt]	n.移置, 转移, 取代	
+5018	gentleman	1	['dӡentlmən]	n.阁下, 先生,有教养的人	
+5019	unobservable	1	['ʌnəb'zə:vəbl]	a.不可见的	
+5020	nonessential	1	['nɔni'sen∫əl]	a.非本质的 ,非必需的	
+5021	arrest	1	[ə'rest]	vt.逮捕, 拘留 ,吸引	
+5022	vague	1	[veig]	a.含糊的,不明确的	
+5023	brutal	1	['bru:tl]	a.残忍的, 兽性的	
+5024	avalanche	1	['ævə͵lɑ:n∫]	n./v.雪崩	
+5025	monarchy	1	['mɔnəki]	n.君主政体, 君主国	
+5026	dubious	1	['dju:bjəs]	a.可疑的, 不确定的	
+5027	lush	1	[lʌ∫]	a.茂盛的, 丰富的	
+5028	purposefully	1	['pə:pəsfuli]	ad.有目的地, 蓄意地	
+5029	dislodge	1	[dis'lɔdӡ]	v.驱逐,逐出,离开原位	
+5030	imminent	1	['iminənt]	a.逼近的, 即将发生的	
+5031	proficiently	1	[prə'fiʃəntli]	ad.熟练地	
+5032	locomotor	1	[͵ləukə'məutə]	a.运动的	
+5033	extravagantly	1	[ik'strævəgəntli]	ad.挥霍无度地	
+5034	intimidate	1	[in'timideit]	v.胁迫,恐吓,威胁	
+5035	serviceable	1	['sə:visəbl]	a.有用地,耐用的	
+5036	deceptive	1	[di'septiv]	a.骗人的,造成假象的	
+5037	humiliate	1	[hju(:)'milieit]	v.羞辱, 使丢脸	
+5038	incapable	1	[in'keipəbl]	a.无能力的,不胜任的	
+5039	asleep	1	[ə'sli:p]	a.睡着的	
+5040	lash	1	[læ∫]	n./.v.鞭打	
+5041	offensive	1	[ə'fensiv]	a.冒犯的, 无礼的,攻击性的	
+5042	midst	1	['midst]	n.中部,中间	
+5043	vigor	1	['viɡə]	n.精力, 活力	
+5044	singular	1	['siŋɡjulə]	n.单数 .a.单一的	
+5045	parliament	1	['pɑ:ləmənt]	n.国会, 议会	
+5046	promptly	1	['prɔmptlɪ]	ad.敏捷地, 迅速地	
+5047	courage	1	['kʌridӡ]	n.勇气, 精神	
+5048	outright	1	['aut'rait]	a.直率的, 彻底的 .ad.直率地, 彻底地	
+5049	fragrance	1	['freɪɡrəns]	n.芬芳, 香气	
+5050	eventual	1	[i'ventjuəl]	a.最后的, 结局的	
+5051	omnipotent	1	[ɔm'nipətənt]	a.全能的, 无所不能的	
+5052	enrichment	1	[in'rit∫mənt]	n.发财致富, 丰富, 肥沃	
+5053	coincidence	1	[kəu'insidəns]	n.一致, 同时发生或存在(尤指偶然)的事	
+5054	advice	1	[əd'vais]	n.忠告, 建议	
+5055	rationale	1	[͵ræ∫ə'nɑ:li]	n.基本原理	
+5056	curly	1	['kə:li]	a.卷曲的, 弯曲的, (木材)有皱状纹理的	
+5057	aromatic	1	[͵ærəu'mætik]	a.芬芳的	
+5058	pollinate	1	['pɔlineit]	vt.对...授粉	
+5059	gorgeous	1	['ɡɔ:dӡəs]	a.华丽的, 灿烂的,极好的	
+5060	tame	1	[teim]	a.(指动物)驯服的,平淡的 .v.驯养, 驯服	
+5061	loathsome	1	['ləuðsəm]	a.讨厌的	
+5062	ambience	1	['æmbiəns]	n.周围环境, 气氛,布景	
+5063	adjoin	1	[ə'dӡɔin]	v.邻接, 毗连	
+5064	fullness	1	['fulnis]	n.满, 丰富, 成熟	
+5065	recoil	1	[ri'kɔil]	n.畏缩, 弹回 .vi.退却, 畏缩,报应	
+5066	forgiveness	1	[fə'ɡɪvnɪs]	n.宽恕, 宽仁之心	
+5067	unoccupied	1	[,ʌn'ɔkjupaid]	a.空闲的,未占领的	
+5068	vacant	1	['veikənt]	a.空的, 头脑空虚的,空缺的	
+5069	juvenile	1	['dӡu:vinail]	a.青少年的 .n.青少年, 少年读物	
+5070	jumble	1	['dӡʌmbl]	v.混杂, 搞乱 n.混乱	
+5071	insurmountable	1	[,insə'mauntəbl]	a.不能克服的,不能超越的	
+5072	stormy	1	['stɔ:mi]	a.暴风雨的, 激烈的, 暴怒的	
+5073	humility	1	[hju（:）'miləti]	n.谦卑	
+5074	torrential	1	[tɔ'renʃəl]	a.猛烈的,汹涌的	
+5075	competitiveness	1	[kəm'petitivnis]	n.竞争力,好竞争	
+5076	civility	1	[sə'viləti]	n.礼貌, 端庄	
+5077	violence	1	['vaiələns]	n.猛烈, 暴力, 暴虐	
+5078	regenerate	1	[ri'dӡenərit]	v.使新生, 重建.a.新生的, 更新的	
+5079	inanity	1	[i'nænəti]	n.空虚, 愚蠢,空洞的言行	
+5080	absurd	1	[əb'sə:d]	a.荒谬的, 可笑的	
+5081	complacence	1	[kəm'pleisns	n.自满,满意	
+5082	pleasantly	1	['plezntli]	ad.令人愉快地,舒适地	
+5083	humanist	1	[`hju:mənɪst]	n.人道主义者, 人文主义者	
+5084	nominate	1	['nɔmineit]	vt.(cid:6656)名, 推荐	
+5085	distinctively	1	[dis'tiŋktivli]	ad/ 区别地, 特殊地	
+5086	irreverence	1	[i'revərəns]	n.不敬,非礼	
+5087	irreverent	1	[i'revərənt]	a.不敬的,  无礼的	
+5088	elusive	1	[i'lu:siv]	a.难懂的, 难捉摸的,逃避的	
+5089	miraculous	1	[mi'rækjuləs]	a.奇迹的,不可思议的	
+5090	vagueness	1	[`veɪɡnɪs]	n.暧昧, 含糊	
+5091	convivial	1	[kən'viviəl]	a.好交际的, 愉快而随和的	
+5092	urgency	1	['ə:dӡənsi]	n.紧急, 紧急的事	
+5093	unpromising	1	['ʌn'prɔmisiŋ]	a.没有希望的(结果未必良好的)	
+5094	luminous	1	['lu:minəs]	a.发光的,清楚的,明白易懂的	
+5095	specification	1	[͵spesifi'kei∫ən]	n.详述, 规格	
+5096	rationally	1	['ræʃənəli]	ad.理性地	
+5097	prominence	1	['prɔmɪnəns]	n.突出, 显著,声望	
+5098	persuasion	1	[pə(:)'sweiӡən]	n.说服, 说服力	
+5099	fantastic	1	[fæn'tæstik]	a.幻想的, 奇异的,极好的	
+5100	intimately	1	['intimitli]	ad.密切地,亲密地,私下地	
+5101	explosively	1	[ik'spləusivli]	ad.爆发地, 引起爆炸地	
+5102	bitter	1	['bitə]	a.苦的, 痛苦的,辛酸的	
+5103	fascination	1	[fæsɪ'neɪ∫(ə)n]	n.魔力,  魅力, 迷恋	
+5104	rectangle	1	['rektæŋɡl]	n.长方形, 矩形	
+5105	aloud	1	[ə'laud]	ad.大声地	
+5106	profitability	1	[͵prɔfitə'biləti]	n.收益性, 利益率	
+5107	communally	1	[kə'mjunəli]	ad.共同地, 社区地	
+5108	rooster	1	['ru:stə]	n.雄禽,公鸡	
+5109	sociably	1	['səuʃəbli]	ad.和蔼可亲地,善于应酬地	
+5110	geometrical	1	[dʒiə'metrikəl]	a.几何学的,  几何的	
+5111	awake	1	[ə'weik]	v.醒,唤醒.a.警觉的, 醒的	
+5112	radiate	1	['reidieit]	v.放射, 辐射,流露	
+5113	obsolete	1	['ɔbsəli:t]	a.已废弃的, 过时的	
+5114	agility	1	[ə'dʒiləti]	n.敏捷, 活泼,机敏	
+5115	delightful	1	[di'laitfəl]	a.令人愉快的,  可喜的	
+5116	festive	1	['festiv]	a.庆祝的, 喜庆的	
+5117	zealous	1	['zeləs]	a.热心的,热衷的	
+5118	thorny	1	['θɔ:ni]	a.多刺的, 痛苦的	
+5119	indifference	1	[ɪn'dɪfrəns]	n.不关心,无兴趣	
+5120	attributable	1	[ə'tribjutəbl]	a.可归因于 ... 的	
+5121	predominance	1	[prɪ`dɔmɪnəns]	n.优势,卓越	
+5122	inflexible	1	[in'fleksəbəl]	a.不可弯曲的, 僵硬的	
+5123	inexplicable	1	[,inik'splikəbl]	a.无法解释的,难理解的	
+5124	restrictive	1	[ris'triktiv]	a.限制性的.n.限定词	
+5125	hesitate	1	['heziteit]	v.犹豫, 踌躇	
+5126	memorandum	1	[͵memə'rændəm]	n.备忘录, 便笺	
+5127	obligate	1	['ɔbliɡeit]	vt.使负义务.a.有责任的	
+5128	forbearance	1	[fɔ:'bεərəns]	n.自制,忍耐,宽容	
+5129	romanticize	1	[rə'mæntisaiz]	v.浪漫化, 传奇化	
+5130	misconception	1	['miskən'sep∫ən]	n.误解	
+5131	conviction	1	[kən'vik∫ən]	n.深信,  定罪	
+5132	mighty	1	['maiti]	n.有势力的人.a.有势力的,强大的	
+5133	adventure	1	[əd'vent∫ə]	n.冒险.v.冒险,大胆说出来	
+5134	promoter	1	[prə'məutə]	n.促进者, 助长者,催化剂	
+5135	acceleration	1	[æk͵selə'rei∫ən]	n.加速度,加速,促进	
+5136	traction	1	['træk∫ən]	n.牵引,牵引力	
+5137	utter	1	['ʌtə]	a.全然的, 绝对的.vt.说, 发射	
+5138	standpoint	1	['stændpɔɪnt]	n.立场, 观点	
+5139	soul	1	[səul]	n.灵魂, 精髓	
+5140	irrational	1	[i'ræ∫ənəl]	a.无理性的, 失去理性的.n.无理数	
+5141	cherish	1	['t∫eri∫]	vt.珍爱, 怀抱(希望等)	
+5142	improbable	1	[im'prɔbəbl]	a.不大可能的, 不像会发生的, 似不可信的	
+5143	negligibly	1	['neglidʒəbli]	ad.可忽略不计地, 微不足道地, 极小地	
+5144	abut	1	[ə'bʌt]	v.邻接, 毗邻	
+5145	captivate	1	['kæptiveit]	vt.迷住, 迷惑	
+5146	purplish	1	[`pз:plɪ∫]	a.略带紫色的	
+5147	venerable	1	['venərəbl]	a.值得尊敬的, 庄严的	
+5148	gentility	1	[dʒen'tiləti]	n.文雅, 出身高贵, 有教养	
+5149	plasticity	1	[plæs'tisiti]	n.可塑性, 塑性,适应性,柔软性	
+5150	carpet	1	['kɑ:pit]	n.地毯	
+5151	adolescent	1	[͵ædəu'lesnt]	a.青春期的.n.青少年	
+5152	mandatory	1	['mændətəri]	a.命令的, 托管的,法定的	
+5153	offering	1	['ɔfəriŋ]	n.(cid:6656)供, 奉献物	
+5154	circulatory	1	[ 'sə:kjələ.təuri]	a.循环的, 循环系统的	
+5155	variance	1	['vεəriəns]	n.不一致, 变化,	
+5156	affiliate	1	[ə'filieit]	v.使隶属于,发生联系.n.附属机构	
+5157	demerit	1	[di'merit]	n.缺点,过失,短处	
+5158	inferiority	1	[in,firi'ɔrəti]	n.自卑, 次等	
+5159	potentiality	1	[pə͵ten∫i'æliti]	n.(用复数)潜能,可能性,潜力	
+5160	applicability	1	[,æplɪkə`bɪlətɪ]	n.适用性, 适应性	
+5161	glossy	1	['ɡlɔsi]	a.平滑的, 有光泽的	
+5162	relevance	1	['reləvəns]	n.中肯, 适当,关联	
+5163	unfertilized	1	['ʌn'fə:tilaizd]	a.未施肥的,  未受精的	
+5164	veil	1	[veil]	n.面纱.v.遮蔽, 掩饰	
+5165	uncontested	1	['ʌnkən'testid]	a.无争论的, 无异议的,无竞争的	
+5166	courageous	1	[kə'reidʒəs]	a.勇敢的,有胆量的	
+5167	unrecognizable	1	['ʌn'rekəgnaizəbl]	a.未被承认的, 无法识别的	
+5168	unreachable	1	['ʌn'ritʃəbl]	a.不能到达的,  不能得到的	
+5169	stew	1	[stju:]	v.炖, 焖	
+5170	prudent	1	['pru:dənt]	a.审慎的,小心谨慎的,精明的	
+5171	desperate	1	['despərit]	a.不顾一切的, 极其想要的, 令人绝望的	
+5172	bid	1	[bid]	vt.出价, 投标.n.投标,企图	
+5173	outfit	1	['autfit]	n.用具, 全套装配,.vt.配备, 装备	
+5174	utmost	1	['ʌtməust]	n.极限, 最大可能.a.极度的, 最远的	
+5175	stylish	1	['staili∫]	a.时髦的, 漂亮的, 流行的	
+5176	oblivious	1	[ə'bliviəs]	a.没注意到, 健忘的	
+5177	locomote	1	[͵ləukə'məut]	vi.移动, 行动	
+5178	inadequately	1	[in'ædəkwitli]	ad.不够地,  不够好	
+5179	stillness	1	['stɪlnɪs]	n.静止, 沉静	
+5180	comical	1	['kɔmikəl]	a.好笑的, 滑稽的	
+5181	bleak	1	[bli:k]	a.寒冷的,荒凉的, 黯淡的	
+5182	abreast	1	[ə'brest]	ad.并肩地, 并排地	
+5183	prevention	1	[pri'ven∫ən]	n.预防, 防止	
+5184	unsophisticated	1	[ʌnsə'fisti.keitid]	a.不谙世故的,单纯的, 不复杂的	
+5185	unspoiled	1	[ʌn'spɔild]	a.未损坏的, 未宠坏的	
+5186	hospitable	1	['hɔspitəbl]	a.好客的, 宜人的	
+5187	depredation	1	[deprɪ'deɪ∫(ə)n]	n.掠夺, 破坏痕迹	
+5188	nostalgia	1	[nɔs'tældӡiə]	n.乡愁, 怀旧之情	
+5189	adolescence	1	[,ædəʊ`lesəns]	n.青春期	
+5190	narrowly	1	['nærəuli]	ad.勉强地, 精细地,狭窄地	
+5191	proficiency	1	[prə'fi∫ənsi]	n.熟练, 精通, 熟练程度	
+5192	sociology	1	[͵səusi'ɔlədӡi]	n.社会学	
+5193	flair	1	[flεə]	n.才能, 本领	
+5194	potion	1	['pəu∫ən]	n.一服, 一剂	
+5195	inextricably	1	[in'ekstrikəbli]	ad.分不开地, 无法摆脱地	
+5196	imprecise	1	[ ͵impri'saiz]	a.不精确的	
+5197	alternately	1	['ɔ:ltənitli]	ad.交替地,轮流地	
+5198	obligation	1	[͵ɔblə'geiʃən]	n.义务, 职责, 债务	
+5199	fanatical	1	[ fə'nætəkəl]	a.狂热的, 入迷的	
+5200	coax	1	[kəuks]	vt.巧妙地（耐心地）处理,哄,诱骗	
+5201	coordination	1	[kəu͵ɔ:di'nei∫ən]	n.协调	

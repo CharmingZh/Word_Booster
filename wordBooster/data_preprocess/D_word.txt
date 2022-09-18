@@ -1,0 +1,1664 @@
+2246	shed	10	[∫ed]	vt.脱落,流出.n.棚屋	
+2247	spectator	10	['spekteitə]	n.观众(指比赛或表演),旁观者	
+2248	partly	10	['pɑ:tlɪ]	ad.在一定程度上,部分地	
+2249	thrust	10	[θrʌst]	v.推,插,刺.n.要旨	
+2250	delay	10	[di'lei]	v./n.耽搁, 延迟	
+2251	don	10	[dɔn]	n.先生,阁下,指导教师	
+2252	novelty	10	['nɔvəlti]	n.新颖, 新奇事物	
+2253	bend	10	[bend]	v.弯曲,屈服.n.弯曲(处)	
+2254	duration	10	[djuə'rei∫ən]	n.持续时间	
+2255	everyone	10	['evriwʌn]	pron.每个人	
+2256	segment	10	['seɡmənt]	n.段, 节	
+2257	compaction	10	[kəm'pæk∫ən]	n.压紧,紧束之状态	
+2258	carpenter	10	['kɑ:pintə]	n.木匠	
+2259	assistant	10	[ə`sɪstənt]	n.助手, 助教	
+2260	tape	10	[teip,tep]	n.带子, 磁带	
+2261	disaster	10	[di'zɑ:stə]	n.灾难,彻底的失败	
+2262	astonish	10	[əs'tɔni∫]	vt.使惊讶	
+2263	adaptive	10	[ə'dæptiv]	a.适合的, 适应的	
+2264	liberal	10	['libərəl]	n.自由主义者.a.慷慨的	
+2265	perfectly	10	['pз:fɪktlɪ]	ad.理想地,完美地	
+2266	manage	10	['mænidӡ]	v.管理,经营,处理	
+2267	hair	10	[hεə]	n.头发, 毛发	
+2268	admission	10	[əd'mi∫ən]	n.允许进入, 承认, 许可	
+2269	manufacturer	10	[͵mænju'fækt∫ərə]	n.制造业者, 厂商	
+2270	census	10	['sensəs]	n.人口普查	
+2271	Seattle	10	[si'ætl]	n.西雅图	
+2272	altogether	10	[͵ɔ:ltə'ɡeðə]	a.完全地, 总而言之,总共	
+2273	spectacular	10	[spek'tækjulə]	a.引人入胜的, 壮观的	
+2274	mathematician	10	[͵mæθimə'ti∫ən]	n.数学家	
+2275	beam	10	[bi:m]	n.梁, 桁条.vi.面露喜色.vt.播送	
+2276	cosmic	10	['kɔzmik]	a.宇宙的	
+2277	underwater	10	['ʌndə'wɔ:tə]	a.水下的,在水中生长的	
+2278	superiority	10	[sju(:)piəri'ɔriti]	n.优越, 高傲	
+2279	horizontal	10	[͵hɔri'zɔntl]	a.地平线的, 水平的	
+2280	breath	10	[breθ]	n.呼吸, 气息,微风	
+2281	compensate	10	['kɔmpənseit]	v.偿还, 补偿,抵消	
+2282	acceptance	10	[ək'septəns]	n.接受,接纳	
+2283	naturalistic	10	[.nætʃrə'listik]	a.自然的, 自然主义的	
+2284	cenozoic	10	[͵si:nə'zəuik]	n.新生代,新生代之岩层.a.新生界的	
+2285	plantation	10	[plæn'tei∫ən]	n.种植园,人工林	
+2286	propulsion	10	[prə'pʌl∫ən]	n.推进(力)	
+2287	brilliant	10	['briljənt]	a.光辉的,卓越的,杰出的	
+2288	chamber	10	['t∫eimbə]	n.室, 会议厅	
+2289	parallel	10	['pærəlel]	n.相似处,平行线.a.平行的,类似的	
+2290	drastically	10	['dræstikəli]	ad.大幅度地, 彻底地	
+2291	tomb	10	[tu:m]	n.坟墓	
+2292	obstacle	10	['ɔbstəkl]	n.障碍, 妨害物	
+2293	Italy	10	['itəli]	n.意大利(欧洲南部国家)	
+2294	subtle	10	['sʌtl]	a.微妙的,诡秘的,精细的	
+2295	trolley	10	['trɔlɪ]	n.电车	
+2296	totally	10	['tɔt(ə)lɪ]	ad.完全地, 整全地	
+2297	fulfill	10	[ful'fil]	vt.履行,实现	
+2298	distort	10	[dis'tɔ:t]	v.歪曲, 扭曲,变形	
+2299	narrative	10	['nærətiv]	n.故事,叙述.a.叙述的	
+2300	reasonable	10	['ri:znəbl]	a.合理的,通情达理的	
+2301	consideration	10	[kənsidə'rei∫ən]	n.考虑, 体贴,报酬	
+2302	wilderness	10	['wildənis]	n.荒野	
+2303	fur	10	[fə:]	n.毛皮	
+2304	woodcut	10	['wʊdkʌt]	n.木刻	
+2305	extraordinary	10	[ik'strɔ:rdəneri]	a.非凡的, 特别的	
+2306	delta	10	['deltə]	n.三角州	
+2307	putrefy	10	['pju:trifai]	v.(使)化脓, (使)腐烂	
+2308	postulate	10	['pɔstjuleit]	vt.要求, 假定.n.基本条件,公理	
+2309	trip	10	[trip]	n.旅行,旅游.v.绊倒,犯错	
+2310	resistant	10	[ri'zistənt]	a.抵抗的, 有抵抗力的	
+2311	peculiar	10	[pi'kju:ljə]	a.奇怪的, 特殊的, 独特的	
+2312	preparation	10	[͵prepə'rei∫ən]	n.准备,预备	
+2313	gray	10	[ɡrei]	a.灰色的, 暗淡的,阴沉的	
+2314	regiment	10	['redӡimənt]	n.(军队的)团,大量.vt.严格地管制	
+2315	bury	10	['beri]	vt.埋葬, 掩埋	
+2316	procedure	10	[prə'si:dӡə]	n.程序, 手续	
+2317	thank	10	[θæŋk]	vt.感谢	
+2318	conquest	10	['kɔŋkwest]	n.征服,战利品	
+2319	workshop	10	['wə:k∫ɔp]	n.车间, 工场,研讨会,讲习班	
+2320	replacement	10	[ri'pleismənt]	n.代替,更换	
+2321	wonder	10	['wʌndə]	n./v.惊奇, 想知道,	
+2322	slide	10	[slaid]	v./n.滑动,下滑	
+2323	deplete	10	[di'pli:t]	vt.耗尽, 使衰竭	
+2324	toddler	10	['tɔdlə]	n.初学走路的孩子	
+2325	opponent	10	[ə'pəunənt]	a.对立的.n.对手	
+2326	carrier	10	['kæriə]	n.运送者, 载体	
+2327	soda	10	['səudə]	n.苏打, 碳酸水	
+2328	remind	10	[ri'maind]	vt.(cid:6656)醒, 使想起	
+2329	reproductive	10	['ri:prə'dʌktiv]	a.生殖的,再生的,复制的	
+2330	troop	10	[tru:p]	n.[ pl.]军队,一群	
+2331	small-scale	10	['smɔ:l'skeil]	a.小比例的,小规模的
+2332	educational	10	[͵edju(:)'kei∫ənl]	a.教育(上)的	
+2333	zigzag	10	['ziɡzæɡ]	n.Z字形, 锯齿形	
+2334	genetically	10	[dʒe'netikəli]	ad.遗传(基因)方面	
+2335	shortage	10	['∫ɔ:tidӡ]	n.不足, 缺乏	
+2336	himself	10	[him'self]	pron.他自己	
+2337	occasion	10	[ə'keiӡən]	n.场合,时机	
+2338	symptom	10	['simptəm]	n.症状, 征兆	
+2339	render	10	['rendə]	vt.使得,(cid:6656)供,(cid:6656)供,翻译	
+2340	robin	10	['rɔbin]	n.知更鸟	
+2341	monitor	10	['mɔnitə]	vt.监听(视,测).n.检测器	
+2342	psychologist	10	[saɪ`kɔlədӡɪst]	n.心理学者	
+2343	tourist	10	['tuərist]	n.旅行者	
+2344	vigorous	10	['vigərəs]	a.精力充沛的,有力的	
+2345	elliptical	10	[i'liptikəl]	a.椭圆的,省略的	
+2346	hop	10	[hɔp]	n./v.跳跃, 单脚跳	
+2347	worksheet	10	[wə:kʃi:t]	n.工作记录表	
+2348	circulation	10	[͵sə:kju'lei∫ən]	n.循环,流通,发行额	
+2349	broadcast	10	['brɔ:dkɑ:st]	n./v.广播, 播音	
+2350	sphere	10	[sfiə]	n.球, 范围	
+2351	seabed	10	['si:bed]	n.海底, 海床	
+2352	multiply	10	['mʌltiplai]	v.繁殖, 乘	
+2353	angiosperm	10	['ændӡiəu͵spə:m]	n.被子植物	
+2354	inclination	10	[͵inkli'nei∫ən]	n.倾斜, 弯曲,倾向, 意愿	
+2355	bud	10	[bʌd]	n.芽.vi.发芽	
+2356	circadian	10	[sə:'keidiən]	a.昼夜节律的,生理节奏的	
+2357	seaway	10	['si:weɪ]	n.海上航道	
+2358	congress	10	['kɔŋɡres]	n.(美国等国的)国会,议会	
+2359	oversea	10	['əuvə'si:]	a.外国的, 海外的	
+2360	moth	10	[mɔθ]	n.蛾, 蛀虫	
+2361	honor	10	['ɔnə]	n./v.尊敬	
+2362	frighten	10	['fraitn]	v.使惊吓 ,惊恐	
+2363	zoologist	10	[zəu'ɔlədӡist]	n.动物学家	
+2364	library	10	['laibrəri]	n.图书馆	
+2365	decomposition	10	[͵di:kɔmpə'zi∫ən]	n.分解, 腐烂,变质	
+2366	catalog	10	['kætəlɔɡ]	n.目录.v.编目录	
+2367	door	10	[dɔ:,dɔə]	n.门,出入口	
+2368	observer	10	[əb'zə:və]	n.观测者, 观察员	
+2369	flock	10	[flɔk]	n.羊群.vi.聚集,成群	
+2370	volunteer	10	[vɔlən'tɪə(r)]	n.志愿者,vt.自愿(做,(cid:6656)供).vi.自愿	
+2371	wetland	10	['wetlænd]	n.潮湿的土壤, 沼泽地	
+2372	harsh	10	[hɑ:∫]	a.粗糙的,严厉的	
+2373	coma	10	['kəumə]	n.昏迷	
+2374	fabric	10	['fæbrik]	n.结构, 织物, 构造	
+2375	cooler	10	['ku:lə]	n.冷却器	
+2376	participant	10	[pɑ:'tisipənt]	n.参与者	
+2377	advent	10	['ædvənt]	n.出现,到来	
+2378	soften	10	['sɔ(:)fn]	v.(使)变柔软,(使)变柔和	
+2379	synthetic	10	[sin'θetic]	a.合成的, 综合的,人造的	
+2380	exposure	10	[ik'spəuʒə]	n.暴露, 揭露	
+2381	digestive	10	[di'dӡestiv,dai-]	a.消化的	
+2382	northeast	10	['nɔ:θ'i:st]	n./a.东北(的)	
+2383	constituent	10	[kən'stitjuənt]	n.选民,成分.a.组成的,构成的	
+2384	sketch	10	[sket∫]	n.略图.v.素(cid:6655),概述	
+2385	embryo	10	['embriəu]	n.胚胎	
+2386	magnify	10	['mæɡnifai]	vt.放大, 扩大	
+2387	metropolitan	10	[metrə'pɔlɪt(ə)n]	a.大城市的,大都会的	
+2388	notably	10	['nəʊtbəlɪ]	ad.显著地,著名地,尤其	
+2389	loan	10	[ləun]	n.贷款.vt.借出,贷给	
+2390	nonetheless	10	[͵nʌnðə'les]	ad.虽然如此,但是	
+2391	hinterland	10	['hintəlænd]	n.内地, 穷乡僻壤	
+2392	mechanize	10	['mekənaiz]	v.机械化	
+2393	finch	10	[fint∫]	n.雀类	
+2394	morning	10	['mɔ:niŋ]	n.早晨, 上午	
+2395	tin	10	[tin]	n.锡	
+2396	moss	10	[mɔs]	n.苔, 藓	
+2397	couple	10	['kʌpl]	n.夫妇.v.结合	
+2398	willing	10	['wiliŋ]	a.乐意的, 自愿的	
+2399	patch	10	[pæt∫]	n.补丁.vt.补,修补	
+2400	devote	10	[di'vəut]	vt.投入于, 献身,奉献,致力于	
+2401	noticeable	10	['nəutisəbl]	a.显而易见的	
+2402	mad	10	[mæd]	a.疯狂的,狂热的	
+2403	spirit	10	['spirit]	n.精神, 灵魂	
+2404	lunar	10	['lju:nə]	a.月亮的	
+2405	presidency	10	['prezidənsi]	n.总统的职位(任期)	
+2406	viewer	10	['vju:ə]	n.电视观众,阅读器	
+2407	horizon	10	[hə'raizn]	n.地平(线),[pl.]眼界,见识	
+2408	academic	10	[͵ækə'demik]	a.学院的, 理论的	
+2409	fin	10	[fin]	n.鳍, 鱼翅	
+2410	stamp	10	[stæmp]	n.邮票,图章.v.跺脚,盖章	
+2411	subtractive	10	[səb'træktiv]	a.减去的,负的,有负号的	
+2412	motivate	10	['məutiveit]	v.激发	
+2413	undoubtedly	10	[ʌn'daʊtɪdlɪ]	ad.无庸置疑地,的确地	
+2414	granite	9	['ɡrænit]	n.花岗岩	
+2415	quilt	9	[kwilt]	n.被子.v.缝被,缝制	
+2416	suppose	9	[sə'pəuz]	vt.推想, 假设,认为	
+2417	campaign	9	[kæm'pein]	n.运动,战役.vi.发起运动
+2418	mandan	9	['mændæn]	n.曼丹人, 曼丹语	
+2419	invisible	9	[in'vizəbl]	a.看不见的, 无形的	
+2420	neutron	9	['nju:trɔn]	n.中子	
+2421	dwell	9	[dwel]	vi.居住,存在于	
+2422	ward	9	[wɔ:d]	n.病房,受监护人	
+2423	moderate	9	['ma:dərət ]	a.中等的, 适度的	
+2424	territorial	9	[͵teri'tɔ:riəl]	a.领土的,土地的,区域的	
+2425	predominate	9	[pri'dɔmineit]	v.占优势, 支配	
+2426	inform	9	[in'fɔ:m]	v.通知, 告诉,报告	
+2427	chiefly	9	['t∫i:fli]	ad.首要,主要地	
+2428	champion	9	['t∫æmpjən]	n.拥护者.vt 拥护, 支持	
+2429	craftspeople	9	['krɑ:ftspi:pəl]	n.工匠, 手艺人	
+2430	likewise	9	['laikwaiz]	ad.同样地, 此外	
+2431	intelligence	9	[in'telidӡəns]	n.智力, 聪明,理解力,情报	
+2432	single-celled	9	['siŋglseld]	a.单细胞的	
+2433	visitor	9	['vizitə]	n.访问者, 来宾	
+2434	unskilled	9	[.ʌn'skild]	a.不熟练的,拙劣的	
+2435	progressively	9	[prə'gresivli]	ad.日益增多地	
+2436	thickness	9	['θiknis]	n.厚度, 浓度, 稠密	
+2437	high-speed	9	[hai'spi:d]	a.高速的	
+2438	graphic	9	['ɡræfik]	a.绘画似的, 图解的	
+2439	analogy	9	[ə'nælədӡi]	n.类似, 类推	
+2440	sure	9	[∫uə]	a.对....有把握 ad.的确, 当然	
+2441	wrap	9	[ræp]	vt.包,裹.n.披肩,围巾	
+2442	inability	9	[inə'biliti]	n.无能, 无力	
+2443	jump	9	[dӡʌmp]	n./v.跳跃	
+2444	consciousness	9	['kɔn∫əsnis]	n.意识,觉悟,知觉	
+2445	reindeer	9	['reindiə]	n.驯鹿	
+2446	oxide	9	['ɔksaid]	n.氧化物	
+2447	kingdom	9	['kiŋdəm]	n.王国	
+2448	compression	9	[kəm'pre∫(ə)n]	n.浓缩, 压缩	
+2449	slush	9	[slʌ∫]	n.烂泥 v.溅湿	
+2450	hurt	9	[hə:t]	v.伤害.n.痛苦	
+2451	seldom	9	['seldəm]	ad.很少, 不常	
+2452	repression	9	[ri'pre∫ən]	n.镇压, 抑制	
+2453	recovery	9	[ri'kʌvəri]	n.恢复, 痊愈	
+2454	father	9	['fɑ:ðə]	n.父亲,祖先vt.发明,创立	
+2455	voyager	9	[`vɔɪɪdӡə(r)]	n.航行者, 航海者	
+2456	horn	9	[hɔ:n]	n.触角.v.强行介入	
+2457	phonograph	9	['fəunəɡrɑ:f]	n.留声机, 电唱机	
+2458	accustom	9	[ə'kʌstəm]	vt.使习惯于	
+2459	extraction	9	[ik'strækʃən]	n.抽出,拔出	
+2460	literally	9	['litərəli]	ad.逐字地,正确地	
+2461	Italian	9	[i'tæljən]	n./a.意大利人(的), 意大利语（的）	
+2462	railway	9	['reilwei]	n.铁路	
+2463	wale	9	[weil]	n.条痕,选择	
+2464	accident	9	['æksidənt]	n.意外事件, 事故	
+2465	tongue	9	[tʌŋ]	n.舌头	
+2466	concur	9	[kən'kə:]	vi.同意,同时发生	
+2467	uncommon	9	['ʌn'kɔmən]	a.不凡的, 难得的	
+2468	simplification	9	[͵simplifi'kei∫ən]	n.简化	
+2469	chemically	9	['kemikəli]	ad.用化学, 以化学方法	
+2470	rotation	9	[rəu'tei∫ən]	n.旋转,交替	
+2471	peculiarity	9	[pi͵kju:li'æriti]	n.特性, 怪癖	
+2472	uncertain	9	[ʌn'sə:tən]	a.不确定的,不稳定的,	
+2473	fluke	9	[flu:k]	n.侥幸,偶然的机会	
+2474	basically	9	['beisikəli]	ad.基本上, 主要地	
+2475	circulate	9	['sə:kjuleit]	v.(使)循环,传播	
+2476	intricate	9	['intrikət]	a.复杂的,难懂的	
+2477	coarse	9	[kɔ:s]	a.粗糙的,粗俗的	
+2478	feedback	9	['fi:dbæk]	n.反馈, 反应,成果	
+2479	cure	9	[kjuə]	n./v.治愈, 治疗	
+2480	Norway	9	['nɔ:wei]	n.挪威(北欧国家)	
+2481	encouragement	9	[ɪn'kʌrɪdӡmənt]	n.鼓励, 奖励	
+2482	chew	9	[t∫u:]	v.咀爵,咬	
+2483	bombard	9	['bɔmbɑ:d]	vt.炮轰,轰击	
+2484	praise	9	[preiz]	v./n.赞扬,称赞	
+2485	editor	9	['editə]	n.编辑,编者	
+2486	venture	9	['vent∫ə]	n.风险投资.v.冒险,大胆表示,拿…冒险	
+2487	soluble	9	['sɔljubl]	a.可溶的, 可溶解的	
+2488	Oceania	9	[͵əu∫i'einiə]	n.大洋洲	
+2489	temporary	9	['tempərəri]	a.暂时的, 临时的,	
+2490	election	9	[ɪ'lek∫(ə)n]	n.选举	
+2491	backbone	9	['bækbəun]	n.脊梁骨,支柱	
+2492	medical	9	['medikəl]	a.医学的,医疗的	
+2493	orderly	9	['ɔ:dəli]	a.整齐的,有秩序的	
+2494	chemist	9	['kemist]	n.化学家, 药剂师	
+2495	trample	9	['træmpl]	v.践踏, 轻视,伤害	
+2496	mountainous	9	['mauntinəs]	a.多山的, 巨大的	
+2497	removal	9	[ri'mu:vəl]	n.除去,移动	
+2498	cascade	9	[kæs'keid]	n.小瀑布.v.瀑布似落下, （将...）连结	
+2499	reconstruction	9	['ri:kən'strʌk∫ən]	n.重建, 改造	
+2500	restless	9	['restlis]	a.得不到休息的, 不安宁的	
+2501	accordingly	9	[ə'kɔ:diŋli]	ad.因此, 相应地, 于是	
+2502	predominant	9	[pri'dɔminənt]	a.主要的,占优势的,支配的	
+2503	boil	9	[bɔil]	n.沸点.v.煮沸, 激动
+2504	saturn	9	['sætə(:)n]	n.土星	
+2505	groove	9	[ɡru:v]	n.沟,槽	
+2506	assert	9	[ə'sə:t]	v.断言, 声称,维护	
+2507	journeyman	9	['dӡз:nɪmən]	n.熟练工人	
+2508	long-lasting	9	['lɔ:ŋlɑ:stiŋ]	a.持续时间长的	
+2509	accessible	9	[æk'sesəbl]	a.可得到的,易接近的,可理解的	
+2510	dimension	9	[di'men∫ən]	n.尺寸, 尺度	
+2511	bacterial	9	[bæk'tiriəl]	a.细菌的	
+2512	medicine	9	['medsin,-disin]	n.内服药,医学	
+2513	homo	9	['həuməu]	n.人, 同性恋者	
+2514	nose	9	[nəuz]	n.鼻	
+2515	incubation	9	[͵inkju'bei∫ən]	n.孵化, 熟虑,潜伏期	
+2516	northeastern	9	[.nɔ:θ'i:stən]	a.东北方的, 在东北的	
+2517	waterway	9	['wɔ:təwei]	n.水路, 排水沟	
+2518	excavation	9	[͵ekskə'vei∫ən]	n.挖掘, 发掘	
+2519	fraction	9	['fræk∫ən]	n.小部分, 片断	
+2520	mutualism	9	['mju:tjuəlizəm]	n.互助论,互利共生	
+2521	bore	9	[bɔ:]	vt.使厌烦.n.令人讨厌的人(或事)	
+2522	left-handed	9	['left'hædid]	a.惯用左手的	
+2523	probe	9	[prəub]	vt.探查, 查明	
+2524	smoke	9	[sməuk]	.v.抽烟, 吸烟	
+2525	capillary	9	[kə'piləri]	n./a.毛细管,毛状的	
+2526	behavioral	9	[bi'heivjərəl]	a.行为的	
+2527	pleasant	9	['plezənt]	a.令人愉快的,舒适的	
+2528	thread	9	[θred]	n.线(索),思路.vt.穿(过),通过	
+2529	subsequently	9	['sʌbsɪkwəntlɪ]	a.其次,接着,随后	
+2530	intact	9	[in'tækt]	a.完好无缺的, 未经触碰的	
+2531	blacksmith	9	['blæksmɪθ]	n.锻工, 铁匠	
+2532	repair	9	[ri'pεə]	n.修理.vt.修理(补)	
+2533	electronic	9	[ɪlek'trɔnɪk]	a.电子的	
+2534	specify	9	['spesifai]	vt.指定, 详细说明	
+2535	besides	9	[bi'saidz]	prep.除 ... 之外.ad.此外, 也	
+2536	platform	9	['plætfɔ:m]	n.站台, 讲台	
+2537	surrounding	9	[sə'raundiŋ]	n.围绕物,环境.a.周围的	
+2538	tobacco	9	[tə'bækəu]	n.烟草(制品)	
+2539	rival	9	['raivəl]	v.竞争,对抗	
+2540	agreement	9	[ə'ɡri:mənt]	n.同意, 一致	
+2541	custom	9	['kʌstəm]	n.习惯, 风俗,	
+2542	costly	9	['kɔstli]	a.昂贵的,代价高的	
+2543	exert	9	[iɡ'zə:t]	v.尽(力),发挥	
+2544	director	9	[di'rektə,dai'rektə]	n.主管,导演	
+2545	gift	9	[ɡift]	n.赠品, 天赋	
+2546	repeatedly	9	[ri'pi:tidli]	ad.重复地, 再三地	
+2547	tentacle	9	['tentəkl]	n.(动物)触角	
+2548	fertility	9	[fə:'tiliti]	n.肥沃, 多产	
+2549	simplicity	9	[sim'plisiti]	n.简单, 朴素	
+2550	annually	9	['ænjʊəlɪ]	ad.每年,按年计算	
+2551	enthusiasm	9	[in'θju:ziæzəm]	n.热情, 热衷	
+2552	rear	9	[riə]	n./.a.后部(面,方)(的).vt.养,种	
+2553	attraction	9	[ə'træk∫ən]	n.吸引(力),具有吸引力的事物(或人)	
+2554	investigate	9	[in'vestigeit]	v.调查, 研究	
+2555	locally	9	['ləukəli]	ad.在本地, 地方性地, 局部地	
+2556	excessive	9	[ik'sesiv]	a.过多的,过分的,极度的	
+2557	adjustment	9	[ə'dӡʌstmənt]	n.调整, 调节	
+2558	figurative	9	['figjurətiv]	a.比喻的,借喻的	
+2559	inscription	9	[in'skrip∫ən]	n.题字, 碑铭	
+2560	appalachian	9	[æpə'leit∫iən]	a.阿帕拉契山脉的	
+2561	declaration	9	[͵deklə'rei∫ən]	n.宣布, 声明	
+2562	markedly	9	['mɑ:kidli]	ad.显著地,明显地	
+2563	attend	9	[ə'tend]	vt.出席, 参加,照料	
+2564	climb	9	[klaim]	v.攀登, 爬	
+2565	effectiveness	9	[i'fektivnis]	n.效力	
+2566	grant	9	[ɡrɑ:nt]	vt.授予,同意,准予	
+2567	optical	9	['ɔptikəl]	a.视觉的, 光学的	
+2568	overcast	9	['əuvəkɑ:st]	v.遮盖,变暗.n.覆盖, 阴天	
+2569	noisy	9	['nɔizi]	a.吵杂的, 聒噪的	
+2570	muscular	9	['mʌskjulə]	a.肌肉发达的,强壮的	
+2571	remarkably	9	[ri'mɑ:kəbli]	ad.非凡地,显著地	
+2572	team	9	[ti:m]	n.队, 组	
+2573	surpass	9	[sə:'pɑ:s]	vt.超越, 胜过	
+2574	institute	9	['institju:t]	n.学院.vt.建立,设立	
+2575	versus	9	['və:səs]	prep.  对抗, 与 ... 相对	
+2576	cheep	9	[t∫i:p]	n.吱吱的叫声 v.吱吱地叫	
+2577	predecessor	9	['pri:disesə]	n.前辈, 前任	
+2578	flora	9	['flɔ:rə]	n.[罗神]花神	
+2579	pollinator	9	[pɔli'neitə]	n.授花粉器	
+2580	descendant	9	[dɪ'send(ə)nt]	n.子孙, 后裔	
+2581	somehow	9	['sʌmhau]	ad.以(cid:7680)种方式,不知怎么地	
+2582	hall	9	[hɔ:l]	n.会堂, 大厅	
+2583	efficiently	9	[ɪ'fɪ∫əntlɪ]	ad.有效地,能胜任地,效率高地	
+2584	tightly	9	['taɪtlɪ]	ad.紧紧地, 坚固地	
+2585	medieval	9	[͵medi'i:vəl]	a.中世纪的	
+2586	jewelry	9	['dӡu:əlrɪ]	n.珠宝	
+2587	differently	9	['dɪfrentlɪ]	ad.不同地,有差别地	
+2588	church	9	[t∫ə:t∫]	n.教堂	
+2589	notion	9	['nəu∫ən]	n.概念,观念,想法
+2590	reshape	9	['ri:'∫eip]	vt.改造, 再成形	
+2591	pond	9	[pɔnd]	n.池塘	
+2592	metabolic	9	[.metə'bɔlik]	a.新陈代谢的	
+2593	methane	9	['meθein]	n.甲烷,沼气	
+2594	tar	9	[tɑ:]	n.焦油, (cid:7679)油	
+2595	fundamentally	9	[fʌndə'mentəlɪ]	ad.从根本上, 基本地	
+2596	unprecedented	9	[ʌn'presidentid]	a.空前的, 前所未有的	
+2597	conservative	9	[kən'sə:vətiv]	a.保守的,守旧的	
+2598	identity	8	[ai'dentəti]	n.一致, 身份, 特征	
+2599	expenditure	8	[iks'pendit∫ə,eks-]	n.支出, 花费	
+2600	cohesive	8	[kəu'hi:siv]	a.粘着的	
+2601	practically	8	['præktikəli]	ad.实际上,几乎,简直	
+2602	crew	8	[kru:]	n.全体人员	
+2603	circular	8	['sə:kjulə]	a.圆形的, 循环的	
+2604	forerunner	8	['fɔ:͵rʌnə]	n.先驱(者)	
+2605	alertness	8	[ə'lə:tnis]	n.警戒, 机敏	
+2606	invasion	8	[in'veiӡən]	n.入侵	
+2607	recurrence	8	[ri'kʌrəns]	n.复发, 重现	
+2608	hawk	8	[hɔ:k]	n.鹰	
+2609	predatory	8	['predətəri]	a.掠夺的,捕食生物的,食肉的	
+2610	complement	8	['kɔmplimənt]	n.补足物	
+2611	humid	8	['hju:mid]	a.充满潮湿的, 湿润的	
+2612	limb	8	[lim]	n.肢, 翼, 分支	
+2613	user	8	['ju:zə]	n.使用者	
+2614	sandy	8	['sændi]	a.沙的, 沙质	
+2615	literacy	8	['litərəsi]	n.有文化,有教养	
+2616	investigate	8	[in'vestiɡeit]	v.调查, 研究	
+2617	prosper	8	['prɔspə]	vi.兴旺,繁荣	
+2618	traditionally	8	[trə'diʃənəli]	ad.传统上, 照惯例	
+2619	plot	8	[plɔt]	n.小块土地,(小说的)情节vt.密谋	
+2620	meadow	8	['medəu]	n.草地, 牧场	
+2621	intelligent	8	[in'telidʒənt]	a.聪明的, 智能的	
+2622	comment	8	['kɔment]	n.评论,意见.vt.评论	
+2623	analogous	8	[ə'næləgəs]	a.类似的	
+2624	actress	8	['æktris]	n.女演员	
+2625	examination	8	[iɡ͵zæmi'nei∫ən]	n.考试, 检查, 细查	
+2626	council	8	['kaunsl]	n.委员会,理事会	
+2627	exogenous	8	[ek'sɔdʒinəs]	a.外生的,外界产生的	
+2628	informative	8	[in'fɔ:mətiv]	a.(cid:6656)供消息的, 情报的,见闻广博的	
+2629	ooze	8	[u:z]	n.软泥.v.渗出	
+2630	educator	8	[`edju:keɪtə(r)]	n.教育家	
+2631	radically	8	['rædikəli]	ad.根本地, 完全地	
+2632	republic	8	[ri'pʌblik]	n.共和国, 共和政体	
+2633	dwarf	8	[dwɔ:f]	n.矮子, 侏儒	
+2634	marriage	8	['mæridӡ]	n.结婚, 婚姻	
+2635	severely	8	[si'viəli]	ad.严格地, 激烈地	
+2636	propagate	8	['prɔpəɡeit]	v.繁(增)殖,传播	
+2637	confusion	8	[kən'fju:ӡən]	n.混乱, 混淆,困惑	
+2638	celebrate	8	['selibreit]	v.庆祝, 祝贺	
+2639	environmentalist	8	[in͵vaiərən'mentlist]	n.环境保护论者, 环境论者	
+2640	outstanding	8	[aut'stændiŋ]	a.优秀的, 突出的,	
+2641	horseshoe	8	['hɔ:∫∫u:,'hɔ:s∫u:]	n.马蹄铁	
+2642	probability	8	[͵prɔbə'biliti]	n.可能性	
+2643	specifically	8	[spi'sifikəli]	ad.特别地,明确地,具体地	
+2644	vote	8	[vəʊt]	n./v.投票	
+2645	susceptible	8	[sə'septəbl]	a.易受外界影响的,易受感染的	
+2646	envision	8	[in'viӡən]	v.想象,预想	
+2647	upside	8	['ʌpsaid]	n.上边,上部	
+2648	adept	8	['ædept,ə'dept]	a.熟练的, 老练的.n.老手, 擅长者	
+2649	ease	8	[i:z]	n.安逸v.缓和,解除	
+2650	capsize	8	[kæp'saiz]	v.(特指船)倾覆	
+2651	elicit	8	[i'lisit]	vt.得出, 引出, 抽出, 引起	
+2652	financier	8	[fai'nænsiə]	n.财政家, 金融家	
+2653	obscure	8	[əb'skjuə]	a.暗的.vt.使暗,使不明显	
+2654	turbulent	8	['tə:bjulənt]	a.狂暴的,动荡的	
+2655	simultaneously	8	[saɪməl'teɪnɪəsly]	ad.同时地	
+2656	rodent	8	['rəudənt]	n.啮齿类动物	
+2657	prose	8	[prəuz]	n.散文	
+2658	seafarer	8	['si:͵feərə]	n.船员, 航海家	
+2659	impart	8	[im'pɑ:t]	vt.传授, 赋予, 告知	
+2660	uneven	8	['ʌni:vən]	a.不平坦的,不均匀的	
+2661	repudiate	8	[ri'pju:dieit]	v.批判,拒付, 断绝, 否认	
+2662	faunal	8	['fɔ:nəl]	a.动物区系的	
+2663	nighttime	8	['naittaim]	n.夜间	
+2664	hardly	8	['hɑ:dli]	ad.几乎不,刚刚	
+2665	pry	8	[prai]	vi.窥探,打听.vt.撬动(开,起)	
+2666	exclusive	8	[ik'sklu:siv]	a.排外的,独占的,唯一的	
+2667	enterprise	8	['entəpraiz]	n.企业, 事业	
+2668	discard	8	[dis'kɑ:d]	v.丢弃, 抛弃	
+2669	simulation	8	[͵simju'lei∫ən]	n.仿真, 假装	
+2670	resolve	8	[ri'zɔlv]	v.解决, 决定,分解.n.决心	
+2671	mat	8	[mæt]	n.席子,垫子	
+2672	quick	8	[kwik]	a./ad.快的, 迅速的	
+2673	hero	8	['hiərəu]	n.英雄,男主角	
+2674	manipulate	8	[mə'nipjuleit]	vt.操纵,影响	
+2675	solo	8	['səuləu]	n.独奏曲.a.单独的
+2676	designer	8	[di'zainə]	n.设计者	
+2677	interstellar	8	['intə'stelə]	a.星际的	
+2678	scratch	8	[skræt∫]	v./.n.抓,搔,划(痕)	
+2679	recycle	8	['ri:'saikl]	v.使再循环, 反复应 n.再循环, 再生	
+2680	uncover	8	[ʌn'kʌvə]	v.揭露,揭示	
+2681	refill	8	['ri:'fil]	v.再装满,再充填	
+2682	fame	8	[feim]	n.名声, 名望	
+2683	caravan	8	['kærəvæn]	n.旅行队,商队, 大篷车	
+2684	microorganism	8	maɪkrəʊ'ɔ:ɡənɪz(ə)m	n.微生物	
+2685	probable	8	['prɔbəbl]	a.很可能的, 大概的	
+2686	compromise	8	['kɔmprəmaiz]	vi./n.妥协, 让步.vt.危及,放弃(原则等)	
+2687	inequality	8	[͵ini(:)'kwɔliti]	n.不平等, 不平均	
+2688	physicist	8	['fɪzɪsɪst]	n.物理学者, 唯物论者	
+2689	intensive	8	[in'tensiv]	a.强烈的, 精深的	
+2690	forget	8	[fə'ɡet]	v.忘记, 忽略	
+2691	postal	8	['pəustəl]	a.邮政的,邮局的	
+2692	queen	8	[kwi:n]	n.王后, 女王	
+2693	sailor	8	['seilə]	n.海员, 水手	
+2694	intervention	8	[͵intə(:)'ven∫ən]	n.干涉,介入	
+2695	immobile	8	[im'məubail]	a.不动的, 静止的	
+2696	entity	8	['entiti]	n.实体,存在,本质	
+2697	calendar	8	['kælində]	n.日历, 历法	
+2698	stabilize	8	['steɪbɪlaɪz]	v.稳定,安定	
+2699	tune	8	[tju:n]	n.曲调.vt.调音, 调整	
+2700	predominantly	8	[pri'dɔminəntli]	ad.主要地, 占优势地	
+2701	disgust	8	[dis'ɡʌst]	n.厌恶vi.令人厌恶,作呕	
+2702	deficient	8	[di'fi∫ənt]	a.缺乏的, 不足的,不充分的	
+2703	assistance	8	[ə'sistəns]	n.协助, 援助, 补助,	
+2704	persistent	8	[pə'sistənt]	a.持久稳固的	
+2705	prestige	8	[pre'sti:ʒ]	n.声望, 威望	
+2706	mound	8	[maund]	n.土墩,沙土堆	
+2707	fashionable	8	['fæ∫ənəbl]	a.流行的, 时髦的	
+2708	sect	8	[sekt]	n.宗派, 教派	
+2709	exclude	8	[iks'klu:d]	vt.把...排除在外, 排斥	
+2710	vaudeville	8	['vəudəvil]	n.歌舞杂耍	
+2711	scent	8	[sent]	n.气味,线索,香水.vt.嗅到	
+2712	uncertainty	8	[ʌn'sə:tnti]	n.无常, 不确定	
+2713	carnivore	8	['kɑ:nivɔ:]	n.食肉动物	
+2714	civilian	8	[si'viljən]	n.平民,百姓	
+2715	hunger	8	['hʌŋɡə]	n.饥饿, 欲望	
+2716	publication	8	[͵pʌbli'kei∫ən]	n.出版(物), 发行	
+2717	prolong	8	[prə'lɔŋ]	vt.延长, 拖延	
+2718	plaster	8	['plɑ:stə]	n.石膏.vt.敷以膏药	
+2719	sadness	8	['sædnis]	n.悲哀, 悲伤	
+2720	theorize	8	['θiəraiz]	v.建立理论, 理论化	
+2721	tundra	8	['tʌndrə]	n.苔原, 冻土地带	
+2722	concert	8	['kɔnsət]	n.音乐会,一致.vt.协同安排.vi.合作	
+2723	localize	8	['ləʊkəlaɪz]	v.集中,局部化,地方化	
+2724	dependable	8	[di'pendəbl]	a.可靠的, 可信赖的	
+2725	anomaly	8	[ə'nɔməli]	n.不规则, 异常的人或物	
+2726	displace	8	[dis'pleis]	vt.转移, 取代	
+2727	gravitational	8	['grævə'teiʃənəl]	a.重力的, 引力作用的	
+2728	pronounce	8	[prə'nauns]	v.发音, 宣告,宣判	
+2729	abundantly	8	[ə'bʌndəntli]	ad.大量地, 丰富地	
+2730	liberate	8	['libəreit]	vt.解放, 释放	
+2731	intensify	8	[in'tensifai]	v.加强,强化	
+2732	accord	8	[ə'kɔ:d]	n./v.一致, 协定	
+2733	pollute	8	[pə'lu:t]	vt.弄脏, 污染	
+2734	icy	8	['aisi]	a.冰冷的, 冷淡的	
+2735	nebula	8	['nebjulə]	n.星云	
+2736	security	8	[si'kjuəriti]	n.安全,保证	
+2737	supervise	8	['sju:pəvaiz]	v.监督, 管理	
+2738	parasitic	8	[.pærə'sitik]	a.寄生的, 由寄生虫引起的	
+2739	documentation	8	[͵dɔkjumen'tei∫ən]	n.n.独奏曲.a.单独的文件	
+2740	richness	8	['ritʃnis]	n.富饶,富裕	
+2741	sulfate	8	['sʌlfeit]	n.硫酸盐	
+2742	unity	8	['ju:niti]	n.团结, 联合	
+2743	wildlife	8	['waɪldlaɪf]	n.野生动植物	
+2744	alike	8	[ə'laik]	a.相同的, 相似的	
+2745	sport	8	[spɔ:t]	n.运动,运动会	
+2746	steamship	8	['sti:m∫ɪp]	n.汽船, 轮船	
+2747	lithospheric	8	['liθə'sferik]	a.岩石圈的, 陆界的	
+2748	hammer	8	['hæmə]	n.槌,锤子.v.锤击, 严厉批评	
+2749	disturbance	8	[dis'tə:bəns]	n.骚动, 动乱	
+2750	voter	8	['vəʊtə(r)]	n.投票者	
+2751	anywhere	8	['eniwεə]	ad.无论何处	
+2752	incomplete	8	[.inkəm'pli:t]	a.不完全的, 不完整的	
+2753	lecture	8	['lekt∫ə]	n./v.演讲,训戒,责备	
+2754	tolerance	8	['tɔlərəns]	n.宽容,容忍	
+2755	hostile	8	['hɔstail]	a.敌对的	
+2756	triangle	8	['traiæŋɡl]	n.三角形,三角关系	
+2757	unchanging	8	[ʌn'tʃeindʒiŋ]	a.不变的	
+2758	cargo	8	['kɑ:ɡəu]	n.船货,货物	
+2759	reconstruct	8	['ri:kən'strʌkt]	v.重建, 改造	
+2760	conventionally	8	[kən'venʃənəli]	ad.照惯例	
+2761	rainy	8	['reini]	a.阴天
+2762	trial	8	['traiəl]	n.试验, 考验	
+2763	wound	8	[wu:nd]	n.创伤, 伤口	
+2764	forbid	8	[fə'bid]	v.禁止, 不许	
+2765	judgment	8	['dӡʌdӡmənt]	n.判断	
+2766	nickel	8	['nikl]	n.镍, 镍币	
+2767	Georgia	8	['dӡɔ:dӡjə]	n.(美)乔治亚州	
+2768	ourselves	8	[.auə'selvz]	pron.我们自己	
+2769	rid	8	[rid]	vt.使摆脱, 使去掉	
+2770	integral	8	['intiɡrəl]	a.完整的, 整体的	
+2771	pasture	8	['pɑ:st∫ə]	n.牧草地,牧场.vt.放牧	
+2772	overwhelm	8	['əuvə'welm]	vt.打击, 压倒, 打败,使不安	
+2773	prolific	8	[prə'lifik]	a.多产的,多子嗣的	
+2774	moist	8	[mɔist]	a.潮湿的,湿润的	
+2775	coral	8	['kɔrəl]	n.珊瑚(虫)	
+2776	cite	8	[sait]	vt.引用, 引证,传讯,想起,表彰	
+2777	barrel	8	['bærəl]	n.桶	
+2778	reef	8	[ri:f]	n.礁,暗礁	
+2779	liberty	8	['libəti]	n.自由, 特权	
+2780	millimeter	8	['mɪlɪmi:tə(r)]	n.毫米	
+2781	molecular	8	[mə'lekjələ]	a.分子的	
+2782	exterior	8	[ik'stiəriə]	a.外部的.n.外部	
+2783	lifetime	8	['laiftaim]	n.一生, 终生	
+2784	antiquity	8	[æn'tikwiti]	n.古代	
+2785	adobe	8	[ə'dəubi]	n.泥砖,土坯	
+2786	absorption	8	[əb'sɔ:p∫ən]	n.吸收	
+2787	sensitivity	8	['sensi'tiviti]	n.敏感, 灵敏(度)	
+2788	studio	8	['stju:diəu]	n.画室,工作室	
+2789	inevitably	8	[in'evitəbli]	ad.不可避免地,必然地	
+2790	swing	8	[swiŋ]	v.摇摆, 摆动.n.摆动,秋千	
+2791	utilitarian	8	[͵ju:tili'tεəriən]	a.功利的.n.功利主义者	
+2792	alive	8	[ə'laiv]	a.活着的, 活泼的	
+2793	thoroughly	8	['θʌrəlɪ]	ad.十分地, 彻底地,完全地	
+2794	hardy	8	['hɑ:di]	a.能吃苦耐劳的,坚强的	
+2795	stunt	8	[stʌnt]	n.特技,噱头.v.阻碍正常成长	
+2796	accomplishment	8	[ə'kɔmpli∫mənt]	n.成就, 完成	
+2797	routine	8	[ru:'ti:n]	n.例行公事, 常规	
+2798	nourish	8	['nʌri∫]	vt.滋养, 使健壮,	
+2799	busy	8	['bizi]	a.忙碌的	
+2800	ultraviolet	8	['ʌltrə'vaiəlit]	a.紫外线的.n.紫外线辐射	
+2801	pyramid	8	['pirəmid]	n.金字塔(形结构),锥状物	
+2802	cannonball	8	[`kænənbɔ:l]	n.炮弹	
+2803	transitional	8	[træn'ziʃənəl]	a.变迁的, 过渡期的	
+2804	amplification	8	[͵æmplifi'kei∫ən]	n.扩大,详述,放大（率）	
+2805	subsurface	8	['sʌb'sə:fis]	a.地下的, 表面下的n.地表下岩石	
+2806	philosopher	8	[fi'lɔsəfə]	n.哲学家, 哲人	
+2807	semiskilled	8	[.semi'skild]	a.半熟练的	
+2808	relax	8	[ri'læks]	v.放松,休息	
+2809	mackerel	8	['mækrəl]	n.鲭	
+2810	witness	8	['witnis]	n.目击者,证据(言).vt.目击,作证	
+2811	midwest	8	['midwest]	n.中西部	
+2812	scrub	8	[skrʌb]	n.灌木丛.v.用力擦洗	
+2813	textbook	8	['tekstbuk]	n.教科书, 课本	
+2814	sharply	8	['∫ɑ:pli]	ad.锋利地,剧烈地	
+2815	sunrise	8	['sʌnraiz]	n.日出	
+2816	mutoscope	8	['mju:təkəup]	n.(早期的)电影放映机	
+2817	summarize	8	['sʌməraiz]	vt.概述, 总结	
+2818	stalk	8	[stɔ:k]	n.茎,梗.v.跟踪,高视阔步地走	
+2819	numerical	8	[nju(:)'merikəl]	a.数字的, 用数表示的	
+2820	dynamic	8	[dai'næmik]	a.动力的, 动力学的,动态的,有活力的	
+2821	fellow	8	['feləʊ]	n.家伙, 同事	
+2822	punishment	8	['pʌni∫mənt]	n.惩罚, 处罚	
+2823	ethnic	8	['eθnik]	a.人种的, 种族的	
+2824	goat	8	[ɡəut]	n.山羊	
+2825	theorist	8	['θiərist]	n.理论家	
+2826	mental	8	['mentl]	a.精神的,智力的	
+2827	web	8	[web]	n.网,错综复杂的事物	
+2828	pursue	8	[pə'sju:]	vt.追赶, 追踪,从事	
+2829	resilience	8	[rɪ'zɪlɪəns]	n.弹性,弹力	
+2830	outbreak	8	['autbreik]	n.爆发, 发作	
+2831	mutually	8	[`mju:t∫ʊəlɪ]	ad.互相地, 互助	
+2832	driver	8	['draivə]	n.驾驶员,司机	
+2833	leather	8	['leðə]	n.皮革, 皮革制品	
+2834	neon	8	['ni:ən]	n.[化]氖	
+2835	cash	8	[kæ∫]	n.现金.vt.兑现	
+2836	dog	8	[dɔɡ]	n.狗, 犬	
+2837	bladder	8	['blædə]	n.膀胱, 气泡	
+2838	cry	8	[krai]	v./n.哭,叫喊	
+2839	tale	8	[teil]	n.故事,传说	
+2840	cord	8	[kɔ:d]	n.绳索, 束缚	
+2841	wed	8	[wed]	v.娶, 嫁, 结婚	
+2842	advancement	8	[əd'vɑ:nsmənt]	n.前进, 进步	
+2843	dedicate	8	['dedikeit]	vt.献(身), 致力	
+2844	respiration	8	[,respə'reiʃn]	n.呼吸, 呼吸作用	
+2845	cheaply	8	['tʃi:pli]	ad.廉价地,粗俗地	
+2846	safety	8	['seifti]	n.安全, 保险	
+2847	coach	8	[kəut∫]	n.教练
+2848	transit	8	['trænsit]	n.运输,载运	
+2849	soap	8	[səup]	n.肥皂	
+2850	quiet	8	['kwaiət]	a.安静的, 宁静的	
+2851	therapy	8	['θerəpi]	n.治疗,疗方	
+2852	speculative	7	['spekju.lətiv]	a.推测的, 思索的,投机的	
+2853	impressionist	7	[ɪm'pre∫ənɪst]	n.印象主义者	
+2854	incentive	7	[in'sentiv]	a.刺激的, 鼓励的.n.动机	
+2855	pilot	7	['pailət]	n.飞行员, 领航员	
+2856	disposal	7	[dis'pəuzəl]	n.处理, 处置,丢弃,清洁	
+2857	spectacle	7	['spektəkl]	n.景象, 场面,奇观	
+2858	flour	7	['flauə]	n.面粉	
+2859	latent	7	['leitənt]	a.潜在的, 潜伏的	
+2860	deaf	7	[def]	a.聋的	
+2861	bureau	7	[bjuə'rəu]	n.局,办事处	
+2862	tow	7	[təu]	v.拖, 曳	
+2863	hunter-gatherer	7	['hʌntə'gæðərə]	n.捕猎者-采集者	
+2864	rudimentary	7	[ru:dɪ'mentərɪ]	a.基本的,初步的,未充分发展的	
+2865	involvement	7	[in'vɔlvmənt]	n.连累, 包含	
+2866	opening	7	['əupniŋ]	n.开口, 开始	
+2867	let	7	[let]	vt.允许,让,假设,出租	
+2868	illustration	7	[͵iləs'trei∫ən]	n.说明, 例证,图解	
+2869	pant	7	[pænt]	vi.喘,渴望.n.喘息	
+2870	shatter	7	['∫ætə]	v.粉碎,破灭	
+2871	makeup	7	[`meɪkʌp]	n.化妆品,组成, 结构,补充	
+2872	neutral	7	['nju:trəl]	a.中立的, 中性的	
+2873	anticipate	7	[æn'tisipeit]	v.预期(料),期望,占先	
+2874	valid	7	['vælid]	a.有效的,有根据的,合法的	
+2875	borrow	7	['bɔrəu]	v.借, 借入	
+2876	indoor	7	['indɔ:]	a.户内的, 室内的	
+2877	grassland	7	['ɡrɑ:slænd]	n.牧草地, 草原	
+2878	purely	7	['pjʊəlɪ]	ad.仅仅,简单地,纯粹地	
+2879	scene	7	[si:n]	n.场面, 情景, 舞台,吵闹	
+2880	large-scale	7	[lɑ:dʒskeil]	a.大规模的	
+2881	broadside	7	['brɔ:dsaɪd]	n.(船)舷侧	
+2882	mood	7	[mu:d]	n.心情, 情绪	
+2883	decipher	7	[di'saifə]	vt.译解,解释n.密电译文	
+2884	divert	7	[di'və:t]	vt.使转向,转移	
+2885	broadway	7	['brɔ:dwei]	n.&.a.百老汇大街(的)	
+2886	thorough	7	['θʌrə]	a.十分的, 彻底的	
+2887	interrupt	7	[͵intə'rʌpt]	vt.打断, 妨碍, 插嘴	
+2888	compel	7	[kəm'pel]	vt.强迫, 迫使	
+2889	dislike	7	[dis'laik]	vt.讨厌, 不喜欢	
+2890	unfamiliar	7	['ʌnfə'miljə]	a.不熟悉的	
+2891	shortly	7	['∫ɔ:tli]	ad.立刻, 马上,简短地	
+2892	fence	7	[fens]	n.栅栏.v.用篱笆围住	
+2893	raven	7	['reivən]	n.大乌鸦,掠夺	
+2894	pamphlet	7	['pæmflit]	n.小册子	
+2895	dive	7	[daiv]	vi.潜水, 跳水	
+2896	swarm	7	[swɔ:m]	n.蜂群, 一大群	
+2897	fuse	7	[fju:z]	n.保险丝.v.熔合	
+2898	ruin	7	[ruin;'ru:in]	v./.n.毁灭(坏)	
+2899	commuter	7	[kə'mju:tə]	n.通勤者, 每日往返上班者	
+2900	movable	7	['mu:vəbl]	a.活动的,变动的.n.家具,动产	
+2901	harden	7	['hɑ:dn]	v.(使)变硬, (使)坚强	
+2902	alloy	7	['ælɔi]	n.合金	
+2903	astronomy	7	[ə'strɔnəmɪ]	n.天文学	
+2904	bind	7	[baind]	vt.捆绑(扎),结(粘)合	
+2905	tear	7	[tiə, teə]	n.眼泪.v.撕(裂)	
+2906	conversion	7	[kən'və:∫ən]	n.变换, 转化	
+2907	easter	7	['i:stə]	n.[宗](耶稣)复活节	
+2908	weed	7	[wi:d]	n.野草, 杂草	
+2909	negotiate	7	[ni'ɡəu∫ieit]	vi.商议, 谈判.vt.谈判达成, 议价出售	
+2910	tidal	7	['taidl]	a.潮汐的, 定时涨落的	
+2911	flask	7	[flɑ:sk]	n.长颈瓶	
+2912	gardening	7	['ɡɑ:dnɪŋ]	n.园艺	
+2913	fat	7	[fæt]	a.肥胖的	
+2914	deepen	7	['di:pən]	v.加深, 深化	
+2915	oliver	7	['ɔlivə]	n.脚踏铁槌	
+2916	canvas	7	['kænvəs]	n.帆布,(帆布)油画	
+2917	ideology	7	[͵aidi'ɔlədӡi,id-]	n.意识形态,思想意识,观念学	
+2918	turkey	7	['tə:ki]	n.土耳其,火鸡	
+2919	slice	7	[slais]	n.薄片.v.切(片)	
+2920	solitary	7	['sɔlitəri]	a.孤独的	
+2921	intensively	7	[in'tensivli]	ad.加强地, 集中地	
+2922	unstable	7	['ʌn'steibl]	a.不牢固的, 不稳定的	
+2923	reheat	7	['ri:'hi:t]	vt.再热,将…重新加热	
+2924	via	7	['vaiə,'vi:ə]	prep.经,通过,经由	
+2925	financially	7	[fi'nænʃəli]	ad.财政上(金融上)	
+2926	diversification	7	[daivə:sifi'kei∫ən]	n.变化, 多样化	
+2927	sedentary	7	['sednteri]	a.久坐的,固定不动的	
+2928	descend	7	[di'send]	vi.下来, 下降,遗传,突然袭击	
+2929	outwork	7	['autwə:k]	n.外包活.v.在工作上胜过	
+2930	conductor	7	[kən'dʌktə]	n.领导者, 经理	
+2931	blast	7	[blɑ:st]	n.爆炸,一阵(疾风等).vt.炸,炸掉	
+2932	nutritionally	7	[nju:'triʃənəli]	ad.在营养上, 营养方面	
+2933	prime	7	[praim]	a.首要的,最好的
+2934	fold	7	[fəuld]	vt.折叠.vi.翻倍,屈服.n.倍数（-后缀）	
+2935	wake	7	[weik]	v.醒来,唤醒	
+2936	worm	7	[wə:m]	n.虫,蠕虫	
+2937	mythical	7	['miθikəl]	a.神话的, 虚构的	
+2938	handcraft	7	['hændkrɑ:ft]	n.手工, 手艺	
+2939	endanger	7	[in'deindӡə]	vt.危及	
+2940	wage	7	[weidӡ]	n.工资 v.发动	
+2941	sweep	7	[swi:p]	v.打扫, 清扫	
+2942	porosity	7	[pɔ:'rɔsiti]	n.多孔性	
+2943	windmill	7	['windmil]	n.风车	
+2944	backup	7	['bækʌp]	n.后援, 支持	
+2945	intent	7	[in'tent]	n.意图, 目的.a.专心的,急切的	
+2946	understory	7	['ʌndəstɔ:ri]	n.林下叶层	
+2947	stylize	7	['stailaiz]	vt.使风格化, 仿效 ... 的风格	
+2948	autonomous	7	[ɔ:'tɔnəməs]	a.自治的,自主的	
+2949	pipeline	7	['paip͵lain]	n.管道, 传递途径	
+2950	renew	7	[ri'nju:]	v.更新, 恢复	
+2951	dandelion	7	['dændilaiən]	n.蒲公英	
+2952	monopoly	7	[mə'nɔpəli]	n.垄断(者)	
+2953	membership	7	['membə∫ip]	n.成员资格,全体会员	
+2954	gate	7	[ɡeit]	n.大门	
+2955	homogeneous	7	[.hɔmə'dʒi:niəs]	a.同质的,相似的	
+2956	substantially	7	[səb'stæn∫(ə)lɪ]	ad.大体上,本质上	
+2957	internally	7	[ɪn'tənəlɪ]	ad.内部地, 国内地	
+2958	flame	7	[fleim]	n.火焰, 光辉	
+2959	breeze	7	[bri:z]	n.微风.vi.吹微风,逃走	
+2960	poorly	7	['puəli]	a.不舒服的  ad.贫穷地	
+2961	popularly	7	['pɔpjuləli]	ad.大众地, 通俗地	
+2962	devoid	7	[di'vɔid]	a.全无的, 缺乏的	
+2963	manifest	7	['mænifest]	v.显示,表明,证明	
+2964	landform	7	['lænd.fɔ:m]	n.地形, 地貌	
+2965	mistake	7	[mis'teik]	n.错误.v.弄错,误解	
+2966	pinpoint	7	['pin͵pɔint]	vt.确定,精确地定位.a.十分精确的	
+2967	relief	7	[ri'li:f]	n.轻松,缓解	
+2968	rancher	7	['rænt∫ə]	n.大牧场主, 大牧场工人	
+2969	mosaic	7	[mɔ'zeiik]	n.镶嵌细工,马赛克	
+2970	maturation	7	[͵mætju'rei∫ən]	n.化脓, 成熟	
+2971	recruitment	7	[rɪ`kru:tmənt]	n.征募新兵, 补充	
+2972	preschooler	7	[.pri:'sku:lə]	n.(美)学龄前儿童	
+2973	miniature	7	['minjət∫ə]	a.小型的,微小的.n.微小的模型	
+2974	speculate	7	['spekju͵leit]	vi.推测, 思索, 做投机买卖	
+2975	pale	7	[peil]	a.苍白的,淡的.vi.变得苍白,变得暗淡	
+2976	loft	7	[lɔft]	n.阁楼	
+2977	exotic	7	[iɡ'zɔtik]	a.外来的	
+2978	practitioner	7	[præk'ti∫ənə]	n.从业者, 开业者(尤指医师、律师等)	
+2979	ear	7	[iə]	n.耳朵.n.麦穗.vi.抽穗	
+2980	cold-blooded	7	['kəuld'blʌdid]	a.冷血的	
+2981	photosynthesis	7	[͵fəutəu'sinθəsis]	n.光合作用	
+2982	diffuse	7	[di'fju:z]	v.散播,传播.a.冗长的,四散的	
+2983	arc	7	[ɑ:k]	n.弧, 弓形	
+2984	cloth	7	[klɔ(:)θ]	n.布, 织物	
+2985	collapse	7	[kə'læps]	v./n.倒塌, 崩溃	
+2986	phytoremediation	7	[fitɔr͵mi:di'eiʃən]	n.植物除污, 植物治理法	
+2987	mustard	7	['mʌstəd]	n.芥菜, 芥末	
+2988	chlorosis	7	[klə'rəusis]	n.萎黄病, 变色病	
+2989	well-known	7	['wel'nəun]	a.出名的,众所周知的	
+2990	daylight	7	['deilait]	n.日光, 白昼	
+2991	piecework	7	['pi:swək]	n.计件工作	
+2992	luck	7	[lʌk]	n.运气, 好运	
+2993	moment	7	['məumənt]	n.片刻,瞬间	
+2994	ingenuity	7	[,indʒə'nu:əti]	n.机灵, 独创性	
+2995	gear	7	[ɡiə]	n.齿轮.vt.使适应	
+2996	intimate	7	['intimət]	a.亲密的,私人的	
+2997	efficiency	7	[i'fi∫ənsi]	n.效率, 功效	
+2998	inaccurate	7	[in'ækjurit]	a.不准确的, 错误的	
+2999	lumber	7	['lʌmbə]	n.木材,木料	
+3000	monument	7	['mɔnjumənt]	n.纪念碑	
+3001	garrison	7	['ɡærisn]	n.守备队, 驻地.vt.镇守	
+3002	starve	7	[stɑ:v]	v.(使)饿死	
+3003	employment	7	[im'plɔimənt]	n.雇用,使用	
+3004	crevice	7	['krevis]	n.裂缝	
+3005	port	7	[pɔ:t]	n.港口	
+3006	scavenger	7	['skævindӡə]	n.清道夫,食腐动物,拾荒者	
+3007	antibiotic	7	[͵æntibai'ɔtik]	n.抗生素	
+3008	complain	7	[kəm'plein]	v.抱怨,控诉	
+3009	patron	7	['pætrən]	n.资助人,赞助人	
+3010	legume	7	['leɡju:m]	n.豆类, 豆荚	
+3011	entry	7	['entri]	n.进入, 入口	
+3012	cohesion	7	[kəu'hi:ӡən]	n.结合, 凝聚,内聚力	
+3013	bag	7	[bæɡ]	n.袋子	
+3014	stave	7	[steiv]	n.桶材,窄板 .v.敲破, 避开	
+3015	fungal	7	['fʌŋɡəl]	a.真菌的（等于fungous）	
+3016	outlet	7	['autlet,-lit]	n.出口, 出路, (感情等)发泄途径	
+3017	interconnect	7	[͵intə(:)kə'nekt]	vt.使互相连接	
+3018	synthesize	7	['sinθisaiz]	v.综合, 合成	
+3019	chisel	7	['t∫izl]	n.凿子 v.砍凿
+3020	disguise	7	[dis'ɡaiz]	n./v.伪装,掩饰	
+3021	vein	7	[vein]	n.静脉,血管	
+3022	curve	7	[kə:v]	n./v.曲线,弯曲	
+3023	conception	7	[kən'sep∫ən]	n.观念, 概念	
+3024	rental	7	['rentl]	n.租金额	
+3025	informal	7	[in'fɔ:məl]	a.不正式的,不拘礼节的	
+3026	ambitious	7	[æm'bi∫əs]	a.有雄心的	
+3027	measurable	7	['meӡərəbl]	a.可测量的	
+3028	stroke	7	[strəuk]	n.中风,划桨,击,笔划,抚摸.vt.抚摸	
+3029	enforce	7	[in'fɔ:s]	vt.实施, 执行,加强	
+3030	disagree	7	[͵disə'ɡri:]	vi.不一致, 不适宜,不同意,争执	
+3031	joint	7	[dӡɔint]	.n.关节,接头	
+3032	tourism	7	['tʊərɪz(ə)m]	n.旅游业, 观光	
+3033	woody	7	['wudi]	a.多树木的,木质的	
+3034	card	7	[kɑ:d]	n.纸牌, 卡片	
+3035	ownership	7	['əunə∫ip]	n.所有权, 物主身份	
+3036	prehistory	7	['pri:histəri]	n.史前时代, 史前学	
+3037	centralize	7	['sentrəlaiz]	v.集聚, 集中	
+3038	silicon	7	['silikən]	n.[化]硅	
+3039	stony	7	['stəuni]	a.多石的, 无情的	
+3040	steep	7	[sti:p]	a.陡峭的,急剧的	
+3041	evening	7	['i:vniŋ]	n.傍晚, 晚间	
+3042	depart	7	[di'pɑ:t]	vi.离开,出发,去世	
+3043	consistently	7	[kən'sistəntli]	ad.一致地,始终如一地	
+3044	intrinsically	7	[in'trinsikəli]	ad.内在地, 固有地	
+3045	rod	7	[rɔd]	n.杆, 棒.n.权杖, 惩罚	
+3046	bread	7	[bred]	n.面包, 生计	
+3047	glow	7	[ɡləu]	vi.发光, 发热,红光焕发.n.热情	
+3048	flush	7	[flʌ∫]	v.冲洗,(脸)发红	
+3049	geologically	7	[,dʒiə'lɔdʒikəli]	ad.地质学上	
+3050	gratify	7	['ɡrætifai]	vt.使满足,使满意	
+3051	crane	7	[krein]	n.起重机	
+3052	ledge	7	[ledӡ]	n.岩架,岩石突出部	
+3053	knife	7	[naif]	n.刀, 餐刀	
+3054	squash	7	[skwɔ∫]	vt.压碎,硬塞n.美国南瓜	
+3055	cowboy	7	['kaʊbɔɪ]	n.牧童,牛仔	
+3056	notable	7	['nəutəbl]	a.值得注意的, 显著的	
+3057	erect	7	[i'rekt]	vt.建造,竖立,使直立	
+3058	maritime	7	['mæritaim]	a.海上的, 海事的	
+3059	vastly	7	['vɑ:stlɪ]	ad.巨大地,广阔地	
+3060	bicycle	7	['baisikl]	n.脚踏车, 自行车	
+3061	fascinate	7	['fæsineit]	vt.使着迷	
+3062	shellfish	7	['∫elfi∫]	n.贝, 甲壳类动物	
+3063	inferior	7	[in'fiəriə]	a.下等的, 下级的,自卑的	
+3064	rub	7	[rʌb]	v.擦,擦掉	
+3065	beat	7	[bi:t]	v.打,战胜	
+3066	fan	7	[fæn]	n.(风)扇.vt.扇,煽动	
+3067	agriculturalist	7	[,æɡrɪ`kʌlt∫ɚrəlɪst]	n.农学家	
+3068	cooperate	7	[kəu'ɔpəreit]	vi.合作, 协作	
+3069	adorn	7	[ə'dɔ:n]	v.装饰,佩戴	
+3070	Pakistan	7	[͵pɑ:kis'tɑ:n]	n.巴基斯坦(南亚国家)	
+3071	rhetorical	7	[ri'tɔrikəl]	a.带修辞色彩的,修辞学的,夸张的	
+3072	formula	7	['fɔ:mjulə]	n.公式, 规则	
+3073	leap	7	[li:p]	v./n.跳跃	
+3074	inferential	7	[.infə'renʃəl]	a.推理的, 推论的	
+3075	reel	7	[ri:l]	n.卷轴.vt.卷,绕	
+3076	partial	7	['pɑ:∫əl]	a.部分的,局部的	
+3077	crown	7	[kraun]	n.王冠,冕	
+3078	mysterious	7	[mis'tiəriəs]	a.神秘的	
+3079	audio	7	['ɔ:diəu]	a.音频的,声音的	
+3080	planetarium	7	[plænɪ'teərɪəm]	n.天文馆	
+3081	spider	7	['spaidə]	n.蜘蛛,三脚架	
+3082	humorous	7	['hju:mərəs]	a.幽默的,诙谐的	
+3083	aristocratic	7	[.æristə'krætik]	a.贵族政治的,贵族的	
+3084	parrot	7	['pærət]	n.鹦鹉	
+3085	bush	7	[bu∫]	n.矮树丛	
+3086	radar	7	['reidə]	n.雷达,电波探测器	
+3087	strand	7	[strænd]	vt.使搁浅	
+3088	conductance	7	[kən'dʌktəns]	n.电导, 导率	
+3089	filter	7	['filtə]	v.过滤 ,透(过)	
+3090	rainforest	7	['rein.fɔrist]	n.雨林	
+3091	endocrine	7	['endəukrain]	n.内分泌,激素	
+3092	hemlock	7	['hemlɔk]	n.铁杉,毒芹	
+3093	determination	7	[ditə:mi'nei∫ən]	n.决心, 果断	
+3094	exclusively	7	[ɪk'sklu:sɪvlɪ]	ad.专门地,排除其他地,唯一地	
+3095	quotation	7	[kwəu'tei∫ən]	n.引文,引语	
+3096	discern	7	[di'sə:n]	vt.察觉出,识别	
+3097	professor	7	[prə'fesə]	n.教授	
+3098	deposition	7	[͵depə'zi∫ən]	n.沉积, 免职	
+3099	handful	7	['hændful]	n.一把, 少数	
+3100	fine-grained	7	[fain'greind]	a.有细密纹理的, 细颗粒的	
+3101	flaw	7	[flɔ:]	n.缺点,瑕疵	
+3102	shuttle	7	['∫ʌtl]	n.航天飞机,梭子.v.穿梭来回(运送)	
+3103	necessity	7	[nə'sesəti]	n.需要,必需品	
+3104	reasonably	7	['ri:zənəbli]	ad.有理地,合理地	
+3105	chill	7	[t∫il]	vt.使变冷(冷冻).n.寒冷
+3106	pink	7	[piŋk]	n./a.粉红色(的)	
+3107	ceiling	7	['si:liŋ]	n.天花板, 上限	
+3108	commensalism	7	[kə`mensəlɪzəm]	n.共栖	
+3109	parasitism	7	['pærəsaitizəm]	n.寄生状态, 寄生病	
+3110	outdoor	7	['autdɔ:]	a.室外的, 户外的	
+3111	blanket	7	['blæŋkit]	vt.覆盖.adj.包含所有的.n.毯子	
+3112	modernize	7	['mɔdə(:)naiz]	v.使现代化	
+3113	boredom	7	['bɔ:dəm]	n.厌倦,令人厌烦的事物	
+3114	somewhere	7	['sʌm(h)wεə]	ad.(cid:7680)处, 在(cid:7680)处	
+3115	happiness	7	['hæpinis]	n.幸福, 快乐	
+3116	currency	7	['kʌrənsi]	n.流通,货币	
+3117	county	7	['kaunti]	n.县, 郡	
+3118	correspondence	7	[͵kɔris'pɔndəns]	n.通信, 信件, 相符,相似	
+3119	confidence	7	['kɔnfidəns]	n.信心	
+3120	low-quality	7	[ləu'kwɔliti]	n.劣等,低质量的	
+3121	coverage	7	['kʌvəridӡ]	n.覆盖,新闻报道	
+3122	botany	7	['bɔtəni]	n.植物学	
+3123	seemingly	7	['si:mɪŋlɪ]	ad.表面上地	
+3124	feminist	7	[`femɪnɪst]	n.男女平等主义者	
+3125	radium	7	['reidjəm]	n.[化]镭	
+3126	transmit	7	[trænz'mit]	vt.传送,传达,传染	
+3127	persist	7	[pə(:)'sist]	vi.坚持, 持续	
+3128	warrior	7	['wɔriə]	n.勇士,武士	
+3129	portable	7	['pɔ:təbl]	a.便于携带的,轻便的,手(cid:6656)的	
+3130	gentle	7	['dӡentl]	a.温和的, 文雅的	
+3131	swift	7	[swift]	a.迅速的,敏捷的	
+3132	suspect	7	[səs'pekt]	vt.推测,怀疑 ,猜想	
+3133	sleepy	7	['sli:pi]	a.困乏的,欲睡的	
+3134	weakness	7	['wi:knis]	n.虚弱,弱点	
+3135	outgoing	7	[aut'ɡəu]	a.外向的	
+3136	combat	7	['kɔmbət]	n.战斗,格斗	
+3137	dispute	7	[dis'pju:t]	n./v.争论,争端	
+3138	Baltic	7	['bɔ:ltik]	a波罗的海的, 波罗的语的	
+3139	male	7	[meil]	a.男的, 雄的	
+3140	prevalent	7	['prevələnt]	a.普遍的, 流行的	
+3141	nest-building	7	[nest'bildiŋ]	n.筑巢	
+3142	convey	7	[kən'vei]	vt.搬运,传达	
+3143	recruit	7	[ri'kru:t]	vt.招募,吸收.n.新成员, 新兵	
+3144	hereditary	7	[hi'reditəri]	a.世袭的,遗传的	
+3145	counterpart	7	['kauntəpɑ:t]	n.职务相当的人,副本	
+3146	personality	7	[,pə:sə'næləti]	n.人格,个性	
+3147	strut	6	[strʌt]	n.高视阔步.v.昂首阔步地走	
+3148	prowl	6	[praul]	v.巡游,徘徊,潜行	
+3149	worship	6	['wə:∫ip]	n./vt.崇拜, 爱慕	
+3150	hat	6	[hæt]	n.帽子 vt.戴帽子	
+3151	avenue	6	['ævinju:]	n.林荫道,方法	
+3152	consensus	6	[kən'sensəs]	n.一致,同意	
+3153	sugar	6	['∫uɡə]	n.糖.vt.在…中加糖	
+3154	ethic	6	['eθik]	n.道德规范	
+3155	individualistic	6	[.indi.vidjuəl'istik]	a.个人主义的	
+3156	stylistic	6	[stai'listik]	a.风格上的,文体上	
+3157	eka	6	[ikʌ]	n.准(第一)	
+3158	check	6	[t∫ek]	v.检查.n.核对,支票	
+3159	cabin	6	['kæbin]	n.小屋, 船舱	
+3160	convenient	6	[kən'vi:njənt]	a.便利的,方便的	
+3161	geography	6	[dӡi'ɔɡrəfi]	n.地理(学)	
+3162	fine-art	6	[fain'ɑ:t]	n.艺术,美术作品	
+3163	bottle	6	['bɔtl]	n.瓶子.vt.用瓶装	
+3164	exaggeration	6	[iɡ͵zædӡə'rei∫ən]	n.夸张,夸张的手法	
+3165	hamper	6	['hæmpə]	v.妨碍, 牵制	
+3166	unpleasant	6	[ʌn'pleznt]	a.不愉快的,不合意的	
+3167	softwood	6	['sɔftwʊd]	n.软木材	
+3168	arsenic	6	['ɑ:sənik]	n.[化]砷, 砒霜	
+3169	bean	6	[bi:n]	n.豆, 豆形果实	
+3170	slate	6	[sleit]	n.板岩,石板	
+3171	reptilian	6	[rep'tiliən]	n.爬行类动物	
+3172	overirrigation	6	['əuvə͵iri'geiʃən]	n.过量灌溉	
+3173	bold	6	[bəuld]	a.大胆的, 无礼的	
+3174	conclusive	6	[kən'klu:siv]	a.决定性的,结论性的	
+3175	file	6	[fail]	n.文档.vt.登记备案.vi.(cid:6656)出	
+3176	honeybee	6	['hʌnɪbi:]	n.蜜蜂	
+3177	satiric	6	[sə'tirik]	a.讽刺的,挖苦的	
+3178	refresh	6	[ri'fre∫]	v.(使)精神振作,(使)恢复活力	
+3179	starvation	6	[stɑ:'vei∫ən]	n.饥饿, 饿死	
+3180	personally	6	['pə:sənəli]	ad.亲自,就个人来说	
+3181	spruce	6	[spru:s]	n.云杉	
+3182	comprehend	6	[͵kɔmpri'hend]	v.理解,领会	
+3183	diffusion	6	[di'fju:ӡən]	n.传播,散布	
+3184	differentiate	6	[.difə'renʃi.eit]	v.区分 ,区别	
+3185	radical	6	['rædikəl]	a.根本的,激进的.n.激进分子	
+3186	whenever	6	[wen'evə]	conj.无论何时,随时	
+3187	stiffen	6	['stifn]	vt.弄硬,加强	
+3188	simulate	6	['simjuleit]	vt.模拟, 模仿	
+3189	fetus	6	['fi:təs]	n.胎儿	
+3190	feeder	6	['fi:də]	n.饲养员	
+3191	reminder	6	[ri'maində]	n.提醒物,暗示
+3192	foodstuff	6	['fu:dstʌf]	n.食品, 粮食	
+3193	shepherd	6	['∫epəd]	n.牧羊人.vt.带领,引导	
+3194	pine	6	[pain]	n.松(树).vi.消瘦	
+3195	informant	6	[in'fɔ:mənt]	n.通知者, 告密者	
+3196	allocate	6	['æləukeit]	vt.分派, 分配,使坐落于	
+3197	cedar	6	['si:də]	n.雪松	
+3198	vanish	6	['væni∫]	vi.消失,不复存在,绝迹	
+3199	slab	6	[slæb]	n.厚板,平板	
+3200	coexist	6	[kəuiɡ'zist]	vi.共存,和平共处	
+3201	marble	6	['mɑ:bl]	n.大理石	
+3202	moose	6	[mu:s]	n.[动] 驼鹿	
+3203	cod	6	[kɔd]	abbr.货到付款 (Cash on Delivery).n.鳕鱼	
+3204	migrant	6	['maiɡrənt]	n.移居者, 候鸟	
+3205	aviation	6	[͵eivi'ei∫ən]	n.航空,飞机制造业	
+3206	frontal	6	['frʌntl]	n.前沿,边境	
+3207	hexagonal	6	[hek'sægənəl]	a.六角形的,六边的	
+3208	journal	6	['dӡə:nl]	n.定期刊物, 杂志,日记	
+3209	assure	6	[ə'∫uə]	vt.使确信, 确保,弄清楚	
+3210	sizable	6	['saizəbl]	a.相当大的	
+3211	decompose	6	[͵di:kəm'pəuz]	v.(使)腐烂,分解	
+3212	scout	6	[skaut]	n.侦察员.vi.侦察	
+3213	mineralization	6	[.minərəlɑi'zeiʃən]	n.矿化作用,成矿作用	
+3214	diminish	6	[di'mini∫]	v.(使)减少, (使)变小	
+3215	residual	6	[ri'zidjuəl]	a.剩余的, 残留的	
+3216	chlorophyll	6	['klɔ:rəfil]	n.[生化]叶绿素	
+3217	coil	6	[kɔil]	v.盘绕, 卷.n.线圈	
+3218	penicillin	6	[͵peni'silin]	n.[微]青霉素（音译名为盘尼西林）	
+3219	homestead	6	['həumsted]	n.家宅,宅基	
+3220	prestigious	6	[pre'stidʒəs]	a.享有声望的,有名望的	
+3221	frustration	6	[frʌs'trei∫ən]	n.挫败, 挫折	
+3222	servant	6	['sə:vənt]	n.仆人	
+3223	imitative	6	['imitətiv]	a.仿制的,模仿的	
+3224	lesson	6	['lesn]	n.功课	
+3225	incubate	6	['inkjubeit]	v.孵卵. 逐渐发展,酝酿, (传染病)潜伏	
+3226	hectare	6	['hektɑ:]	n.公顷（等于1万平方米）	
+3227	alert	6	[ə'lə:t]	a.警觉的.n.戒备	
+3228	committee	6	[kə'miti]	n.委员会	
+3229	chocolate	6	['t∫ɔkəlit]	n.巧克力	
+3230	loosely	6	['lu:slɪ]	ad.松散地	
+3231	creator	6	[kri:'eɪtə(r)]	n.创建者, 创作者	
+3232	dirt	6	[də:t]	n.污垢, 泥土,灰尘	
+3233	linsey-woolsey	6	['linzi'wulzi]	n.棉毛织品, 亚麻毛织品
+3234	Asian	6	['ei∫ən]	n./a.亚洲(的), 亚洲人(的)	
+3235	enthusiastic	6	[in.θju:zi'æstik]	a.热心的, 热情的	
+3236	proof	6	[pru:f]	n.证据,证明.adj.防 ... 的.vt.检验	
+3237	infrastructure	6	['infrə'strʌkt∫ə]	n.下部构造,基础下部组织	
+3238	novelist	6	['nɔvəlist]	n.(长篇)小说家	
+3239	peruvian	6	[pə'ru:vjən]	n./a.秘鲁人(的)	
+3240	static	6	['stætik]	a.静态的, 静止的	
+3241	osprey	6	['ɔspreɪ]	n.白色的羽毛, 鱼鹰	
+3242	Scotland	6	['skɔtlənd]	n.苏格兰(英国一部分,在不列颠北部)	
+3243	underneath	6	[͵ʌndə'ni:θ]	ad.在下面 prep.在...的下面	
+3244	pillar	6	['pilə]	n.柱子, 栋梁	
+3245	affection	6	[ə'fek∫ən]	n.影响, 感情,影响	
+3246	someone	6	['sʌmwʌn]	pron.有人, (cid:7680)人	
+3247	kneel	6	[ni:l]	vi.跪下	
+3248	evaluation	6	[i͵vælju'ei∫ən]	n.估价, 评价	
+3249	huckleberry	6	['hʌklbəri]	n.越橘类	
+3250	elk	6	[elk]	n.麋鹿	
+3251	darken	6	['dɑ:kən]	v.(使)变暗	
+3252	suffer	6	['sʌfə]	vt.遭受, 经历	
+3253	jaw	6	[dӡɔ:]	n.颚,下巴	
+3254	hardship	6	['hɑ:d͵∫ip]	n.困苦, 艰难	
+3255	historically	6	[his'tɔrikəli]	ad.历史上地	
+3256	disorient	6	[dis'ɔ:rient]	vt.使失去方向感, 使迷惑	
+3257	acidic	6	[ə'sidik]	a.酸的,酸性的	
+3258	elder	6	['eldə(r)]	n.年长者, 老人	
+3259	modification	6	[͵mɔdifi'kei∫ən]	n.更改, 修改	
+3260	anyone	6	['eniwʌn]	pron.任何一个	
+3261	fingerboard	6	['fɪŋɡəbɔ:d]	n.键盘	
+3262	watercraft	6	[`wɔ-;-kræft]	n.船只	
+3263	buildup	6	['bild.ʌp]	n.集结, 增长,发展,树立名誉	
+3264	varnish	6	['vɑ:ni∫]	n.清漆,光泽.vt.涂清漆,使光亮	
+3265	warfare	6	['wɔ:fεə]	n.战争, 作战, 冲突, 竞争	
+3266	cop	6	[kɔp]	n.警官, 巡警	
+3267	symbiosis	6	[simbai'əusis]	n.[生]共生(现象),合作关系	
+3268	presidential	6	[͵prezi'den∫əl]	a.总统的,首长的	
+3269	sponge	6	[spʌndӡ]	n.海绵.vt.擦	
+3270	gut	6	[ɡʌt]	n.内脏,[ pl.]胆量.adj.本能的,根本的	
+3271	Russia	6	[`rʌ∫ə]	n.俄罗斯	
+3272	powder	6	['paudə]	n.粉(末).v.搽粉,撒粉	
+3273	organizational	6	[͵ɔɡənai'zei∫ənəl]	a.组织的	
+3274	abruptly	6	[ə'brʌptli]	ad.突然地,粗鲁地	
+3275	administrative	6	[əd'ministrətiv]	a.管理的,行政的	
+3276	hypothetical	6	[.hɑipə'θetikəl]	a.假说的,臆说的	
+3277	pastoral	6	['pɑ:stərəl]	a.田园生活的,宁静的	
+3278	overtime	6	['əuvətaim]	n.超时.a.超时的,加班的  ad.加班	
+3279	interglacial	6	[͵intə'ɡleisjəl]	a.间冰期的	
+3280	bias	6	['baiəs]	n.偏见vt.使存偏见	
+3281	ahead	6	[ə'hed]	a./ad.在前, 向前	
+3282	lamp	6	[læmp]	n.灯	
+3283	conform	6	[kən'fɔ:m]	v.使一致, 遵从,符合	
+3284	detractor	6	[dɪ'træktə(r)]	n.诽谤者	
+3285	timescale	6	['taimskeil]	n.时标, 时间量程	
+3286	far-reaching	6	[fɑ:'ri:tʃiŋ]	a.深远的	
+3287	left-hand	6	['lefthænd]	a.左手的,左边的	
+3288	middle-class	6	['midl'klæs]	a.中产阶级的	
+3289	stove	6	[stəuv]	n.炉	
+3290	commit	6	[kə'mit]	v.犯罪, 承诺, 委托	
+3291	renewal	6	[ri'nju(:)əl]	n.更新, 恢复	
+3292	false	6	[fɔ:ls]	a.错误的,假的	
+3293	tolerant	6	['tɔlərənt]	a.宽容的, 容忍的	
+3294	dull	6	[dʌl]	a.乏味的,阴沉的	
+3295	depress	6	[di'pres]	v.使沮丧, 使消沉,削弱	
+3296	fortunate	6	['fɔ:tʃənit]	a.幸运的, 侥幸的	
+3297	buoyant	6	['bɔiənt]	a.有浮力的, 轻快的	
+3298	slick	6	[slik]	a.圆滑的,精巧的	
+3299	shine	6	[∫ain]	v.照耀,发光.n.光泽	
+3300	helpful	6	['helpful]	a.有益的,给予帮助的	
+3301	domestication	6	[dəʊ,mestɪ`keɪ∫ən]	n.驯养, 教化	
+3302	blur	6	[blə:]	v.弄脏.n.污点, 模糊	
+3303	replenish	6	[ri'pleni∫]	v.补充,重新填满	
+3304	fellowship	6	['feləu∫ip]	n.伙伴关系	
+3305	tutelage	6	['tju:tilidӡ]	n.监护,指导	
+3306	freudian	6	['frɔidiən]	n./a,佛洛伊德学说(的)	
+3307	pent-up	6	['pent'ʌp]	a.幽闭的,被压抑的	
+3308	controversy	6	['kɔntrəvə:si]	n.论争, 辩论	
+3309	predation	6	[pri'deiʃən]	n.掠食	
+3310	qualification	6	[͵kwɔlifi'kei∫ən]	n.资格, 条件	
+3311	perish	6	['peri∫]	vi.丧生,消亡	
+3312	photographer	6	[fə'tɔɡrəfə]	n.摄影师	
+3313	trance	6	[trɑ:ns]	n./v.恍惚,出神	
+3314	opaque	6	[əu'peik]	a.不透明的,难懂的	
+3315	vigorously	6	['vigərəsli]	ad.精力旺盛地,健壮地	
+3316	lease	6	[li:s]	n.租赁vt.出租,租得	
+3317	brightly	6	['braitli]	ad.明亮地,聪明地	
+3318	underlies	6	[.ʌndə'lai]	v.位于 ... 之下, 成为 ... 的基础	
+3319	telecommunication	6	['telikəmju:ni'kei∫ən]	n.电信,远程通信
+3320	recur	6	[ri'kə:]	vi.再发生,重现	
+3321	reset	6	['ri:set]	v.重新安排	
+3322	constructive	6	[kən'strʌktiv]	a.建设性的,构造上的	
+3323	habituation	6	[͵hæbitju'ei∫ən]	n.适应,习惯	
+3324	generalization	6	[͵dӡenərəlai'zei∫ən]	n.一般化, 归纳, 概括	
+3325	shock	6	[∫ɔk]	n./v.震动,震惊	
+3326	permanence	6	['pə:mənəns]	n.永久, 持久	
+3327	tine	6	[tain]	n.(尖)齿, 叉	
+3328	vacation	6	[və'kei∫ən]	n.假期,休假	
+3329	briefly	6	['bri:fli]	ad.简短地,简略地	
+3330	precipitate	6	[pri'sipiteit]	vt.促成,使沉淀.n.沉淀物	
+3331	Scottish	6	['skɔti∫]	n.苏格兰人(的), 苏格兰语（的）	
+3332	Norwegian	6	[nɔ:'wi:dӡən]	a.挪威的 n.挪威人, 挪威语	
+3333	lime	6	[laim]	n.酸橙,石灰	
+3334	ball	6	[bɔ:l]	n.球, 球状物,舞会	
+3335	joiner	6	['dӡɔinə]	n.工匠,接合者	
+3336	bulk	6	[bʌlk]	n.(大)块,主体.vt.使更大	
+3337	repetition	6	[͵repi'ti∫ən]	n.重复,反复	
+3338	patronage	6	['pætrənidӡ]	n.赞助,光顾(买东西)	
+3339	bacterium	6	[bæk'tiəriəm]	n.细菌	
+3340	carman	6	[`kɑ:mən]	n.车夫,司机	
+3341	incise	6	[in'saiz]	vt.切入, 切割	
+3342	shaft	6	[∫ɑ:ft]	n.柄,杆	
+3343	leak	6	[li:k]	v.(使)漏,泄露.n.漏洞	
+3344	energetic	6	[͵enə'dӡetik]	a.精力充沛的,积极的	
+3345	restore	6	[ris'tɔ:]	vt.恢复,重建	
+3346	Mexican	6	['meksɪkən]	n./a.墨西哥(的), 墨西哥人(的)	
+3347	cat	6	[kæt]	n.猫	
+3348	bit	6	[bit]	n.一点儿,少许,小片	
+3349	doctor	6	['dɔktə]	n.医生,博士	
+3350	crumple	6	['krʌmpl]	v.(使)皱,扭曲,(使)崩溃,使一蹶不振	
+3351	equality	6	[i(:)'kwɔliti]	n.等同性, 平等	
+3352	developmental	6	[di͵veləp'mentəl]	a.发展的, 进化的	
+3353	await	6	[ə'weit]	vt.等候	
+3354	saline	6	[sə'lain]	a.含盐的,咸的	
+3355	minimal	6	['miniməl]	a.最小的, 最小限度的	
+3356	warmth	6	[wɔ:mθ]	n.暖和, 温暖	
+3357	newborn	6	[nju:'bɔ:n]	n.婴儿	
+3358	opposition	6	[ɔpə'zi∫ən]	n.反对,相反	
+3359	shadow	6	['∫ædəu]	n.阴影,影子	
+3360	magic	6	['mædӡik]	n.魔术,魔力.a.有魔力的	
+3361	meal	6	[mi:l]	n.餐, 一顿饭	
+3362	mechanical	6	[mi'kænikl]	a.机械的, 机械制的	
+3363	alien	6	['eiljən]	a.外国(人)的.n.外国(星)人	
+3364	chapbook	6	['tʃæpbuk]	n.畅销故事书	
+3365	shoe	6	[∫u:]	n.鞋	
+3366	distract	6	[dis'trækt]	v.转移,分散,分心	
+3367	satisfactory	6	[.sætis'fæktəri]	a.令人满意的	
+3368	devastate	6	['devəsteit]	vt.毁坏	
+3369	Holland	6	['hɔlənd]	n.荷兰	
+3370	glue	6	[ɡlu:]	n.胶(水).vt.胶合	
+3371	prospect	6	['prɔspekt]	n.前景, 景象,希望.vt.勘探	
+3372	arcade	6	[ɑ:'keid]	n.拱廊	
+3373	navigational	6	[.nævə'geiʃnəl]	a.导航的, 航行的	
+3374	deterioration	6	[di͵tiəriə'rei∫ən]	n.变坏, 退化,恶化	
+3375	pursuit	6	[pə'sju:t]	n.追求,追逐	
+3376	soak	6	[səuk]	n./v.浸泡, 渗透	
+3377	taxes	6	['tæksiz]	n.赋税,  税收	
+3378	solidify	6	[sə'lidifai]	v.(使)凝固,团结	
+3379	belt	6	[belt]	vi.疾驰.vt.重击.n.带子, 地带.	
+3380	cape	6	[keip]	n.海角,斗篷	
+3381	spoil	6	[spɔil]	vt.损坏,溺爱.vi.变质	
+3382	meticulously	6	[me'tikjuləsli]	ad.仔细地,谨慎地	
+3383	configuration	6	[kən͵fiɡju'rei∫ən]	n.构造, 结构	
+3384	unaided	6	['ʌn'eidid]	a.未受协助的, 独立的	
+3385	perplex	6	[pə'pleks]	vt.使困惑,使费解	
+3386	unnecessary	6	[ʌn'nesisəri]	a.不必要的,多余的	
+3387	concave	6	['kɔn'keiv]	a.凹的.n.凹(面)	
+3388	beak	6	[bi:k]	n.鸟嘴, 喙	
+3389	descent	6	[di'sent]	n.下降,下倾	
+3390	duck	6	[dʌk]	n.鸭,鸭肉	
+3391	duty	6	['dju:ti]	n.义务, 责任	
+3392	yard	6	[jɑ:d]	n.院子,场地	
+3393	legendary	6	['ledӡəndəri]	a.闻名的,传说的	
+3394	haul	6	[hɔ:l]	vt./.n.(用力)拖,拉	
+3395	congressional	6	[kɔŋ'greʃənl]	a.会议的,国(议)会的	
+3396	abstraction	6	[æb'stræk∫ən]	n.(cid:6656)取,精练	
+3397	hazard	6	['hæzəd]	n.危险.vt.冒…风险	
+3398	overlap	6	['əuvə'læp]	vt.重叠, 重复	
+3399	width	6	[widθ]	n.宽度, 广度	
+3400	pet	6	[pet]	n.宠物	
+3401	camouflage	6	['kæmuflɑ:ӡ]	v./n.伪装 ,掩饰	
+3402	adverse	6	['ædvə:s]	a.不利的,有害的	
+3403	postage	6	['pəustidӡ]	n.邮费	
+3404	prairie	6	['prεəri]	n.大草原,牧场,	
+3405	triumph	6	['traiəmf]	n.胜利.v.获胜
+3406	reinforce	6	[͵ri:in'fɔ:s]	vt.增强,加强	
+3407	bent	6	[bent]	a.决心的,弯曲的.n.倾向, 爱好	
+3408	son	6	[sʌn]	n.儿子	
+3409	stimulation	6	[͵stimju'lei∫ən]	n.激励,刺激	
+3410	hibernate	6	['haibəneit]	v.冬眠	
+3411	auxiliary	6	[ɔ:ɡ'ziljəri]	a.辅助的, 补助的	
+3412	athlete	6	['æθli:t]	n.运动员	
+3413	built-in	6	['bilt'in]	a.嵌入的,内装的	
+3414	close-up	6	['kləusʌp]	n.特写镜头,  细致的观察	
+3415	shut	6	[∫ʌt]	v.关上, 关闭	
+3416	priority	6	[prai'ɔ：rəti]	n.优先(权)	
+3417	salary	6	['sæləri]	n.薪水	
+3418	collaboration	6	[kə͵læbə'rei∫ən]	n.合作,协作	
+3419	waterpower	6	['wɔ:təpaʊə(r)]	n.水力(水力发电)	
+3420	pollen	6	['pɔlin]	n.花粉	
+3421	dealer	6	['di:lə]	n.经销商, 商人	
+3422	firmly	6	['fз:mlɪ]	ad.坚固地,稳定地	
+3423	relieve	6	[ri'li:v]	vt.减轻, 解除	
+3424	defensive	6	[di'fensiv]	n./a.防御(的)	
+3425	equilibrium	6	[͵i:kwi'libriəm]	n.平衡,均衡	
+3426	symbolize	6	['simbəlaiz]	vt.用符号表示,作为...象征	
+3427	concrete	6	['kɔnkri:t]	a.实在的,具体的.n.混凝土	
+3428	upset	6	[ʌp'set]	v.搅乱,使心烦.n.不安	
+3429	definite	6	['definit]	a.明确的,一定的	
+3430	formerly	6	['fɔ:məlɪ]	ad.从前, 以前	
+3431	camp	6	[kæmp]	n.营地.vi.宿营	
+3432	cosmos	6	['kɔzmɔs]	n.宇宙	
+3433	overlie	6	[͵əuvə'lai]	v.躺在...上面	
+3434	shorten	6	['∫ɔ:tn]	v.缩短, (使)变短	
+3435	aboard	6	[ə'bɔ:d]	prep./ad.在(船、飞机、车)上,上船	
+3436	blend	6	[blend]	v.(使)混和.n.混合物	
+3437	participation	6	[pɑ:͵tisi'pei∫ən]	n.参加,参与	
+3438	detectable	6	[di'tektəbəl]	a.可发现的,可察觉的	
+3439	adhere	6	[əd'hiə]	vi.粘附,遵守	
+3440	accommodate	6	[ə'kɔmədeit]	vt.容纳,(cid:6656)供(住处),适应	
+3441	toolmaker	6	[tu:l'meikə]	n.精密工具制造者	
+3442	populous	6	['pɔpjuləs]	a.人口稠密的	
+3443	wallpaper	6	['wɔ:lpeɪpə(r)]	n.墙纸	
+3444	reputation	6	[͵repju(:)'tei∫ən]	n.名誉, 名声,声望	
+3445	gasoline	6	['ɡæsəli:n]	n.汽油	
+3446	invite	6	[in'vait]	vt.邀请,征求	
+3447	tap	6	[tæp]	n./v.塞子,龙头,轻叩(拍)	
+3448	endless	6	['endlis]	a.无止境的,无穷的	
+3449	formalize	6	['fɔ:məlaiz]	vt.使正式, 形式化	
+3450	edition	6	[i'di∫ən]	n.版,版本	
+3451	sew	6	[sju:]	v.缝合, 缝纫	
+3452	inefficient	6	[͵ini'fi∫ənt]	a.效率低的,效率差的	
+3453	geographer	6	[dӡi'ɔɡrəfə]	n.地理学者	
+3454	laser	6	['leizə]	n.激光	
+3455	foul	6	[faul]	a.邪恶的,下流的.n.犯规.v.弄脏	
+3456	willow	6	['wiləu]	n.柳(树)	
+3457	continuity	6	[͵kɔnti'nju(:)iti]	n.连续性, 连贯性	
+3458	meteoric	6	[mi:ti'ɔrik]	a.流星的,大气的	
+3459	explode	6	[ik'spləud]	v.爆炸,爆发	
+3460	recipient	6	[ri'sipiənt]	n.接受者,接收者	
+3461	favorite	6	['feivərit]	a.喜爱的.n.特别喜爱的人(或物)	
+3462	anxious	6	['æŋk∫əs]	a.渴望的, 忧虑的,急切的	
+3463	adoption	6	[ə'dɔp∫ən]	n.采用, 收养,接受	
+3464	vie	6	[vai]	v.竞争	
+3465	instruct	6	[in'strʌkt]	vt.教导, 指示	
+3466	carol	6	['kærəl]	n.颂歌, 欢乐的歌	
+3467	god	6	[ɡɔd]	n.神, 上帝	
+3468	comedy	6	['kɔmidi]	n.喜剧	
+3469	provision	6	[prə'viӡən]	n.供应,预备	
+3470	exceptionally	6	[ik'sepʃənli]	ad.格外地, 特别地	
+3471	ranch	6	[rænt∫,rɑ:nt∫]	.v.经营牧场.n牧场	
+3472	imperial	6	[im'piəriəl]	a.帝国的,帝王的	
+3473	defenseless	6	[dɪ`fenslɪs]	a.无防备的	
+3474	furnish	6	['fə:ni∫]	vt.布置, 装备, (cid:6656)供	
+3475	lag	6	[læɡ]	vi.落后.n.滞后,(时间上的)间隔	
+3476	accompaniment	6	[ə'kʌmpənimənt]	n.陪伴物, 伴奏	
+3477	pretend	6	[pri'tend]	v.假装,装作	
+3478	thresh	6	[θre∫]	v.打谷, 脱粒, 反复得做	
+3479	repetitive	6	[ri'petitiv]	a.重复的,反复的	
+3480	mule	6	[m:l]	n.骡子,十分固执的人	
+3481	prone	6	[prəun]	a.易于…的,很可能…的	
+3482	wipe	6	[waip]	v.擦, 揩	
+3483	individualism	6	[ɪndɪ'vɪdjʊəlɪz(ə)m]	n.个人主义, 利己主义	
+3484	Russian	6	[`rʌ∫ən]	a./.n.俄罗斯(语)(的)	
+3485	formulate	6	['fɔ:mjuleit]	vt.构想出,规划	
+3486	forty	6	['fɔ:ti]	num.  四十	
+3487	coastline	6	['kəustlain]	n.海岸线	
+3488	unevenly	6	['ʌn'i:vənli]	ad.不平坦地, 不均衡地	
+3489	assess	6	[ə'ses]	vt.估定,评定	
+3490	sick	5	[sik]	a.有病的,恶心的	
+3491	drapery	5	['dreipəri]	n.布业,布匹,窗帘
+3492	nick	5	[nik]	n.小伤口,刻痕	
+3493	ordinarily	5	['ɔ:dinərili]	ad.平常地,普通地	
+3494	headquarter	5	['hed'kwɔ:tə]	v.将...之总部设在.n.总部	
+3495	peach	5	[pi:t∫]	n.桃(树)	
+3496	radiocarbon	5	['reidiəu'kɑ:bən]	n.放射性炭	
+3497	afield	5	[ə'fi:ld]	ad.远离着(家乡), 去远处,在战场上	
+3498	relocate	5	['ri:ləu'keit]	v.重新部署,迁移	
+3499	enormously	5	[i'nɔ:məsli]	ad.极度,大量	
+3500	saltwater	5	[`sɔ:lt,wɔ:tə(r)]	a.盐水的, 海产的	
+3501	pipe	5	[paip]	vt.以管输送.n.管子	
+3502	mute	5	[mju:t]	a.哑的,不发音的.vt.消除(声音)	
+3503	glen	5	[ɡlen]	n.峡谷, 溪谷	
+3504	poison	5	['pɔizn]	n.毒药.vt 下毒	
+3505	wax	5	[wæks]	n.蜡, 蜡状物	
+3506	neglect	5	[ni'ɡlekt]	vt./n.忽视,忽略,疏忽	
+3507	fahrenheit	5	['færənhait]	n.华氏温度计	
+3508	midcontinent	5	[mid'kɔntinənt]	n.大陆中部	
+3509	emperor	5	['empərə]	n.皇帝, 君主	
+3510	mainstay	5	['meɪnsteɪ]	n.支柱,骨干	
+3511	wholly	5	['həuli]	ad.整个,全部	
+3512	brilliance	5	[`brɪljəns]	n.光辉,辉煌	
+3513	externally	5	[ik'stə:nəli]	ad.外部地, 外面地	
+3514	successor	5	[sək'sesə]	n.接班人, 继任人	
+3515	tax	5	[tæks]	n.税,税款.v.斥责, 使 ... 负重荷	
+3516	plumb	5	[plʌm]	v.（用铅垂）测量,探测	
+3517	lessen	5	['lesn]	v.减少,缩小	
+3518	permian	5	['pə:miən]	n./a.[地]二叠纪(的)	
+3519	friendly	5	['frendli]	a.友好的, 友谊的	
+3520	wasteful	5	['weistfəl]	a.浪费的,挥霍的	
+3521	foraminifera	5	[͵fɒrə'mɪnɪfə]	n.有孔虫类	
+3522	peace	5	[pi:s]	n.和平, 安静	
+3523	domain	5	[dəu'mein]	n.领地,范围	
+3524	agitate	5	['ædӡiteit]	v.搅动,煽动,使…激动	
+3525	farce	5	[fɑ:s]	n.闹剧,荒唐可笑.v.填充	
+3526	aborigine	5	[æbə'ridʒini:]	n.土著居民	
+3527	attest	5	[ə'test]	v.证明,证实,为…作证	
+3528	aggressiveness	5	[ə'gresivnis]	n.进取精神, 侵犯	
+3529	privately	5	['praivitli]	ad.秘密,一个人,私下地	
+3530	vague	5	[veiɡ]	a.不明确的,模糊的	
+3531	lawlike	5	['lɔ,laɪk]	a.似法律的	
+3532	oppositely	5	['ɔpəzitli]	ad.相反地, 相对地	
+3533	anecdotal	5	[,ænik'doutl]	a.轶事的,趣闻的
+3534	ounce	5	[auns]	n.盎司	
+3535	disorder	5	[dis'ɔ:də]	n.混乱.vt.扰乱	
+3536	right-hand	5	['rait.hænd]	a.右手的,右边的	
+3537	defeat	5	[di'fi:t]	vt./n.击败,战败	
+3538	synchronization	5	[͵siŋkrənai'zei∫ən]	n.同步化,同时性	
+3539	dress	5	[dres]	n.连衣裙,女装.v.打扮	
+3540	biographer	5	[bai'ɔɡrəfə]	n.传记作者	
+3541	creativity	5	[,kri:eɪ`tɪvətɪ]	n.创造(力)	
+3542	illness	5	['ilnis]	n.疾病, 生病	
+3543	joint-stock	5	[dʒɔint'ʃɑk]	a.合资的, 股份组织的	
+3544	curriculum	5	[kə'rikjuləm]	n.课程	
+3545	Anglo	5	[`æŋɡləʊ]	n.盎格鲁, 英裔美国人	
+3546	revival	5	[ri'vaivəl]	n.复兴, 复活	
+3547	Hampshire	5	['hæmp∫iə]	n.汉普郡(英国南部之一郡)	
+3548	worthwhile	5	['wə:ð'(h)wail]	a.值得做的	
+3549	spy	5	[spai]	n.间谍, 侦探.v.侦察	
+3550	instinctive	5	[in'stiŋktiv]	a.本能的,直觉的,天生的	
+3551	signaler	5	[`sɪɡnɚlə(r)]	n.信号员	
+3552	retire	5	[ri'taiə]	vi.退休	
+3553	turbulence	5	['tз:bjʊləns]	n.骚乱, 动荡	
+3554	paradigm	5	['pærədim]	n.范例	
+3555	insight	5	['insait]	n.洞察力, 见识	
+3556	penchant	5	['pentʃənt ]	n.喜好(倾向),嗜好	
+3557	sinkhole	5	['siŋkhəul]	n.污水池	
+3558	neptune	5	['neptju:n]	n.[天]海王星	
+3559	gin	5	[dӡin]	n.杜松烧酒 .v.开始	
+3560	flax	5	[flæks]	n.亚麻	
+3561	revolve	5	[ri'vɔlv]	v.旋转, 考虑, 围绕	
+3562	withdraw	5	[wið'drɔ:]	v.收回,撤消	
+3563	purple	5	['pə:pl]	a.紫色的	
+3564	comprise	5	[kəm'praɪz]	v.包含, 由...组成	
+3565	timer	5	['taimə]	n.计时员, 定时器	
+3566	supplant	5	[sə'plɑ:nt]	v.排挤,取代	
+3567	long-range	5	['lɔŋ'reindʒ]	a.远程的, 长期的	
+3568	peaceful	5	['pi:sful]	a 和平的, 平静的	
+3569	reign	5	[rein]	n.君主统治.v.统治, 支配	
+3570	appreciation	5	[ə͵pri:∫i'ei∫ən]	n.感谢, 感激,欣赏,鉴别	
+3571	tempt	5	[tempt]	vt.吸引,诱惑	
+3572	boast	5	[bəust]	v./n.自夸	
+3573	revitalize	5	['ri:'vaitəlaiz]	v.新生,使…复兴	
+3574	spiritual	5	['spiritjuəl]	a.精神上的	
+3575	clan	5	[klæn]	n.氏族,部落	
+3576	fictional	5	['fikʃənl]	a.虚构的,小说的	
+3577	heterogeneous	5	[.hetərəu'dʒi:niəs]	a.异种的, 异质的	
+3578	diversion	5	[dai'və:∫ən]	n.转向, 转移	
+3579	protrude	5	[prə'tru:d]	v.突出,伸出	
+3580	recrystallize	5	[ri:'kristəlaiz]	v.( 使) 再结晶	
+3581	warp	5	[wɔ:p]	v.弯曲,歪曲	
+3582	amusement	5	[ə'mju:zmənt]	n.娱乐, 消遣	
+3583	monetary	5	['mʌnitəri]	a.货币的, 金融的	
+3584	legislature	5	['ledӡis͵leit∫ə]	n.立法机关	
+3585	wedge	5	[wedӡ]	n.楔 vt.楔入, 楔进	
+3586	overgraze	5	[.əuvə'greiz]	vt.使过度放牧	
+3587	embed	5	[im'bed]	vt.使插入, 嵌入	
+3588	blowhole	5	['bləuhəul]	n.喷水孔, 通风孔	
+3589	imagist	5	['imədӡist]	n./a.意像派者(的)	
+3590	antenna	5	[æn'tenə]	n.天线	
+3591	receptor	5	[ri'septə]	n.接受器,感觉器官	
+3592	magenta	5	[mə'dӡentə]	n./a.红紫色(的)	
+3593	valse	5	[vɑ:ls]	v.轻轻地走.n.华尔兹	
+3594	rebellion	5	[ri'beljən]	n.反叛,反抗	
+3595	discoverer	5	[dis'kʌvərə]	n.发现者	
+3596	charcoal	5	['t∫ɑ:kəul]	n.木炭	
+3597	conifer	5	['kəunifə]	n.[植]松类, 针叶树	
+3598	botanist	5	[`bɔtənɪst]	n.植物学家	
+3599	narrator	5	[næ'reitə]	n.讲述者,解说员	
+3600	critically	5	['kritikəli]	ad.批评性地, 危急地	
+3601	woolen	5	['wulin]	a.毛线的.n.毛制品	
+3602	dialogue	5	['daiəlɔɡ]	n.对话	
+3603	void	5	[vɔid]	a.无效的.n.空虚感,真空.vt.使无效	
+3604	variously	5	['vɛəriəsli]	ad.不同地, 各种各样地	
+3605	dictate	5	[dik'teit]	v.口授,命令	
+3606	incursion	5	[in'kə:∫ən]	n.侵犯,入侵	
+3607	decode	5	[͵di:'kəud]	vt.解码, 译解	
+3608	advantageous	5	[͵ædvən'teidӡəs]	a.有利的	
+3609	legend	5	['ledӡənd]	n.传说,传奇故事,传奇人物	
+3610	toll	5	[təul]	n.过路(桥)费	
+3611	deliberate	5	[di'libəreit]	a.故意的,深思熟虑的.v.仔细考虑,思考	
+3612	milk	5	[milk]	n.乳, 牛奶.vt.挤(奶)	
+3613	subside	5	[səb'said]	vi.下沉,平静	
+3614	socially	5	[`səʊ∫əlɪ]	ad.社交上,社会上	
+3615	inventory	5	['invəntri]	n.详细目录, 存货(清单)	
+3616	drastic	5	['dræstik]	a.激烈的, 极端的	
+3617	chapel	5	['t∫æpəl]	n.小教堂	
+3618	tenement	5	['tenimənt]	n.公寓	
+3619	staple	5	['steipl]	vt.订.a.主要的
+3620	fatty	5	['fæti]	a.脂肪的	
+3621	mainland	5	[`meɪnlænd]	n.大陆,本土	
+3622	disrupt	5	[dis'rʌpt]	vt.使中断,扰乱	
+3623	rend	5	[rend]	v.撕裂,猛拉	
+3624	maser	5	['meizə]	n.微波激射器	
+3625	spinal	5	['spainl]	a.脊椎骨.n.脊髓麻醉	
+3626	clockwise	5	['klɔkwaiz]	ad.／.a.顺时针方向地(的)	
+3627	generic	5	[dӡi'nerik]	a.种类的,类属的	
+3628	resin	5	['rezin]	n.树脂 vt.涂树脂于	
+3629	backward	5	['bækwəd]	a./ad.向后的, 落后的	
+3630	carving	5	['kɑ:viŋ]	n.雕刻(品)	
+3631	frown	5	[fraun]	v.／.n.皱眉,蹙额	
+3632	feasible	5	['fi:zəbl]	a.可行的,可能的	
+3633	distrust	5	[dis'trʌst]	n./vt.不信任,怀疑	
+3634	by-product	5	['bai.prɔdəkt]	n.副产品, 副作用	
+3635	self-governing	5	[͵self'gʌvəniŋ]	a.自治的	
+3636	incredible	5	[in'kredəbl]	a.不可信的,不可思议的	
+3637	smother	5	['smʌðə]	v.窒息,厚盖,掩饰	
+3638	stain	5	[stein]	n.污点v.染污	
+3639	high-pressure	5	['hai'preʃə]	a.高压的	
+3640	cavern	5	['kævən]	n.洞穴,大山洞	
+3641	minuscule	5	[mi'nʌskju:l]	n./a.草写小字(的)	
+3642	envelop	5	[in'veləp]	vt.包封, 遮盖	
+3643	fortunately	5	['fɔ:tʃənətli]	ad.幸运地,幸亏	
+3644	dormant	5	['dɔ:mənt]	a.冬眠的	
+3645	coppersmith	5	['kɔpəsmɪθ]	n.铜匠	
+3646	intrinsic	5	[in'trinsik]	a.内在的, 固有的	
+3647	portability	5	[͵pɔ:tə`bɪlətɪ,pəʊ-]	n.可携带, 轻便	
+3648	pest	5	[pest]	n.害虫	
+3649	potato	5	[pə'teitəu]	n.马铃薯	
+3650	clarify	5	['klærifai]	v.澄清, 阐明	
+3651	extermination	5	[ik'stə:mi'neiʃən]	n.消灭, 根绝	
+3652	suburbanization	5	[͵sʌbə:bənai'zeiʃən]	n.市郊化	
+3653	succulent	5	['sʌkjulənt]	a.多汁的	
+3654	medal	5	['medl]	n.奖牌,奖章	
+3655	micron	5	['maɪkrɔn]	n.微米,百万分之一米	
+3656	publicize	5	['pʌblisaiz]	v.宣传,引人注意	
+3657	spout	5	[spaut]	vt.喷出	
+3658	catastrophic	5	[͵kætə`strɔfɪk]	a.悲惨的, 灾难的	
+3659	sensory	5	['sensəri]	a.知觉的, 感觉的	
+3660	fodder	5	['fɔdə]	n.饲料, 草料,素材	
+3661	photoflash	5	['fəutəuflæ∫]	n.（照相）闪光灯	
+3662	substantiated	5	[səb'stænʃieit]	vt.证实, 实体化	
+3663	cramp	5	[kræmp]	n.痉挛.vt.限制,束缚	
+3664	reversal	5	[ri'və:səl]	n.翻转, 倒转, 反转	
+3665	psychologically	5	[saikə'lɔdʒikli]	ad.精神上地, 心理上地	
+3666	virtuosity	5	[͵və:tju'ɔsiti]	n.艺术鉴别力	
+3667	leafy	5	['li:fi]	a.叶状的,叶茂的	
+3668	perishable	5	['peri∫əbl]	a.容易腐烂的	
+3669	retract	5	[ri'trækt]	v.缩回, 撤销	
+3670	Israel	5	['izreiəl]	n.[地名] 以色列	
+3671	retrieval	5	[ri'tri:vəl]	n.取回,补偿	
+3672	insist	5	[in'sist]	v.坚持, 强调	
+3673	inject	5	[in'dӡekt]	vt.注射, 注入	
+3674	domelike	5	['dəumlaik]	a.穹顶状的	
+3675	savannah	5	[sə'vænə]	n.(南美)大草原	
+3676	snake	5	[sneik]	n.蛇.v.蜿蜒,弯弯曲曲行进	
+3677	pour	5	[pɔ:,pɔə]	vt.灌,注,倾泻	
+3678	navigator	5	['næviɡeitə]	n.航海家	
+3679	vacuum	5	['vækjuəm]	n.真空,空间	
+3680	liter	5	['li:tə]	n.公升	
+3681	arthropod	5	['ɑ:θrəpɔd]	n./a.节肢动物(的)	
+3682	airflow	5	[`eəfləʊ]	n.气流	
+3683	departure	5	[di'pɑ:t∫ə]	n.启程, 出发	
+3684	momentum	5	[məu'mentəm]	n.动力, 势头	
+3685	spearhead	5	['spiəhed]	v.充当先锋	
+3686	unjust	5	['ʌn'dӡʌst]	a.不公平的	
+3687	industrialism	5	[ɪn'dʌstrɪəlɪz(ə)m]	n.产业主义,工业制度	
+3688	drug	5	[drʌɡ]	n.药,麻醉药,毒品.vt.使服麻醉药	
+3689	part-time	5	['pɑrt'taɪm]	a.兼职的, 部分时间的	
+3690	environmentally	5	[en.vairən'mentli]	ad.在环境方面地	
+3691	gem	5	[dӡem]	n.宝石, 珍宝	
+3692	detract	5	[di'trækt]	v.转移,使分心,贬低	
+3693	swirl	5	[swə:l]	n./v.旋转,漩涡	
+3694	bluefin	5	[`blu:fɪn]	n.金枪鱼	
+3695	radiant	5	['reidjənt]	a.发光的, 辐射的	
+3696	potent	5	['pəutənt]	a.强有力的,有效的	
+3697	sociobiology	5	[͵səu∫iəu͵bai'ɔlədӡi]	n.生物社会学	
+3698	ideological	5	[͵aidiə'lɔdӡikəl]	a.意识形态的	
+3699	solidarity	5	[͵sɔli'dæriti]	n.团结	
+3700	providence	5	['prɔvidəns]	n.深谋远虑,远见	
+3701	catharsis	5	[kə'θɑ:sis]	n.宣泄,净化	
+3702	contradictory	5	[͵kɔntrə'diktəri]	a.相矛盾的	
+3703	archaic	5	[ɑ:'keiik]	a.古代的, 陈旧的	
+3704	aristocrat	5	['æristəkræt]	n.贵族	
+3705	consolidate	5	[kən'sɔlideit]	v.合并,统一,巩固
+3706	spark	5	[spɑ:k]	n.火花.vt.触发,引起	
+3707	plug	5	[plʌɡ]	vt.塞.n.插头	
+3708	spine	5	[spain]	n.脊柱	
+3709	absolute	5	['æbsəlu:t]	a.完全的, 绝对的	
+3710	lade	5	[leid]	v.装载,装货	
+3711	Soviet	5	['səuviet]	n./a.苏维埃(的)	
+3712	humanity	5	[hju(:)'mæniti]	n.人性	
+3713	budget	5	['bʌdӡit]	n.预算.v.做预算	
+3714	engulf	5	[in'ɡʌlf]	vt.吞没,吞食,狼吞虎咽	
+3715	frigid	5	['fridӡid]	a.寒冷的,冻僵的	
+3716	grandiose	5	['ɡrændiəus]	a.宏伟的,堂皇的	
+3717	citizenship	5	[`sɪtɪzɚn∫ɪp]	n.公民的身份	
+3718	despondent	5	[di'spɔndənt]	a.失望的, 沮丧的	
+3719	identifiable	5	[ai'dentifaiəbl]	a.可辨认的	
+3720	cellular	5	['seljulə]	a.细胞组成的,多孔的	
+3721	universality	5	[͵ju:nivə'sæliti]	n.普遍性, 一般性	
+3722	widen	5	['waidn]	v.加宽,扩展	
+3723	Impressionism	5	[ɪm'pre∫ənɪz(ə)m]	n.印象派, 印象主义	
+3724	steer	5	[stiə]	v.操纵, 驾驶	
+3725	moderately	5	['mɔdəritli]	ad.适度地	
+3726	writing	5	['raitiŋ]	n.笔迹, 作品	
+3727	symbolism	5	['simbəlizəm]	n.象征主义	
+3728	acute	5	[ə'kju:t]	a.敏锐的, 急性的,严重的,激烈的	
+3729	romance	5	[rə'mæns]	n.恋爱关系,浪漫气氛	
+3730	bowl	5	[bəul]	n.碗	
+3731	unreliable	5	['ʌnri'laiəbl]	a.不可靠的	
+3732	unfortunate	5	[ʌn'fɔ:t∫ənit]	a.不幸的	
+3733	weekly	5	['wi:kli]	a.每周的 ad.一周一次地.n.周报	
+3734	compensation	5	[kɔmpen'sei∫ən]	n.补偿, 赔偿,报酬	
+3735	vine	5	[vain]	n.葡萄树,藤本植物	
+3736	hardness	5	['hɑ:dnis]	n.硬度	
+3737	command	5	[kə'mɑ:nd]	n./v.命令,指挥,控制	
+3738	arbitrary	5	['ɑ:bitrəri]	a.任意的, 武断的	
+3739	pianist	5	['pjænist]	n.钢琴家	
+3740	slender	5	['slendə]	a.苗条的, 微薄的	
+3741	admit	5	[əd'mit]	v.承认,准许…进(加)入	
+3742	alp	5	[ælp]	n.高山	
+3743	commonplace	5	['kɔmənpleis]	n.寻常的事物adj. 平凡的	
+3744	vase	5	[vɑ:z,veis]	n.(花)瓶	
+3745	deliberately	5	[dɪ'lɪbərətlɪ]	ad.故意地,慎重地,谨慎地	
+3746	recommend	5	[rekə'mend]	vt.推荐,劝告,介绍,建议	
+3747	dual	5	['dju(:)əl]	a.双的, 二重的	
+3748	mouse	5	[maus]	n.鼠	
+3749	craftsmanship	5	['kræftsmən,ʃɪp]	n.技术	
+3750	beast	5	[bi:st]	n.野兽,牲畜	
+3751	affinity	5	[ə'finəti]	n.密切关系,类同,吸引力	
+3752	diagonal	5	[dai'æɡənl]	n./a.对角线(的)	
+3753	exhaust	5	[iɡ'zɔ:st]	vt.使筋疲力尽,耗尽	
+3754	resemblance	5	[ri'zembləns]	n.相似,形似	
+3755	nontraditional	5	[,nɔntrə`dɪ∫ənəl]	a.非传统的	
+3756	disprove	5	[dis'pru:v]	v.反驳,证明...为误	
+3757	skeptical	5	['skeptikəl]	a.怀疑的	
+3758	shirt	5	[∫ə:t]	n.衬衫	
+3759	plenty	5	['plenti]	n.丰富, 大量	
+3760	appropriately	5	[ə'prəupri.eitli]	ad.适当地,合适的,相称地	
+3761	emotionally	5	[i'məuʃənli]	ad.感情上地, 冲动地	
+3762	freshly	5	['fre∫lɪ]	ad.新近,刚才	
+3763	unbelievable	5	[.ʌnbi'li:vəbl]	a.难以置信的	
+3764	simultaneous	5	[͵siməl'teinjəs]	a.同时发生的,同步的	
+3765	induce	5	[in'dju:s]	vt.促使,引诱	
+3766	woodworker	5	[`wʊd,wз:kə(r)]	n.木工	
+3767	conversation	5	[͵kɔnvə'sei∫ən]	n.会话,交谈	
+3768	translate	5	[træns'leit]	v.翻译	
+3769	transaction	5	[træn'zæk∫ən]	n.交易,业务	
+3770	eager	5	['i:ɡə]	a.热心于, 渴望着	
+3771	skillful	5	['skilful]	a.熟练的, 灵巧的	
+3772	fate	5	[feit]	n.天数,命运	
+3773	possession	5	[pə'ze∫ən]	n.财产, 所有.[ pl.]所有物	
+3774	invariably	5	[in'veəriəbli]	ad.不变地,始终如一地	
+3775	Babylonian	5	[,bæbɪ`ləʊnjən]	n.巴比伦人(的), 巴比伦语（的）	
+3776	urbanization	5	[͵ə:bənai'zei∫ən]	n.都市化	
+3777	tram	5	[træm]	n.有轨电车	
+3778	sulfur	5	['sʌlfə]	n.[化] 硫磺	
+3779	stripe	5	[straip]	n.条纹,种类	
+3780	ought	5	[ɔ:t]	aux. 应当, 应该	
+3781	volatile	5	['vɔlətail]	a.动荡不定的,反复无常的	
+3782	densely	5	['densli]	ad.密集地,浓厚地	
+3783	biography	5	[bai'ɔɡrəfi]	n.传记	
+3784	inscribe	5	[in'skraib]	vt.题写	
+3785	intercity	5	[.intə'siti]	a.城市间的	
+3786	alongside	5	[ə'lɔŋ'said]	prep./ad.在旁边	
+3787	erratic	5	[i'rætik]	a.古怪的,飘忽不定的	
+3788	overly	5	['əʊvəlɪ]	ad.过度地, 极度地	
+3789	uplift	5	[ʌp'lift]	vt.(cid:6656)高,振奋(精神)	
+3790	workday	5	[wə:kdei]	n.工作日	
+3791	golden	5	['ɡəuldən]	a.金(黄)色的,金的
+3792	officially	5	['ɔ:'fɪ∫əlɪ]	ad.职务上, 正式	
+3793	sacrifice	5	['sækrifais]	n./.vt.牺牲,献祭	
+3794	trick	5	[trik]	n.诡计.vt.欺诈	
+3795	melody	5	['melədi]	n.旋律,曲调	
+3796	array	5	[ə'rei]	n./v.展示,排列	
+3797	thunderstorm	5	['θʌndəstɔ:m]	n.雷暴雨	
+3798	frog	5	[frɔɡ]	n.青蛙	
+3799	deception	5	[di'sep∫ən]	n.欺骗, 诡计	
+3800	typify	5	['tipifai]	v.代表,是...的典型	
+3801	gently	5	['dӡentli]	ad.轻轻地, 温柔地	
+3802	astronomical	5	[.æstrə'nɔmikəl]	a.天文学的, 巨大的	
+3803	quantify	5	['kwɔntifai]	v.用数量表示,量化	
+3804	startle	5	['stɑ:tl]	v.震惊	
+3805	self-sufficiency	5	[,selfsə`fɪ∫ənsɪ]	n.自给自足	
+3806	peregrine	5	['periɡrin]	n.游隼.a.外来的,移住的	
+3807	optimal	5	['ɔptiməl]	a.最理想的,最佳的	
+3808	polish	5	['pɔli∫]	vt.磨光,擦亮,修改,润色	
+3809	capability	5	[͵keipə'biliti]	n.能力,才能	
+3810	mechanization	5	[͵mekənai'zei∫ən]	n.机械化	
+3811	influx	5	['inflʌks]	n.流入,汇集,河流的汇集处	
+3812	sculptural	5	['skʌlptʃərəl]	a.雕刻的	
+3813	calm	5	[kɑ:m]	a.镇定的,平静的.v.(使)平静	
+3814	announce	5	[ə'nauns]	vt.宣布,宣告	
+3815	leisure	5	['leӡə;'li:ӡə]	n.闲暇, 休闲	
+3816	essence	5	['esns]	n.本质,实质	
+3817	landmass	5	[lændmæs]	n.大陆	
+3818	shrimp	5	[∫rimp]	n.小虾 v.捕虾	
+3819	ornamentation	5	[͵ɔ:nəmen'tei∫ən]	n.装饰	
+3820	freely	5	['fri:li]	ad.自由地,慷慨地	
+3821	undesirable	5	['ʌndi'zaiərəbl]	a.令人不悦的,讨厌的	
+3822	globe	5	[ɡləub]	n.球体,地球仪	
+3823	elegant	5	['eligənt]	a.优雅的, 雅致的	
+3824	self-sufficient	5	['selfsə'fiʃənt]	a.自给自足的	
+3825	shiny	5	['∫aini]	a.发光的,磨光的	
+3826	glassmaker	5	[`ɡlæs,meɪkə(r)]	n.玻璃工人	
+3827	spectacularly	5	[spek'tækjuləli]	ad.壮观地, 令人吃惊地,引人注目地	
+3828	submerge	5	[səb'mə:dӡ]	v.浸没,淹没	
+3829	unclear	5	['ʌn'kliə]	a.不清楚的	
+3830	unimportant	5	['ʌnim'pɔ:tənt]	a.不重要的	
+3831	ubiquitous	5	[ju:'bikwitəs]	a.到处存在的	
+3832	demise	5	[di'maiz]	n.死亡,让位	
+3833	conspicuous	5	[kən'spikjuəs]	a.显著的, 显眼的	
+3834	error	5	['erə]	n.错误, 过失	
+3835	deadly	5	['dedli]	a.致命的	
+3836	barter	5	['bɑ:tə]	v.交易	
+3837	nomadic	5	[nəu'mædik]	a.游牧的, 流浪的	
+3838	merge	5	[mə:dӡ]	v.结合,合并	
+3839	texture	5	['tekstʃə]	n.质地,(材料等的)结构	
+3840	seashore	5	['si:∫ɔ:]	n.海岸, 海滨	
+3841	nonhuman	5	[.nɔn'hju:mən]	a.非人类的	
+3842	cottage	5	['kɔtidӡ]	n.村舍,小别墅	
+3843	fairground	5	['feəɡraʊnd]	n.游乐场, 集市	
+3844	lengthen	5	['leŋθən]	v.变长,延伸	
+3845	candle	5	['kændl]	n.蜡烛	
+3846	kilogram	5	['kiləɡræm]	n.[物]千克, 公斤	
+3847	naturalism	5	['næt∫ərəlizəm]	n.自然主义	
+3848	input	5	['input]	n.输入,投入	
+3849	delight	5	[di'lait]	n./v.高兴,欣喜	
+3850	telegraph	5	['teliɡrɑ:f]	n./v.(打)电报	
+3851	stance	5	[stæns]	n.站姿,立场,位置	
+3852	kitchen	5	['kit∫in]	n.厨房	
+3853	tour	5	[tuə]	n./v.旅行,游历	
+3854	maple	5	['meipl]	n.枫树	
+3855	contraction	5	[kən'træk∫ən]	n.收缩,减小,缩写式	
+3856	hinge	5	[hindӡ]	n.（门、盖等的）铰链	
+3857	biotic	5	[bai'ɔtik]	a.有关生命的,生物的	
+3858	maturity	5	[mə'tjuəriti]	n.成熟,(票据)到期	
+3859	honest	5	['ɔnist]	a.诚实的, 正直的	
+3860	firewood	5	['fairwud]	n.木柴, 柴火	
+3861	barn	5	[bɑ:n]	n.[农]谷仓, 畜棚, 畜舍, 机器房	
+3862	joke	5	[dӡəuk]	n.笑话, 玩笑	
+3863	granular	5	['grænjulə]	a.由小粒而成的,粒状的	
+3864	preindustrial	5	[pri:in'dʌstriəl]	a.未工业化的, 工业化前的	
+3865	thaw	5	[θɔ:]	n.融化,解冻	
+3866	quarry	5	['kwɔri]	n.采石场.vt.挖出	
+3867	amendment	5	[ə'mendmənt]	n.改善, 改正,修正案	
+3868	curious	5	['kjuəriəs]	a.好奇的, 奇特的	
+3869	faith	5	[feiθ]	n.信仰, 信念	
+3870	overtake	5	['əuvə'teik]	vt.追上,超过,突然降临于,意外地碰上	
+3871	neck	5	[nek]	n.脖子, 颈,海峡,衣领	
+3872	impurity	5	[im'pjuəriti]	n.不纯,杂质	
+3873	formidable	5	['fɔ:midəbl]	a.可怕的,难以克服的	
+3874	acceptable	5	[ək'septəbl]	a.可接受的, 合意的	
+3875	forager	5	[`fɔrɪdӡə(r)]	n.强征(粮食)者,抢劫者	
+3876	impend	5	[im'pend]	v.迫近,逼近	
+3877	glasslike	5	[glɑ:slaik]	a.玻璃状的
+3878	translucent	5	[træns'lusnt]	a.半透明的	
+3879	topsoil	5	['tɔp'sɔil]	n.表层土	
+3880	interrelationship	5	[.intəri'leiʃənʃip]	n.相互关系	
+3881	blade	5	[bleid]	n.刀刃, 刀片	
+3882	pocket	5	['pɔkit]	n.衣袋,小袋	
+3883	hillside	5	[`hɪlsaɪd]	n.山腰	
+3884	beside	5	[bi'said]	prep.在…旁边,和…相比	
+3885	subscribe	5	[səb'skraib]	vt.订阅, 签名,捐赠,赞成	
+3886	buffer	5	['bʌfə]	n.缓冲器.vt.缓冲	
+3887	embody	5	[im'bɔdi]	vt.使具体化,包括	
+3888	happy	5	['hæpi]	a.快乐的,幸福的	
+3889	net	5	[net]	n.网, 网络.vt.净得,净赚.a.净的	
+3890	litter	5	['litə]	n.垃圾.v.乱扔东西	
+3891	outsider	5	['aut'saidə]	n.外行, 局外人	
+3892	convenience	5	[kən'vi:njəns]	n.便利,适宜	
+3893	modern-day	5	['mɔ:dən.dei]	a.当代的, 当前的	
+3894	promotion	5	[prə'məu∫ən]	n.(cid:6656)升,促进	
+3895	unaltered	5	[ʌn'ɔ:ltəd]	a.未被改变的,照旧的	
+3896	bath	5	[bɑ:θ]	n.沐浴, 浴室	
+3897	directional	5	[di'rek∫ənəl]	a.方向的,指导性的	
+3898	holding	5	['həuldiŋ]	n.保持,固定	
+3899	romantic	5	[rə'mæntik]	a.传奇式的, 浪漫的	
+3900	treeless	5	[`tri:lɪs]	a.没有树木的	
+3901	recorder	5	[ri'kɔ:də]	n.记录员, 记录器	
+3902	seller	5	['selə]	n.售货者	
+3903	noticeably	5	['nəutisəbli]	ad.显著地,显然,引人注目地	
+3904	plunge	5	[plʌndӡ]	v./.n.投入, 跳进,骤降	
+3905	eradicate	5	[i'rædikeit]	v.根除,消灭	
+3906	inherit	5	[in'herit]	vt.继承	
+3907	formally	5	[`fɔ:məlɪ]	ad.正式地, 形式上	
+3908	residence	5	['rezidəns]	n.居住, 住处	
+3909	antecedent	5	[͵ænti'si:dənt]	a.先行的.n.祖先	

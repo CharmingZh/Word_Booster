@@ -1,0 +1,991 @@
+1255	latitude	20	['lætitju:d]	n.纬度,范围	
+1256	clothe	20	[kləuð]	vt.给...穿衣,覆盖	
+1257	coin	20	[kɔin]	n.硬币.vt.铸造(硬币),创造(新词)	
+1258	news	20	[nju:z]	n.新闻,消息	
+1259	organ	20	['ɔ:ɡən]	n.器官,机构	
+1260	earthenware	20	['ə:θənwεə]	n.土器,陶器	
+1261	refuse	20	[ri'fju:z]	vt.拒绝,抵制	
+1262	hill	20	[hil]	n.小山,丘陵	
+1263	wagon	20	['wæɡən]	n.四轮马车,货车	
+1264	rite	20	[rait]	n.仪式,典礼	
+1265	achievement	20	[ə't∫i:vmənt]	n.成就,功绩	
+1266	inhabit	20	[in'hæbit]	vt.居住于,栖息	
+1267	locust	20	['ləukəst]	n.蝗虫	
+1268	federal	20	['fedərəl]	a.联邦的,联合的	
+1269	govern	20	['ɡʌvən]	v.统治,支配,管理	
+1270	philosophy	20	[fi'lɔsəfi]	n.哲学	
+1271	endure	20	[in'djuə]	v.耐久,忍耐	
+1272	offspring	20	['ɔ:fsprɪŋ]	n.儿女,子孙	
+1273	Hawaii	20	[hɑ:'waii:]	n.夏威夷	
+1274	brick	20	[brik]	n.砖块	
+1275	convert	20	[kən'və:t]	vt.使转变,转换	
+1276	pigeon	20	['pidӡin]	n.鸽子	
+1277	celebrity	20	[si'lebriti]	n.名声,名人	
+1278	devise	20	[di'vaiz]	vt.设计,发明	
+1279	your	20	[jɔ:,juə]	pron.你的,你们的	
+1280	territory	20	['teritəri]	n.领土,地域	
+1281	interact	20	[͵intər'ækt]	vi.互相作用,互相影响	
+1282	gulf	20	[ɡʌlf]	n.海湾,深渊	
+1283	bond	20	[bɔnd]	n.结合,协定.v.使结合,粘合	
+1284	cluster	20	['klʌstə]	n.串,丛 .vi.群集.vt.集中	
+1285	calcium	20	['kælsiəm]	n.钙	
+1286	vital	20	['vaitl]	a.重大的,至关重要的	
+1287	poetry	20	['pəuitri]	n.诗	
+1288	notice	20	['nəutis]	n.通知.v.注意到	
+1289	inland	20	['inlənd]	a.内陆的,国内的	
+1290	voice	20	[vɔis]	n.嗓音,意见.vt.说(话)	
+1291	double	20	['dʌbl]	n./a.两倍(的).vt.使加倍	
+1292	entrance	20	[in'trɑ:ns]	n.入口	
+1293	chemistry	20	['kemistri]	n.化学	
+1294	oppose	20	[ə'pəuz]	v.反对,对抗	
+1295	portrait	20	['pɔ:trit]	n.肖像,人像	
+1296	agent	20	['eidӡənt]	n.代理(商)	
+1297	weave	20	[wi:v]	v.织,编	
+1298	scatter	20	['skætə]	vt.撒(播).vi.分(消)散	
+1299	empty	20	['empti]	a.空的.v.(使)空,倒出	
+1300	islander	20	['ailəndə]	n.岛上居民	
+1301	recognition	20	[͵rekəɡ'ni∫ən]	n.识别,确认,表彰,承认	
+1302	tile	20	[tail]	n.瓦片,瓷砖	
+1303	indication	20	[͵indi'kei∫ən]	n.指示,表示,迹象	
+1304	implement	20	['implimənt]	vt.履行,实施.n.工(器,用)具	
+1305	limitation	20	[͵limi'tei∫ən]	n.限制,局限性	
+1306	piano	20	[pi'ɑ:nəu]	n.钢琴	
+1307	proxy	20	['prɔksi]	n.代理人	
+1308	neolithic	20	[.ni:ə'liθik]	a.新石器时代的	
+1309	voyage	20	['vɔɪɪdӡ]	n./v.航海	
+1310	inspire	20	[in'spaiə]	vt.鼓舞,激起,给…以灵感	
+1311	spore	20	[spɔ:,spɔə]	n.孢子	
+1312	Texas	20	['teksəs]	n.德克萨斯州(美国州名)	
+1313	strain	20	[strein]	n./v.拉紧,紧张,劳累	
+1314	imitate	20	['imiteit]	v.模仿,仿制	
+1315	timber	20	['timbə]	n.木材,木料	
+1316	rank	20	[ræŋk]	n.等级,阶层.v.排列	
+1317	concentrate	20	['ka:nsntreit]	v.专心,集中,浓缩	
+1318	container	20	[kən'teinə]	n.容器,集装箱	
+1319	article	20	['ɑ:tikl]	n.文章,论文,物件,条款	
+1320	sink	20	[siŋk]	v.下沉.n.水槽	
+1321	ecology	20	[i(:)'kɔlədӡi]	n.生态学	
+1322	drink	20	[drɪŋk]	v.喝酒.n.饮料,酒	
+1323	runoff	20	['rʌn.ɔ:f]	n.径流量,流出	
+1324	watercolor	19	['wɔ:təkʌlə]	n.水彩颜料,水彩画(法)	
+1325	streamline	19	['stri:mlain]	a.流线型的	
+1326	self	19	[self]	n.自己,自我	
+1327	reward	19	[ri'wɔ:d]	n.报酬.vt.酬劳	
+1328	mantle	19	['mæntl]	n.斗蓬.v.披风,覆盖	
+1329	telescope	19	['teliskəup]	n.望远镜	
+1330	subsequent	19	['sʌbsikwənt]	a.后来的,随后的	
+1331	hungry	19	['hʌŋɡri]	a.饥饿的,渴望的	
+1332	episode	19	['episəud]	n.一段情节,插曲,插话	
+1333	crossbill	19	[`krɔsbɪl]	n.交喙鸟	
+1334	emergence	19	[i'mə:dӡəns]	n.浮现,露出	
+1335	cheap	19	[t∫i:p]	a.便宜的,不值钱的	
+1336	sort	19	[sɔ:t]	n.种类v.分类,拣选	
+1337	industrialize	19	[in'dʌstriəlaiz]	vt.使工业化	
+1338	burial	19	['beriəl]	n.埋葬	
+1339	hominid	19	['hɔminid]	n.原始人类	
+1340	laboratory	19	['læbrətɔ:ri]	n.实验室	
+1341	cinema	19	['sinimə]	n.电影院,电影	
+1342	compass	19	['kʌmpəs]	n.罗盘,指南针	
+1343	kittiwake	19	['kitiweik]	n.三趾鸥	
+1344	mode	19	[məud]	n.方式,模式	
+1345	entertainment	19	[entə'teinmənt]	n.款待,娱乐	
+1346	everything	19	['evriθiŋ]	pron.每件事物	
+1347	purchase	19	['pə:t∫əs]	vt.购买.n.购买,购买的物品	
+1348	sanctuary	19	['sæŋktjuəri]	n.避难所	
+1349	bus	19	[bʌs]	n.公共汽车	
+1350	theatrical	19	[θi'ætrikəl]	a.戏剧性的	
+1351	profession	19	[prə'fe∫ən]	n.职业,专业	
+1352	theme	19	[θi:m]	n.主题	
+1353	gravel	19	['ɡrævəl]	n.砂砾(层)	
+1354	laborer	19	['leibərə]	n.劳动者	
+1355	proton	19	['prəutɔn]	n.质子	
+1356	commerce	19	['kɔmə(:)s]	n.商业,贸易	
+1357	decide	19	[di'said]	v.决定,判断,判决	
+1358	fireplace	19	['faɪəpleɪs]	n.壁炉	
+1359	aluminum	19	[ə'lju:minəm]	n.铝	
+1360	firm	19	[fə:m]	n.公司.a.结实的,稳固的	
+1361	collide	19	[kə'laid]	vi.碰撞,抵触,冲突	
+1362	fight	19	[fait]	n./v.战斗,打架,斗争	
+1363	puzzle	19	['pʌzl]	n.难题.v.(使)迷惑	
+1364	performer	19	[pə'fɔ:mə(r)]	n.表演者	
+1365	twist	19	[twist]	v.缠绕,拧,扭曲.n.转折	
+1366	dramatically	19	[drə'mætikli]	ad.戏剧地,引人注目地	
+1367	listen	19	['lisn]	v.听,听从	
+1368	dependence	19	[di'pendəns]	n.依靠,信任	
+1369	struggle	19	['strʌɡl]	vi.努力,奋斗,挣扎	
+1370	German	19	['dӡə:mən]	n.德国人.a.德国的	
+1371	irregular	19	[i'reɡjulə]	a.不规则的,无规律的,不合法的	
+1372	centimeter	19	['sentɪmi:tər(r)]	n.厘米	
+1373	colonization	19	[͵kɔlənai'zei∫ən]	n.殖民地化,殖民	
+1374	fund	19	[fʌnd]	n.资金.v.支助,投资	
+1375	historian	19	[his'tɔ:riən]	n.历史学家	
+1376	female	19	['fi:meil]	n.女性	
+1377	emit	19	[i'mit]	vt.发出,放射	
+1378	retreat	19	[ri'tri:t]	vi.撤退,退却	
+1379	deficiency	19	[di'fi∫ənsi]	n.缺乏,不足,缺陷	
+1380	rotate	19	[rəu'teit]	v.(使)旋转,(使)轮流	
+1381	invertebrate	19	[in'və:tibrit]	a./n.无脊椎的,无骨气的人	
+1382	symbiotic	19	[͵simbai'ɔtik]	a.共生的	
+1383	alternative	19	[ɔ:l'tə:nətiv]	a.选择性的,二中择一的	
+1384	bridge	19	[bridӡ]	n.桥.vt.架桥,渡过	
+1385	vertical	19	['və:tikəl]	a.垂直的,直立的	
+1386	circle	19	['sə:kl]	n.圆(圈).v.围着,盘旋	
+1387	quarter	19	['kwɔ:tə]	n.四分之一,一刻钟	
+1388	fix	19	[fiks]	vt.修理,安装,整理.n.困境	
+1389	doubt	19	[daut]	n./v.怀疑,怀疑	
+1390	Tennessee	19	[͵tene'si:,-nə-]	n.田纳西州	
+1391	eruption	19	[i'rʌp∫ən]	n.爆发,火山灰	
+1392	treat	19	[tri:t]	vt.医治.vt./n.对待,款待.	
+1393	politician	19	[pɔli'ti∫ən]	n.政治家,政客	
+1394	politics	19	['pɔlitiks]	n.政治,政治学	
+1395	mail	19	[meil]	n.邮件,邮政	
+1396	beauty	19	['bju:ti]	n.美,美景	
+1397	format	18	['fɔ:mæt,-mɑ:t]	n.设计,格式,版式	
+1398	Spanish	18	['spæni∫]	a./n.西班牙(的),西班牙人(的)	
+1399	confirm	18	[kən'fə:m]	v.确定,确认,批准	
+1400	bubble	18	['bʌbl]	n.泡.vi.冒泡,起泡	
+1401	engraving	18	[ɪn'ɡreɪvɪŋ]	n.雕刻术,雕版	
+1402	specimen	18	['spesimin]	n.范例,标本,样品	
+1403	tide	18	[taid]	n.潮,潮汐	
+1404	ray	18	[rei]	n.光线,射线	
+1405	weigh	18	[wei]	vi.称得重量.vt.称…的重量,权衡	
+1406	encounter	18	[in'kauntə]	v./n.遭遇,遇到,邂逅	
+1407	costume	18	['kɔstju:m]	n.装束,服装	
+1408	plane	18	[plein]	n.平面,飞机	
+1409	nouveau	18	[nu:'vəu]	a.新近到达的,最近产生的	
+1410	gland	18	[ɡlænd]	n.腺	
+1411	emission	18	[i'mi∫ən]	n.散发,发行,排放	
+1412	log	18	[lɔɡ]	n.原木,航海日志.vt.正式记录	
+1413	glaze	18	[ɡleiz]	vi.变呆滞.vt.上釉.n.釉(料)	
+1414	martian	18	['mɑ:∫iən]	n./a.火星人(的)	
+1415	bee	18	[bi:]	n.蜜蜂	
+1416	latter	18	['lætə]	a.后者的,后面的,近来的	
+1417	occurrence	18	[ə'kʌrəns]	n.发生,出现,事件	
+1418	anything	18	['eniθiŋ]	pron.任何事	
+1419	prevail	18	[pri'veil]	vi.流行,获胜,劝说,诱使	
+1420	reliance	18	[ri'laiəns]	n.信任,信心,依靠	
+1421	roof	18	[ru:f]	n.屋顶,最高处,顶部	
+1422	mercantile	18	['mə:kən.tail]	a.贸易的,商业的	
+1423	overall	18	['əuvərɔ:l]	a.全部的,全面的	
+1424	fossilize	18	['fɔsilaiz]	v.成化石,陈腐	
+1425	chain	18	[t∫ein]	n.链(条),一连串,一系列.vt.用链条栓住	
+1426	pose	18	[pəuz]	n.姿势,姿态.v.摆姿势	
+1427	cylinder	18	['silində]	n.圆筒,圆柱体	
+1428	countercurrent	18	['kauntə͵kʌrənt]	n.逆流,反向电流	
+1429	score	18	[skɔ:,skɔə]	n.得分,二十.v.得(分),刻痕于	
+1430	potter	18	['pɔtə]	n.陶工,制陶工人	
+1431	aesthetic	18	[i:s'θetik]	a.美学的,审美的	
+1432	neighborhood	18	['neibəhud]	n.附近,邻近	
+1433	hemisphere	18	['hemisfiə]	n.半球	
+1434	excavate	18	['ekskəveit]	v.挖掘,开凿,发掘	
+1435	reclamation	18	[͵reklə'mei∫ən]	n.开垦,改造	
+1436	admire	18	[əd'maiə]	v.赞美,钦佩,羡慕	
+1437	ensure	18	[in'∫uə]	v.确保,保证	
+1438	weak	18	[wi:k]	a.虚弱的,淡的,稀薄的	
+1439	excite	18	[ik'sait]	v.使兴奋,激动	
+1440	orbit	18	['ɔ:bit]	n.轨道.v.(绕…)作轨道运行	
+1441	sale	18	[seil]	n.出售,卖出	
+1442	blow	18	[bləu]	v.风吹,吹气于.n.打击	
+1443	pair	18	[pεə]	n.一对,一双	
+1444	grind	18	[ɡraind]	v.磨(碎),折磨.n.苦差事	
+1445	cease	18	[si:s]	v.停止,终了	
+1446	incorporate	18	[in'kɔ:pəreit]	v.合并,组成公司	
+1447	classroom	18	['klɑ:srum]	n.教室	
+1448	box	18	[bɔks]	n.盒子,箱.vt.装箱(盒).vi.拳击	
+1449	biologist	18	[bai'ɔlədӡist]	n.生物学家	
+1450	aboriginal	18	[͵æbə'ridӡənəl]	a.土著的,原来的 ,原始的	
+1451	automatically	18	[.ɔ:tə'mætikəli]	ad.自动地,机械地,无意识地	
+1452	crude	18	[kru:d]	a.天然的,未加工的,粗鲁的	
+1453	version	18	['və:∫ən]	n.译文,译本	
+1454	drawing	18	['drɔ:iŋ]	n.图画,制图	
+1455	capture	18	['kæpt∫ə]	n./v.捕获,俘获,夺取	
+1456	hang	18	[hæŋ]	vt.悬挂,吊死.vi.悬挂,垂下	
+1457	income	18	['inkəm]	n.收入,收益,	
+1458	freedom	18	['fri:dəm]	n.自由	
+1459	Mississippi	17	[͵misi'sipi]	n.密西西比河,密西西比州(美州名)	
+1460	cartoon	17	[kɑ:'tu:n]	n.漫画,卡通画	
+1461	separation	17	[sepə'rei∫ən]	n.分离,分开	
+1462	recharge	17	['ri:'t∫ɑ:dӡ]	vt.再充电,再进攻,恢复精力	
+1463	motivation	17	[͵məuti'vei∫ən]	n.动机,推动,积极性	
+1464	gene	17	[dӡi:n]	n.[遗传]因子,[遗传]基因	
+1465	penetrate	17	['penitreit]	v.穿透,渗透,看穿	
+1466	collective	17	[kə'lektiv]	a.集体的,共同的.n.团体,集体	
+1467	nerve	17	[nə:v]	n.神经,胆量,勇气	
+1468	engrave	17	[in'ɡreiv]	v.雕刻,使铭记	
+1469	strait	17	[streit]	n.地峡.n.海峡,[常 pl.]困境,窘境	
+1470	flake	17	[fleik]	n.薄片.v.使成薄片,剥落	
+1471	disadvantage	17	[͵disəd'vɑ:ntidӡ]	n.不利,缺点,劣势	
+1472	constitute	17	['kɔnstitju:t]	vt.构成,组成,建立	
+1473	graham	17	['ɡreiəm]	a.全麦(面粉)的	
+1474	reference	17	['refrəns]	n.(cid:6656)及,涉及,参考,推荐信(或人)	
+1475	eight	17	[eɪt]	num.八,八个,第八	
+1476	turnpike	17	['tə:npaik]	n.收费公路,收费口	
+1477	load	17	[ləud]	n.负荷,装载量.v.装(载),使负担	
+1478	trigger	17	['triɡə]	vt.引发,引起.n.板机	
+1479	mixture	17	['mikst∫ə]	n.混合(物)	
+1480	geology	17	[dӡi'ɔlədӡi]	n.地质学,地质概况	
+1481	spin	17	[spin]	v.旋转,纺纱	
+1482	expressive	17	[ik'spresiv]	a.表达的,意味深长的	
+1483	row	17	[rau]	n.排,行v.划(船)	
+1484	secrete	17	[si'kri:t]	vt.隐藏,隐匿	
+1485	discourage	17	[dis'kʌridӡ]	vt.使气馁,阻碍	
+1486	tremendous	17	[tri'mendəs]	a.巨大的,惊人的	
+1487	crab	17	[kræb]	n.蟹	
+1488	garden	17	['ɡɑ:dn]	n.(菜、花)园	
+1489	astronomer	17	[ə'strɔnəmə(r)]	n.天文学家	
+1490	bare	17	[bεə]	a.赤裸的,无遮蔽的.vt.露出	
+1491	Erie	17	['iəri]	n.伊利(人)	
+1492	inhibit	17	[in'hibit]	vt.阻止,妨碍,抑制	
+1493	Yucatan	17	[ju:kə'tɑ:n]	n.尤卡坦半岛	
+1494	alkali	17	['ælkəlai]	n.碱.a.碱性的	
+1495	complexity	17	[kəm'pleksiti]	n.复杂(性),复杂的事物	
+1496	sedimentary	17	[.sedi'mentəri]	a.沉积的,沉淀性的	
+1497	accelerate	17	[æk'seləreit]	v.加速,促进	
+1498	Spain	17	[spein]	n.西班牙(欧洲南部国家)	
+1499	window	17	['windəu]	n.窗,窗口	
+1500	text	17	[tekst]	n.正文,课文	
+1501	sing	17	[siŋ]	v.唱,演唱	
+1502	assist	17	[ə'sist]	v.援助,帮助	
+1503	representation	17	[͵reprizen'tei∫ən]	n.表示法,表现,陈述,代表	
+1504	regulation	17	[reɡju'lei∫ən]	n.规则	
+1505	enclose	17	[in'kləuz]	vt.放入封套,围绕	
+1506	fluctuate	17	['flʌktjueit]	v.变动,波动	
+1507	furnace	17	['fə:nis]	n.炉子,熔炉	
+1508	reptile	17	['reptail]	n.爬虫动物	
+1509	popularity	17	[͵pɔpju'læriti]	n.普及,流行	
+1510	whom	17	[hu:m,hum]	pron.谁	
+1511	bake	17	[beik]	v.烘焙,烤	
+1512	ash	17	[æ∫]	n.灰(烬),[植]岑树	
+1513	institution	17	[͵insti'tju:∫ən]	n.公共机构,协会,制度	
+1514	symbolic	17	[sim'bɔlik]	a.象征的,符号的	
+1515	religion	17	[ri'lidӡən]	n.宗教,信仰	
+1516	conserve	17	[kən'sə:v]	vt.保存,保藏	
+1517	pit	17	[pit]	n.深坑,陷阱v.窖藏,使凹下	
+1518	traffic	17	['træfik]	n.交通,运输.vi.(非法)交易	
+1519	Harvard	17	['hɑ:vəd]	n.哈佛大学(美国)	
+1520	Himalaya	17	[.himə'leiə]	n.喜马拉雅山	
+1521	digest	17	[dai'dӡest]	v.消化,融会贯通.n.文摘	
+1522	application	17	[͵æpli'kei∫ən]	n.请求,申请,应用	
+1523	gravity	17	['ɡræviti]	n.地心引力,重力	
+1524	explorer	17	[ik'splɔ:rə]	n.探险者	
+1525	educate	17	['edju(:)keit]	v.教育,培养	
+1526	sudden	17	['sʌdn]	a.突然的,意外的	
+1527	present-day	17	['preznt'dei]	a.当前的,当代的	
+1528	precipitation	17	[pri͵sipi'tei∫ən]	n.仓促,促成,降雨量	
+1529	sheep	17	[∫i:p]	n.羊,绵羊	
+1530	mercy	17	['mə:si]	n.仁慈,宽恕,怜悯,幸运	
+1531	lewis	17	['lu:ɪs]	n.[机] 吊楔,起重爪	
+1532	oceanic	17	[͵əu∫i'ænik]	a.海洋的,广阔无垠的	
+1533	award	17	[ə'wɔ:d]	n.奖,奖品.vt.授予,判给	
+1534	comfortable	17	['kʌmfətəbl]	a.舒适的,充裕的	
+1535	sail	17	[seil]	v.航行(于),启航	
+1536	recall	17	[ri'kɔ:l]	vt.回忆,记起.n.召回	
+1537	publisher	17	['pʌblɪ∫ə(r)]	n.出版者,发行人	
+1538	seat	17	[si:t]	n.座位.vt.使坐下,容纳	
+1539	usual	17	['ju:ӡuəl]	a.平常的,通常的	
+1540	touch	17	[tʌt∫]	v.接触,达到,感动.n.润色	
+1541	boom	17	[bu:m]	n.繁荣.v.发隆隆声,兴隆	
+1542	administration	17	[əd,mini'streiʃn]	n.管理,经营,行政机构	
+1543	outflow	17	['autfləu]	n.流出(物)	
+1544	durable	17	['djuərəbl]	a.持久的,耐用的	
+1545	undertake	17	[͵ʌndə'teik]	v.承担,采取	
+1546	finance	17	[fai'næns]	n.财政.v.供给...经费,筹措资金	
+1547	seal	17	[si:l]	n.封铅.vt.封, 密封	
+1548	assumption	16	[ə'sʌmp∫ən]	n.假定, 设想	
+1549	Ohio	16	[əu'haiəu]	n.俄亥俄州(美国州名)	
+1550	guide	16	[ɡaɪd]	n.领路人,指南.vt.指导, 支配	
+1551	exceed	16	[ik'si:d]	v.超越, 胜过	
+1552	reform	16	[ri'fɔ:m]	vt./n.改革, 革新	
+1553	switch	16	[swit∫]	n.开关.vt.转换, 转变	
+1554	southwestern	16	[sauθ'westən]	a.西南的, 来自西南的	
+1555	infantile	16	['infəntail]	a.幼稚的,幼儿的	
+1556	brother	16	['brʌðə]	n.兄弟,战友	
+1557	crucial	16	['kru:∫əl]	a.至关紧要的	
+1558	amnesia	16	[æm'ni:zjə]	n.健忘症,记忆缺失	
+1559	toy	16	[tɔi]	n.玩具	
+1560	silent	16	['sailənt]	a.寂静的, 沉默的	
+1561	nutritional	16	[nju:`trɪ∫ənəl]	a.营养的,滋养的	
+1562	taste	16	[teist]	v.品尝, 体验.n.滋味,鉴赏力,爱好	
+1563	contradict	16	[kɔntrə'dikt]	vt.同...矛盾, 同...抵触,反驳	
+1564	verbal	16	['və:bəl]	a.口头的,动词的	
+1565	attach	16	[ə'tæt∫]	v.缚上, 配属,隶属于	
+1566	supplement	16	['sʌplimənt]	n.补充, 附录	
+1567	delivery	16	[di'livəri]	n.递送,交付,传输	
+1568	span	16	[spæn]	n.跨度vt.横越,持续	
+1569	comparable	16	['kɔmpərəbl]	a.可比较的, 比得上的	
+1570	satisfy	16	['sætisfai]	v.满足,使满意	
+1571	panel	16	['pænl]	n.面,板,专门小组	
+1572	react	16	[ri'ækt]	vi.起反应, 起作用	
+1573	freshwater	16	['fre∫wɔ:tə(r)]	n.淡水	
+1574	successive	16	[sək'sesiv]	a.连续的, 接连的	
+1575	official	16	[ə'fi∫əl]	n.官员.a.官方的,正式的	
+1576	save	16	[seiv]	v.解救, 保存.prep.除…之外	
+1577	appreciate	16	[ə'pri:∫ieit]	v.赏识, 感激.vi.增值	
+1578	friend	16	[frend]	n.朋友, 赞助者, 助手	
+1579	outline	16	['əutlain]	n.大纲.vt.(cid:6655)画轮廓,略述	
+1580	crustal	16	[`krʌstəl]	a.地壳的	
+1581	threat	16	[θret]	n.恐吓, 凶兆, 威胁	
+1582	carbohydrate	16	['kɑ:bəu'haidreit]	n.碳水化合物,醣类	
+1583	periodical	16	[͵piəri'ɔdikəl]	a.周期的, 定期的 n.期刊, 杂志	
+1584	nine	16	[nain]	num.九,九个	
+1585	strengthen	16	['streŋθən]	v.加强, 巩固	
+1586	quartz	16	[kwɔ:ts]	n.石英	
+1587	sociologist	16	[səʊsɪə'lɔdӡɪst]	n.社会学家	
+1588	classic	16	['klæsik]	a.最优秀的,标准的.n.杰作	
+1589	sum	16	[sʌm]	n.总数,总和.vi.共计,概括	
+1590	delicate	16	['delikit]	a.精巧的, 精致的	
+1591	leadership	16	['li:də∫ip]	n.领导能力,领导阶层	
+1592	king	16	[kiŋ]	n.国王	
+1593	colleague	16	['kɔli:ɡ]	n.同事, 同僚	
+1594	indo-european	16	['indəu'juərə'pi:ən]	n.印欧语系, 说印欧语的人	
+1595	seafloor	16	[`si:flɔ:(r)]	n.海底	
+1596	bronze	16	[brɔnz]	n.青铜	
+1597	medium	16	['mi:djəm]	n.媒体,方法.a.中间的	
+1598	dome	16	[dəum]	n.圆屋顶	
+1599	script	16	[skript]	n.手稿, 手迹,剧本	
+1600	hotel	16	[həu'tel]	n.旅馆, 客栈,	
+1601	found	16	[faund]	v.建立, 创办	
+1602	twice	16	[twais]	ad.两次, 两倍	
+1603	instruction	16	[in'strʌk∫ən]	n.命令,指示,用法说明	
+1604	thrive	16	[θraiv]	v.兴旺,繁荣,茁壮成长	
+1605	fiction	16	['fik∫ən]	n.虚构,小说	
+1606	motor	16	['məutə]	n.发动机	
+1607	partially	16	['pɑ:∫əlɪ]	ad.部分地	
+1608	Germany	16	['dӡə:məni]	n.德国	
+1609	beautiful	16	['bju:təful]	a.美丽的	
+1610	vehicle	16	['vi:ikl]	n.交通工具, 车辆	
+1611	marsh	16	[mɑ:∫]	n.湿地,沼泽	
+1612	freight	16	[freit]	n.货物.vt.运送	
+1613	trust	16	[trʌst]	vt./n.信任, 信赖	
+1614	manufacture	16	[͵mænju'fækt∫ə]	vt./n.制造, 加工	
+1615	intrigue	16	[in'tri:ɡ]	v.激起兴趣,耍阴谋.n.阴谋,密谋	
+1616	artwork	16	['ɑ:twə:k]	n.艺术品,美术品	
+1617	hatch	16	[hæt∫]	n.孵化.vt.孵出, 策划	
+1618	shore	16	[∫ɔ:,∫ɔə]	n.岸, 海滨 .vt.(up)支撑,支持	
+1619	utilize	16	[ju:'tɪlaɪz]	vt.利用	
+1620	classification	16	[͵klæsifi'kei∫ən]	n.分类, 分级	
+1621	tube	16	['tju:b]	n.管子	
+1622	kiln	16	[kiln,kil]	n.窑,炉	
+1623	implication	16	[͵impli'kei∫ən]	n.含意, 暗示	
+1624	expert	16	['ekspə:t]	n.专家, 行家	
+1625	awareness	16	[ə'wεənis]	n.知道, 晓得	
+1626	drag	16	[dræɡ]	v.拖, 拖曳.n.累赘	
+1627	indium	16	['indiəm]	n.[化]铟	
+1628	precious	16	['pre∫əs]	a.宝贵的,珍爱的	
+1629	velocity	16	[vi'lɔsiti]	n.速度, 速率	
+1630	burst	16	[bə:st]	v.爆裂, 炸破.n.爆炸,爆发	
+1631	academy	16	[ə'kædəmi]	n.学院,学会,专科学校,研究院	
+1632	path	16	[pɑ:θ]	n.小路, 路线	
+1633	refine	16	[ri'fain]	vt.精炼, 精制,完善	
+1634	imprint	16	[im'print]	v.留下烙印	
+1635	intellectual	16	[͵inti'lektjuəl]	a.智力的, 有智力的n.知识分子	
+1636	impression	16	[im'pre∫ən]	n.印象, 感想	
+1637	Pennsylvania	16	[pensil'veinjə,-niə]	n.宾夕法尼亚州（美国州名）	
+1638	iridium	16	[i'ridiəm]	n.[化]铱	
+1639	pick	16	[pik]	v.挑选,采摘	
+1640	cent	16	[sent]	n.(货币单位)分, 分币	
+1641	mobility	16	[məu'biliti]	n.活动性, 灵活性	
+1642	inference	16	['infərəns]	n.推论,推断,推理	
+1643	integrate	16	['intiɡreit]	v.使成整体, 结合	
+1644	rush	16	[rʌ∫]	n./v.冲,匆忙,突袭	
+1645	spray	16	[sprei]	n.喷雾.vt.喷射	
+1646	strongly	16	['strɔŋlɪ]	ad.强烈地,强有力地	
+1647	lay	15	[lei]	vt.放置,铺设,产卵	
+1648	bite	15	[bait]	n./v.咬, 刺痛	
+1649	harm	15	[hɑ:m]	vt./n.伤害, 损害	
+1650	footprint	15	['fʊtprɪnt]	n.足迹	
+1651	herself	15	[hə:'self]	pron.她自己	
+1652	sponsor	15	['spɔnsə]	n.发起人.v.发起, 主办, 赞助	
+1653	calorie	15	['kæləri]	n.卡路里	
+1654	unpredictable	15	['ʌnpri'diktəbl]	a.不可预知的	
+1655	automobile	15	['ɔ:təməubi:l]	n.汽车	
+1656	collector	15	[kə'lektə]	n.收藏家, 征收者	
+1657	cooperation	15	[kəu͵ɔpə'rei∫ən]	n.合作, 协作	
+1658	enzyme	15	['enzaɪm]	n.[生化]酶	
+1659	employee	15	[͵emplɔi'i:]	n.职工, 雇员	
+1660	irrigate	15	['iriɡeit]	v.灌溉	
+1661	dozen	15	['dʌzn]	n.一打, 十二个	
+1662	retrieve	15	[ri'tri:v]	v.恢复,挽回,取回,检索	
+1663	printer	15	['printə]	n.印刷工,打印机	
+1664	silt	15	[silt]	n.淤泥.v.(使)淤塞	
+1665	roll	15	[rəul]	v.(使)滚动,卷.n.卷,名单	
+1666	surveyor	15	[sə:'veiə]	n.测量员, 检查员	
+1667	worldwide	15	['wз:ldwaɪd]	a.全世界的	
+1668	acre	15	['eikə]	n.英亩, 地产	
+1669	nuclear	15	['nju:kliə]	a.核子的, 原子能的,核心的	
+1670	nutrition	15	[nju:'tri∫ən]	n.营养, 营养学	
+1671	larva	15	['lɑ:və]	n.幼虫	
+1672	exposition	15	[͵ekspə'zi∫ən]	n.展览会, 说明	
+1673	sharp	15	[∫ɑ:p]	a.锐利的,明显的,急剧的	
+1674	peasant	15	['pezənt]	n.农夫	
+1675	plastic	15	['plæstik]	n.塑料(制品).a.塑胶的	
+1676	genetic	15	[dӡi'netik]	a.遗传的, 起源的,基因的	
+1677	page	15	[peidӡ]	n.页,记录	
+1678	accumulator	15	[ə'kju:mjuleitə]	n.蓄电池,积聚者	
+1679	chief	15	[t∫i:f]	n.首领.a.主要的, 首要的	
+1680	imitation	15	[imi'tei∫ən]	n.模仿, 效法	
+1681	beneficial	15	[.beni'fiʃəl]	a.有利的, 有益的	
+1682	lip	15	[lip]	n.嘴唇	
+1683	fertilizer	15	['fə:ti͵laizə]	n.肥料	
+1684	rainwater	15	['reɪnwɔ:tə(r)]	n.雨水	
+1685	satire	15	['sætaiə]	n.讽刺(文学)	
+1686	epoch	15	['i:pɔk,'epɔk]	n.新纪元, 时代	
+1687	impressive	15	[im'presiv]	a.给人深刻印象的, 感人的	
+1688	brush	15	[brʌ∫]	vt.刷, 掸, 拂n.刷子, 毛刷, 画笔	
+1689	Massachusetts	15	[.mæsə'tʃu:sits]	n.马萨诸塞(美国州名)	
+1690	realism	15	[`rɪəlɪzəm]	n.现实主义,实在论	
+1691	watch	15	[wɔt∫]	v/n.看,注视,照顾	
+1692	foundation	15	[faun'dei∫ən]	n.基础, 根本,创立	
+1693	evident	15	['evidənt]	a.明显的, 显然的	
+1694	marry	15	['mæri]	vt.娶, 嫁,和...结婚	
+1695	race	15	[reis]	n.种族.v.赛跑	
+1696	orient	15	['ɔ:riənt]	vt.使适应,使朝向.n.东方	
+1697	barren	15	['bærən]	a.不生育的,贫瘠的.n.荒地	
+1698	prosperity	15	[prɔs'periti]	n.繁荣,成功	
+1699	lava	15	['lɑ:və]	n.熔岩, 火山岩	
+1700	pace	15	[peis]	n.步调.v.踱步	
+1701	empire	15	['empaiə]	n.帝国	
+1702	contract	15	['kɔntrækt]	n.合同.v.缩小,订合同	
+1703	deco	15	['dekəu]	n.装饰派艺术	
+1704	descriptive	15	[di'skriptiv]	a.(cid:6655)述的, 叙述的	
+1705	ruminant	15	['ru:minənt]	n./a.反刍动物(的), 沉思的	
+1706	stoneware	15	['stəunwεə]	n.瓷器	
+1707	mirror	15	['mirə]	n.镜子.vt.反映,映出	
+1708	barb	15	[bɑ:b]	n.鱼钩.vt.装倒钩于	
+1709	forage	15	['fɔridӡ]	n.草料,	
+1710	norm	15	[nɔ:m]	n.标准,规范,[ pl.]准则	
+1711	nitinol	15	[`nɪtɪnɔl]	n.[冶]镍钛诺(镍和钛的非磁性合金)	
+1712	chick	15	[t∫ik]	n.小鸡	
+1713	condense	15	[kən'dens]	v.(使)浓缩, 精简,冷凝	
+1714	cope	15	[kəup]	vi.应付,处理	
+1715	frost	15	[frɔst,frɔ:st]	n.霜.v.结霜	
+1716	client	15	['klaiənt]	n.[计]顾客, 客户, 委托人	
+1717	potentially	15	[pə'tenʃəlɪ]	ad.潜在地	
+1718	fertile	15	['fə:til]	a.肥沃的, 富饶的, 能繁殖的	
+1719	attain	15	[ə'tein]	vt.达到, 获得 ,实现	
+1720	background	15	['bækɡraund]	n.背景,后台	
+1721	facilitate	15	[fə'siliteit]	vt.促进, 帮助	
+1722	flexible	15	['fleksəbl]	a.易弯曲的,灵活的,柔韧的	
+1723	precisely	15	[prɪ'saɪslɪ]	ad.正好,精确地	
+1724	egalitarian	15	[ɪɡælɪ'teərɪən]	a.平等主义的	
+1725	plover	15	['plʌvə]	n.千鸟	
+1726	shelve	15	[∫elv]	v.搁置	
+1727	judge	15	[dӡʌdӡ]	n.法官,裁判员.v.断定,裁决	
+1728	progressive	15	[prə'ɡresiv]	a.先进的,前进的.n.进步分子	
+1729	concentrate	15	['kɔnsentreit]	v.集中, 浓缩	
+1730	adjacent	15	[ə'dʒeisnt]	a.邻近的,毗连的	
+1731	unfortunately	15	[ʌn'fɔ:tʃənitli]	ad.不幸地, 遗憾地	
+1732	participate	15	[pɑ:'tisipeit]	vi.参与, 参加	
+1733	downward	15	['daunwəd]	a.向下的	
+1734	warbler	15	['wɔ:blə]	v.&.n.(鸟)鸣,颤声	
+1735	specialization	15	[͵spe∫əlai'zei∫ən]	n.特殊化, 专门化	
+1736	media	15	['mi:djə]	n.媒体	
+1737	confuse	15	[kən'fju:z]	vt.搞乱,使糊涂	
+1738	twig	15	[twiɡ]	n.嫩枝	
+1739	workweek	15	[`wз:kwi:k]	n.一星期工作时间	
+1740	extensively	14	[iks'tensivli]	ad.广泛地,彻底地	
+1741	clement	14	['klemənt]	a.仁慈的,温和的	
+1742	nutritious	14	[nju:'triʃəs]	a.有营养的, 滋养的	
+1743	throw	14	[θrəu]	v.扔,投,掷	
+1744	herb	14	[hə:b]	n.药草, 香草	
+1745	affair	14	[ə'fεə]	n.[ pl.]事务,事件	
+1746	mold	14	[məuld]	n.模子vt.浇铸, 塑造	
+1747	mammoth	14	['mæməθ]	n.猛犸,长毛象.a.庞大的	
+1748	tellurium	14	[te'ljʊərɪəm]	n.碲	
+1749	facility	14	[fə'siliti]	n..,便利,能力,[ pl.]设备	
+1750	percentage	14	[pə'sentidӡ]	n.百分数, 百分率	
+1751	butter	14	['bʌtə]	n.黄油,牛油	
+1752	ignore	14	[iɡ'nɔ:]	vt.不理睬, 忽视	
+1753	evaluate	14	[i'væljueit]	v.评价, 估计	
+1754	occupation	14	[͵ɔkju'pei∫ən]	n.职业, 占有	
+1755	chip	14	[t∫ip]	n.碎片.v.削成碎片	
+1756	fauna	14	['fɔ:nə]	n.动物群	
+1757	cook	14	[kuk]	n.厨师.v.烹调, 煮	
+1758	discharge	14	[dis't∫ɑ:dӡ]	v./n.释放,排出	
+1759	indicator	14	['indikeitə]	n.指示器,压力计	
+1760	steamboat	14	['sti:mbəʊt]	n.汽船	
+1761	heighten	14	['haitn]	v.(cid:6656)高, 升高	
+1762	archaeopteryx	14	[͵ɑ:ki'ɔptəriks]	n.始祖鸟(古代生物)	
+1763	disclaimer	14	[dɪs'kleɪmə(r)]	n.放弃, 弃权,拒绝	
+1764	desirable	14	[di'zaiərəbl]	a.值得拥有的,可取的	
+1765	carbonate	14	['kɑ:bəneit]	n.碳酸盐	
+1766	southeastern	14	[sauθ'i:stən]	a.东南方的	
+1767	harmful	14	['hɑ:mfʊl]	a.有害的, 伤害的	
+1768	scarce	14	[skεəs]	a.缺乏的,不足的,稀有的	
+1769	profound	14	[prə'faund]	a.深刻的, 意义深远的	
+1770	insulation	14	[͵insju'lei∫ən]	n.绝缘,隔离	
+1771	modest	14	['mɔdist]	a.谦虚的, 适度的	
+1772	presentation	14	[͵prezen'tei∫ən]	n.介绍, 陈述,(cid:6656)供,外观	
+1773	obviously	14	['ɔbvɪəslɪ]	ad.明显地	
+1774	Missouri	14	[mi'zuəri]	n.密苏里州(美国州名)	
+1775	department	14	[di'pɑ:tmənt]	n.部, 局,部门,系,科	
+1776	jet	14	[dӡet]	n.喷气式飞机	
+1777	senate	14	['senit]	n.参议院	
+1778	mobile	14	['məubail]	a.可移动的, 易变的	
+1779	salty	14	['sɔ:lti]	a.咸的,含盐的	
+1780	pearl	14	[pə:l]	n.珍珠	
+1781	rice	14	[rais]	n.稻, 米	
+1782	westward	14	['westwəd]	n.西方a./ad.西方的, 向西.	
+1783	slope	14	[sləup]	n.斜坡.v.(使)顺斜	
+1784	being	14	['bi:iŋ]	n.存在, 生命	
+1785	forecast	14	['fɔ:kɑ:st]	vt.预见,预测	
+1786	excellent	14	['eksələnt]	a.卓越的, 极好的,杰出的	
+1787	conceal	14	[kən'si:l]	v.隐藏, 隐瞒	
+1788	seep	14	[si:p]	v.渗出	
+1789	naturalist	14	['næt∫ərəlist]	n.自然主义者	
+1790	shield	14	[∫i:ld]	v.防护,遮蔽	
+1791	stomach	14	['stʌmək]	n.胃	
+1792	sloth	14	[sləuθ]	n.懒惰,树懒(一种动物)	
+1793	target	14	['tɑ:ɡit]	n.目标, 对象,靶子	
+1794	battle	14	['bætl]	n.战役.vi.作战, 战斗	
+1795	interfere	14	[͵intə'fiə]	vi.干涉,妨碍	
+1796	perceptual	14	[pə'septjuəl]	a.感性的,知觉的	
+1797	plentiful	14	['plentifəl]	a.丰富的,充裕的	
+1798	childhood	14	['t∫aildhud]	n.孩童时期	
+1799	orchid	14	['ɔ:kid]	n.兰花	
+1800	cement	14	[si'ment]	n.水泥,接合剂.v.接合,粘牢	
+1801	shade	14	[∫eid]	n.荫,阴凉处vi.渐变 ,遮蔽	
+1802	semiarid	14	[.semi'ærid]	a.半干旱的,雨量非常少的	
+1803	renaissance	14	[rə'neisəns]	n.文艺复兴(时期)	
+1804	maintenance	14	['meintinəns]	n.维护, 保持	
+1805	deliver	14	[di'livə]	vt.递送, 陈述,交付	
+1806	sibling	14	['sibliŋ]	n.兄弟姐妹	
+1807	regardless	14	[ri'ɡɑ:dlis]	a.不管,不顾	
+1808	click	14	[klik]	v.发出滴答声	
+1809	board	14	[bɔ:d]	n.木板,甲板,膳食,董事会	
+1810	strip	14	[strip]	vt.剥, 剥去	
+1811	stock	14	[stɔk]	n.库存,股票.v.储备	
+1812	suppress	14	[sə'pres]	vt.镇压,抑制	
+1813	bell	14	[bel]	n.铃, 钟	
+1814	tire	14	['taiə]	n./v.疲劳,厌倦	
+1815	camel	14	['kæməl]	n.骆驼	
+1816	spontaneous	14	[spɔn'teiniəs]	a.自发的,自然产生的	
+1817	lift	14	[lift]	vt.举,解除,剽窃.vi.升起,消散.n.电梯	
+1818	earthquake	14	['ə:θkweik]	n.地震,[喻]在震荡, 在变动	
+1819	cognitive	14	['kɔgnitiv]	a.认知的,认识能力的	
+1820	maximum	14	['mæksiməm]	n.最大量, 最大限度	
+1821	spiral	14	['spaiərəl]	v.盘旋.a.螺旋的.n.螺旋(线)	
+1822	relevant	14	['relivənt]	a.相关的, 切题的	
+1823	elect	14	[ɪ'lekt]	v.选举, 选择	
+1824	straight	14	[streit]	a.直的,连续的	
+1825	animation	14	[͵æni'mei∫ən]	n.兴奋,活跃	
+1826	elevation	14	[͵eli'vei∫ən]	n.上升, (cid:6656)高	
+1827	debate	14	[di'beit]	v.争论, 辩论 ,讨论	
+1828	sahara	14	[sə'hɑ:rə]	n.撒哈拉沙漠	
+1829	lend	14	[lend]	v.借给, 贷(款)	
+1830	wavelength	14	['weivleŋθ]	n.波长	
+1831	passenger	14	['pæsindӡə]	n.乘客	
+1832	highway	14	['haiwei]	n.公路,交通要道	
+1833	molt	14	[məult]	vi./n.脱毛,换毛	
+1834	columbian	14	[kə'lʌmbiən]	a.美国的, 美洲的,哥伦布的	
+1835	equivalent	14	[i'kwivələnt]	a.相等的,相当的n.等价物	
+1836	graduate	14	['ɡrædjueit]	n.毕业生.a.研究生的.v.(使)毕业	
+1837	everywhere	14	['evriwɛə]	ad.到处, 无论何处	
+1838	outward	14	['autwəd]	a.外表(面)的.ad.向外	
+1839	succeed	14	[sək'si:d]	v.成功, 继承, 接着发生	
+1840	aware	14	[ə'wεə]	a.意识到,知道的	
+1841	commodity	14	[kə'mɔditi]	n.日用品	
+1842	experimental	14	[ek,speri'mentl ]	a.实验(性)的,试验(性)的	
+1843	hit	14	[hit]	vt.打,击	
+1844	crystalline	14	['kristəlain]	a.水晶(般)的,透明的	
+1845	speculation	14	[͵spekju'lei∫ən]	n.思索, 做投机买卖	
+1846	sit	14	[sit]	vi.坐.vt.使坐,使就座	
+1847	thirty	14	['θə:ti]	num.  三十	
+1848	prize	14	[praiz]	n.奖(金,品)vt.珍视,珍惜	
+1849	profitable	13	['prɔfitəbl]	a.有益的,有利可图的	
+1850	revolutionary	13	['revə'lu:∫ənəri]	a.革命的,革新的.n.革命者	
+1851	luxury	13	['lʌk∫əri]	n.奢侈, 华贵	
+1852	scandinavia	13	[.skændi'neiviə]	n.斯堪的纳维亚（北欧地名）	
+1853	wool	13	[wul]	n.羊毛,毛织品	
+1854	proper	13	['prɔpə]	a.适当的,正确的	
+1855	dairy	13	['dεəri]	n.牛奶场,乳品店	
+1856	phase	13	[feiz]	n.阶段,方面.vt.分阶段实行	
+1857	substantial	13	[səb'stæn∫əl]	a.可观的,牢固的,实质的	
+1858	continually	13	[kən'tinjuəli]	ad.不断地,频繁地	
+1859	confine	13	['kɔnfain]	vt.限制.n.界限	
+1860	warm-blooded	13	['wɔ:m.blʌdid]	a.热血的	
+1861	realm	13	[relm]	n.领域,范围	
+1862	orchestra	13	['ɔ:kistrə]	n.管弦乐队	
+1863	me	13	[mi:͵mi]	pron.我	
+1864	southward	13	['saʊθwəd]	a.向南.a.向南的	
+1865	intermediate	13	[͵intə'mi:djət]	a.中间的.n.媒介	
+1866	proponent	13	[prə'pəunənt]	n.支持者,拥护者	
+1867	tip	13	[tip]	n.末端,小费.v.倾斜	
+1868	partnership	13	['pɑ:tnə∫ip]	n.合伙(关系)	
+1869	gender	13	['dӡendə]	n.性别,(语法中的)性	
+1870	republican	13	[ri'pʌblikən]	a./n.共和政体的,共和党人(的)	
+1871	strict	13	[strikt]	a.严格的, 严厉的,精确的	
+1872	ichthyosaur	13	['ikθiəsɔ:]	n.鱼龙	
+1873	India	13	['indjə]	n.印度	
+1874	niche	13	[nitʃ]	n.壁龛,合适的职务(环境、位置等)	
+1875	magazine	13	[͵mæɡə'zi:n]	n.杂志, 期刊	
+1876	logical	13	['lɔdʒikəl]	a.符合逻辑的,合理的	
+1877	cavity	13	['kæviti]	n.洞, 空穴	
+1878	primate	13	['praimit]	n.灵长类(动物)	
+1879	tribal	13	['traibəl]	a.部落的,种族的	
+1880	storytelling	13	['stɔ:riteliŋ]	n.说书, 讲故事	
+1881	oven	13	['ʌvən]	n.烤箱	
+1882	district	13	['distrikt]	n.区域,行政区	
+1883	wait	13	[weit]	v./n.等待	
+1884	stationary	13	['steiʃənəri]	a.固定的,静止不动的	
+1885	measurement	13	['meӡəmənt]	n.测量法,度量	
+1886	pleasure	13	['pleӡə]	n.愉快,乐趣	
+1887	snowflake	13	['snəʊfleɪk]	n.雪花	
+1888	swallow	13	['swɔləu]	n./v.吞下,咽下	
+1889	insufficient	13	[.insə'fiʃənt]	a.不足的	
+1890	imagination	13	[i͵mædӡi'nei∫ən]	n.想象(力)	
+1891	telephone	13	['telifəun]	n.电话	
+1892	bay	13	[bei]	n.海湾	
+1893	squeeze	13	[skwi:z]	n./v.压榨, 挤,拮据	
+1894	realist	13	['riəlist]	n.现实主义者	
+1895	pack	13	[pæk]	v.捆扎,打包.n.包	
+1896	populate	13	['pɔpjuleit]	v.构成人口, 居住于	
+1897	gallery	13	['ɡæləri]	n.走廊,画廊	
+1898	defend	13	[di'fend]	vt.防护, 辩护,保卫	
+1899	porous	13	['pɔ:rəs]	a.多孔渗水的	
+1900	dot	13	[dɔt]	n.点.vt.打点于,点缀	
+1901	disturb	13	[dis'tə:b]	v.打扰,弄乱	
+1902	harbor	13	['hɑ:bə]	n.海港	
+1903	long-distance	13	['null']	a.长途的,长距离的	
+1904	tract	13	[trækt]	n.传单,小册子,大片(土地或森林)	
+1905	merely	13	['miəli]	ad.仅仅, 只, 不过	
+1906	protein	13	['prəuti:n]	n.蛋白质	
+1907	inexpensive	13	[.inik'spensiv]	a.廉价的,便宜的	
+1908	equatorial	13	[͵ekwə'tɔ:riəl]	a.(近)赤道的	
+1909	tiredness	13	['taiədnis]	n.疲劳,疲倦	
+1910	hollow	13	['hɔləu]	n.洞, 窟窿.vt.挖空,弄凹	
+1911	slip	13	[slip]	vi.滑(倒),溜走.vt.悄悄放进.n.疏漏	
+1912	illuminate	13	[i'lju:mineit]	vt.照明,阐释, 说明	
+1913	influential	13	[͵influ'en∫əl]	a.有影响的, 有势力的	
+1914	spear	13	[spiə]	n.矛, 枪	
+1915	behave	13	[bi'heiv]	v.表现,行为, 举止	
+1916	equip	13	[i'kwip]	vt.装备, 配备	
+1917	fourth	13	[fɔ:θ]	num.第四个	
+1918	everyday	13	['evri'dei]	a.每天的,日常的	
+1919	realistic	13	[riə'listik]	a.现实(主义)的	
+1920	review	13	[ri'vju:]	vt./n.回顾,复习,评论,检阅	
+1921	iodine	13	['aɪədaɪn]	n.碘, 碘酒	
+1922	hypothalamus	13	[͵haipəu'θæləməs]	n.[解剖]视丘下部	
+1923	tablet	13	['tæblit]	n.药片	
+1924	songbird	13	['sɔŋbз:d]	n.鸣禽,鸣鸟	
+1925	aside	13	[ə'said]	ad.在旁边,到旁边	
+1926	illusion	13	[i'lu:ӡən]	n.幻想,错觉	
+1927	cliff	13	[klif]	n.悬崖, 绝壁	
+1928	else	13	[els]	a.别的,其他的 ad.另外	
+1929	interplay	13	['intə(:)'plei]	n.相互影响,相互作用	
+1930	stiff	13	[stif]	a.(僵)硬的,生硬的	
+1931	cow	13	[kau]	n.母牛	
+1932	terminal	13	['tə:minl]	n.终点(站),终端	
+1933	herd	13	[hə:d]	n.兽群.vt.使集中,把…赶在一起	
+1934	ceremonial	13	[͵seri'məunjəl]	n.仪式.a.正式的	
+1935	piston	13	['pistən]	n.活塞	
+1936	tolerate	13	['tɔləreit]	vt.忍受,容忍,默许,宽恕	
+1937	virtue	13	['və:tju:]	n.美德, 贞操	
+1938	icebox	13	['aɪsbɔks]	n.冷藏库	
+1939	roost	13	[ru:st]	v./.n.栖息鸟巢	
+1940	tropic	13	['trɔpik]	n.回归线,热带.a.热带的	
+1941	nestle	13	['nesl]	v.依偎,（舒适地）安顿	
+1942	tactic	13	['tæktik]	n.策略, 战略	
+1943	contaminate	13	[kən'tæmineit]	vt.弄脏, 污染	
+1944	Japanese	13	[dӡæpə'ni:z]	n./a.日本人(的), 日语（的）	
+1945	cap	13	[kæp]	n.帽子,盖.vt.覆盖,胜过	
+1946	carver	13	['kɑ:və]	n.雕刻匠	
+1947	accomplish	13	[ə'kɔmpli∫]	vt.完成,实现	
+1948	properly	13	['prɔpəli]	ad.适当地,正确地	
+1949	mere	13	[miə]	a.仅仅的,起码的,纯粹的	
+1950	immune	13	[i'mju:n]	a.免疫的,不受影响的,免除的	
+1951	gill	13	[dӡil]	n.鳃,及耳[液量单位]	
+1952	disagreement	13	[dɪsə'ɡri:mənt]	n.不一致,争论,意见不同	
+1953	entrepreneur	13	[͵ɔntrəprə'nə:]	n.企业家, 主办人	
+1954	ingredient	13	[in'ɡri:diənt]	n.成分, 因素	
+1955	prominent	13	['prɔminənt]	a.显著的,杰出的, 突出的	
+1956	exploration	13	[͵eksplɔ:'rei∫ən]	n.探险, 探测	
+1957	fashion	13	['fæ∫ən]	n.方式,流行款式.vt.形成,塑造	
+1958	alarm	13	[ə'lɑ:m]	n.警报.vt.恐吓, 警告	
+1959	husband	13	['hʌzbənd]	n.丈夫	
+1960	proceed	13	[prə'si:d]	vi.进行,继续下去,发生	
+1961	feat	13	[fi:t]	n.功绩,伟业	
+1962	angle	13	['æŋɡl]	n.[数]角,角落	
+1963	coordinate	13	[kəu'ɔ:dinit]	vt.调节,协调.n.座标.a.并列的	
+1964	substitute	13	['sʌbstitju:t]	v.代替,替换	
+1965	meaningful	13	['mi:niŋful]	a.意味深长的	
+1966	agrarian	13	[ə'ɡrεəriən]	a.有关土地的, 耕地的	
+1967	message	13	['mesidӡ]	n.消息,信息	
+1968	margin	13	['mɑ:dӡin]	n.边缘,余地,页边空白	
+1969	airplane	13	['εə͵plein]	n.飞机	
+1970	utility	13	[ju:'tiləti]	n.效用,公用	
+1971	warn	13	[wɔ:n]	v.警告,告诫	
+1972	motive	13	['məutiv]	v.警告,告诫	
+1973	letter	12	['letə]	n.信,函件,字母	
+1974	contrary	12	['kɔntrəri]	a.相反的.n.反面, 相反	
+1975	canoes	12	[kə'nu:]	n.独木舟	
+1976	adequate	12	['ædikwit]	a.足够的,适当的,胜任的	
+1977	starling	12	['stɑ:liŋ]	n.欧掠鸟	
+1978	correspond	12	[kɔ:rə'spa:nd]	vi.符合,相当	
+1979	fifteenth	12	['fif'ti:nθ]	num.第十五	
+1980	invade	12	[in'veid]	vt.侵略,侵入	
+1981	sensitive	12	['sensitiv]	a.敏感的,灵敏的	
+1982	humidity	12	[hju:'midəti]	n.湿气,潮湿	
+1983	additive	12	['æditiv]	a.附加的.n.添加剂	
+1984	hope	12	[həup]	v./n.希望,信心	
+1985	peripheral	12	[pə'rifərəl]	a.外围的,不重要的	
+1986	Egypt	12	['i:dӡɪpt]	n.埃及	
+1987	steadily	12	['stedili]	ad.稳定地,坚定地	
+1988	odor	12	['əudə]	n.气味,名声	
+1989	deprive	12	[di'praiv]	vt.剥夺,使丧失	
+1990	shoot	12	[∫u:t]	v.发射, 开枪	
+1991	three-dimensional	12	[θri:'dɪmen∫ənəl]	a.三维的, 立体的	
+1992	conquer	12	['kɔŋkə]	vt.征服, 战胜,攻克	
+1993	loyalty	12	['lɔɪəltɪ]	n.忠诚	
+1994	unexpected	12	['ʌnik'spektid]	a.想不到的,意外的	
+1995	eagle	12	['i:ɡl]	n.鹰	
+1996	exchanger	12	[iks'tʃeindʒə]	n.交换器, 换热器	
+1997	strictly	12	['striktli]	ad.严格地,完全地,确实地	
+1998	psychodynamic	12	[͵saikəudai'næmik]	a.精神动力的	
+1999	lighthouse	12	['laɪthaʊs]	n.灯塔	
+2000	chart	12	[t∫ɑ:t]	n.图表.vt.制图	
+2001	palm	12	[pɑ:m]	n.手掌,掌状物.vt.把…藏于手中	
+2002	innovative	12	[`ɪnəʊveɪtɪv]	a.创新的, 革新的	
+2003	impose	12	[im'pəuz]	v.强加,征收(税款)	
+2004	underlie	12	[͵ʌndə'lai]	vt.位于...之下, 成为...的基础	
+2005	enemy	12	['enimi]	n.敌人	
+2006	expectation	12	[͵ekspek'tei∫ən]	n.期待,预料,指望	
+2007	farmland	12	[`fɑ:mlænd]	n.农田	
+2008	disperse	12	[dis'pə:s]	v.分散, 疏散,传播	
+2009	relic	12	['relik]	n.遗物, 废墟	
+2010	pile	12	[pail]	n.一堆,一叠.v.堆积	
+2011	smell	12	[smel]	n.气味v.嗅, 闻到	
+2012	management	12	['mænidӡmənt]	n.经营,管理,处理	
+2013	gallium	12	['ɡæliəm]	n.镓	
+2014	life-forms	12	[lai'fɔ:mz]	n.生物	
+2015	lion	12	['laiən]	n.狮子	
+2016	suspend	12	[səs'pend]	v.暂停,悬,挂,延缓,推迟	
+2017	camera	12	['kæmərə]	n.照相机	
+2018	ion	12	['aiən]	n.离子	
+2019	ink	12	[iŋk]	n.墨水	
+2020	eggshell	12	['eɡ∫el]	n.蛋壳, 易碎的东西	
+2021	invader	12	[in'veidə]	n.侵略者	
+2022	interview	12	['intəvju:]	n.接见,会见,面谈	
+2023	pigment	12	['piɡmənt]	n.天然色素,颜料	
+2024	hire	12	['haiə]	vt.／n.租用,雇用	
+2025	finger	12	['fiŋɡə]	n.手指.v.用手指拨弄	
+2026	silversmith	12	['sɪlvəsmɪθ]	n.银器匠	
+2027	poet	12	['pəuit]	n.诗人	
+2028	darkness	12	['dɑ:knis]	n.黑暗,漆黑	
+2029	mount	12	[maunt]	vt.登上.n.山,峰	
+2030	sodium	12	['səudiəm]	n.[化] 钠	
+2031	ready	12	['redi]	a.有准备的	
+2032	Hispanic	12	[his'pænik]	a.西班牙的	
+2033	instinct	12	['instiŋkt]	n.本能,直觉,天性	
+2034	reformer	12	[ri'fɔ:mə]	n.改革家, 改革运动者	
+2035	minimize	12	['mɪnɪmaɪz]	v.将...减到最少,最小化	
+2036	Mississippian	12	[͵misi'sipjən]	a.密西西比河的.n.密西西比州人	
+2037	browse	12	[brauz]	v./n.浏览, 放牧	
+2038	southwest	12	['sauθ'west]	n.西南方(的)	
+2039	convex	12	['kɔn'veks]	a.凸出的	
+2040	magma	12	['mæɡmə]	n.岩浆, 糊剂	
+2041	intention	12	[in'ten∫ən]	n.意图, 目的	
+2042	wash	12	[wɔ∫]	v.洗,洗涤.n.洗涤,要洗的衣物	
+2043	trader	12	['treidə]	n.商人	
+2044	injury	12	['indӡəri]	n.伤害,侮辱	
+2045	sight	12	[sait]	.vt.看见.n.视力, 视域,[pl.]名胜	
+2046	meeting	12	['mi:tiŋ]	n.会议,集会,会见,汇合点	
+2047	fault	12	[fɔ:lt]	n.过错.v.挑剔,弄错	
+2048	address	12	[ə'dres]	n.地址,演说.vt.写地址,演说	
+2049	saturate	12	['sæt∫əreit]	vt.使湿透,饱和	
+2050	terrace	12	['terəs]	n.平台,阳台.v.使成梯形地	
+2051	secret	12	['si:krit]	n./a.秘密(的)	
+2052	well-being	12	['wel'bi:iŋ]	n.幸福,健康	
+2053	swamp	12	[swɔmp]	n.沼泽,湿地	
+2054	inclusion	12	[in'klu:ӡən]	n.包含	
+2055	navigation	12	[͵nævi'ɡei∫ən]	n.航海,航行	
+2056	sheer	12	[∫iə]	a./ad.十足的,陡峭的，大量的	
+2057	cadmium	12	['kædmiəm]	n.[化]镉	
+2058	banker	12	['bæŋkə]	n.银行家	
+2059	designate	12	['deziɡneit]	v.指明,指定	
+2060	abstract	12	['æbstrækt]	n.摘要,抽象	
+2061	assessment	12	[ə'sesmənt]	n.估计,评估	
+2062	dominance	12	['dɔmɪnəns]	n.支配,优势,统治	
+2063	anger	12	['æŋɡə]	n.怒.v.恼火	
+2064	arise	12	[ə'raiz]	vi.产生,出现,上升	
+2065	drum	12	[drʌm]	n.鼓	
+2066	horticulture	12	['hɔ:tikʌlt∫ə]	n.园艺,园艺学	
+2067	compress	12	[kəm'pres]	vt.压缩,摘要叙述	
+2068	constitution	12	[͵kɔnsti'tju:∫ən]	n.宪法,章程	
+2069	cone	12	[kəun]	n.圆锥体,	
+2070	fade	12	[feid]	v.褪去,褪色	
+2071	lifestyle	12	['laifstail]	n.生活方式	
+2072	patent	12	['peitənt]	n./a.专利(权)(的)	
+2073	invest	12	[in'vest]	v.投资,投入(时间等),授予,赋予	
+2074	lord	12	[lɔ:d]	n.封建领主,君主	
+2075	debt	12	[det]	n.债务	
+2076	dispersal	12	[di'spə:rsl]	n.散布,传播,分散	
+2077	residential	12	[.rezi'denʃəl]	a.住宅的, 居住的	
+2078	Indiana	12	['indi'ænə]	n.印地安那州	
+2079	mild	12	[maild]	a.温和的, 轻微的,适度的	
+2080	tectonic	12	[tek'tɔnik]	a.构造的, 建筑的	
+2081	firn	12	[fə:n]	n.粒雪, 积雪	
+2082	adulthood	12	[ə'dʌlthud]	n.成人期	
+2083	consciously	12	['kɔnʃəsli]	ad.有意识地, 自觉地	
+2084	advocate	12	['ædvəkit]	vt.(cid:6656)倡,鼓吹,主张,拥护	
+2085	sixteen	12	['siks'ti:n]	num.  十六	
+2086	supernatural	12	[͵sju:pə'næt∫ərəl]	a./n.超自然(的), 神奇(的)	
+2087	nomadism	12	['nɔmədizəm]	n.游牧,流浪	
+2088	catastrophe	12	[kə'tæstrəfi]	n.大灾难	
+2089	selenium	12	[si'li:niəm]	n.[化]硒	
+2090	poem	12	['pəuem]	n.诗	
+2091	ballet	12	[bæ'lei]	n.芭蕾(舞)	
+2092	unhappy	12	[ʌn'hæpi]	a.不幸的, 不快乐的	
+2093	Bantu	12	['bæn'tu:]	n.班图人, 班图语	
+2094	ratio	12	['rei∫iəu]	n.比, 比率	
+2095	noise	12	[nɔiz]	n.喧闹声, 噪声	
+2096	inadequate	12	[in'ædikwit]	a.不充分的,不适当的	
+2097	strategy	12	['strætidӡi]	n.策略	
+2098	geothermal	12	[.dʒi:əu'θə:məl]	a.地热的	
+2099	reclaim	12	[ri'kleim]	v.要回,开垦,回收	
+2100	restoration	12	['restə'rei∫ən]	n.恢复, 归还	
+2101	eddy	11	['edi]	n.旋转,漩涡	
+2102	wherever	11	[wɛər'evə]	conj.无论在哪里.ad.无论什么地方	
+2103	legislation	11	[͵ledӡis'lei∫ən]	n.立法,法律的制定(或通过)	
+2104	welfare	11	['welfεə]	n.福利,福利救济	
+2105	telecommuting	11	['telə͵kəmju:tiŋ]	n.远程联机,  远程办公	
+2106	crowd	11	[kraud]	n.人群.v.拥挤	
+2107	presumably	11	[prɪ'zu:məblɪ]	ad.大概,可能,据推测	
+2108	metabolism	11	[me'tæbəlizəm]	n.新陈代谢	
+2109	transplant	11	[træns'plɑ:nt]	vt.移栽,移植.n.(器官)移植	
+2110	repress	11	[ri'pres]	v.抑制,镇压	
+2111	subway	11	['sʌbwei]	n.地铁, 地下通道	
+2112	geographical	11	[͵dӡiə'ɡræfikəl]	a.地理(学)的	
+2113	pride	11	[praid]	n.自豪	
+2114	refrigerator	11	[ri'fridӡəreitə]	n.电冰箱	
+2115	fir	11	[fə:]	n.[植]冷杉	
+2116	reserve	11	[ri'zə:v]	vt.保留,预定.n.储备,矜持,自然保护区	
+2117	court	11	[kɔ:t]	n.法庭,庭院, 宫廷	
+2118	short-lived	11	[ʃɔ:tlivd]	a.短命的, 短暂的	
+2119	superorganism	11	[͵sju:pə'ɔ:ɡənizm]	n.[生]超个体(指群居昆虫等的群体)	
+2120	calculation	11	[͵kælkju'lei∫ən]	n.计算,考虑,估计	
+2121	rational	11	['ræ∫ənl]	a.理性的,合理的	
+2122	criterion	11	[krai'tiəriən]	n.标准,规范,[ pl.]准则	
+2123	linen	11	['linin]	n.亚麻布（制品）	
+2124	Harlem	11	['hɑ:ləm]	n.(纽约的）黑人住宅区	
+2125	Orleans	11	[ɔ:'liənz]	n.奥尔良[法国]	
+2126	orientation	11	[͵ɔ(:)rien'tei∫ən]	n.方向,目标, 熟悉,适应	
+2127	foster	11	['fɔstə]	vt.收养,培养,促进	
+2128	inevitable	11	[in'evitəbl]	a.不可避免的, 必然的	
+2129	controversial	11	[.kɔntrə'və:ʃəl]	a.有争议的,引起争论的	
+2130	dream	11	[dri:m]	v.做梦.n.梦,梦想	
+2131	geographic	11	[͵dӡiə'ɡræfik]	a.地理(学)的	
+2132	projector	11	[prə'dӡektə]	n.放映机,探照灯,投影仪,设计者	
+2133	peepshow	11	[pi:pʃəu]	n.西洋镜	
+2134	anemone	11	[ə'neməni]	n.[植]银莲花,[动]海葵	
+2135	handedness	11	[`hændɪdnɪs]	n.用右手或左手的习惯	
+2136	harmony	11	['hɑ:məni]	n.协调,融洽,和睦	
+2137	nut	11	[nʌt]	n.坚果, 螺母	
+2138	billfish	11	['bilfi∫]	n.长嘴鱼,尖嘴鱼	
+2139	identical	11	[ai'dentikəl]	a.同一的,相同的	
+2140	mutual	11	['mju:tjuəl,'mju:t∫uəl]	a.相互的,共有的,彼此的	
+2141	regularity	11	[͵reɡju'læriti]	n.规律性,规则性	
+2142	realization	11	[͵riəlai'zei∫ən]	n.实现	
+2143	plow	11	[plau]	v.耕, 犁	
+2144	minimum	11	['miniməm]	a.最小的.n.最小值,	
+2145	truly	11	['tru:li]	ad.真正地,忠实地	
+2146	figurine	11	['fiɡjuri:n]	n.小雕像	
+2147	polygon	11	['pɔliɡən]	n.[数]多角形,多边形	
+2148	hypothesize	11	[hai'pɔθisaiz]	v.假设,猜测	
+2149	depletion	11	[di'pli:∫ən]	n.损耗,枯竭	
+2150	request	11	[ri'kwest]	vt./n.请求, 要求	
+2151	conservation	11	[͵kɔnsə(:)'vei∫ən]	n.保存,保持,(对自然资源的)保护	
+2152	ammonia	11	['æməunjə]	n.[化]氨, 氨水	
+2153	violent	11	['vaiələnt]	a.猛烈的,暴力的	
+2154	arrival	11	[ə'raivəl]	n.到来, 到达	
+2155	sedimentation	11	[͵sedimen'tei∫ən]	n.沉淀,沉降	
+2156	rectangular	11	[rek'tæŋgjulə]	a.长方形的,矩形的,成直角的	
+2157	agency	11	['eidӡənsi]	n.代理处, 中介	
+2158	questionnaire	11	[͵kwestiə'nεə,-t∫ə-]	n.调查表, 问卷	
+2159	temple	11	['templ]	n.庙, 寺	
+2160	remote	11	[ri'məut]	a.遥远的, 偏僻的,疏远的	
+2161	asphalt	11	['æsfælt]	n.沥青	
+2162	evergreen	11	['evəɡri:n]	n.常绿树.a.常绿的	
+2163	lizard	11	['lizəd]	n.[动]蜥蜴	
+2164	ornament	11	['ɔ:nəmənt]	n./vt.装饰(品),美化	
+2165	parental	11	[pə'rentl]	a.父母的	
+2166	tie	11	[tai]	v.扎,系.n.领带,联系.vi.不分胜负	
+2167	illumination	11	[i͵lju:mi'neiʃən]	n.阐明, 启发	
+2168	healthy	11	['helθi]	a.健康的	
+2169	simplify	11	['simplifai]	vt.单一化,简单化	
+2170	equator	11	[i'kweitə]	n.赤道	
+2171	advertiser	11	['ædvətaizə]	n.登广告者,广告客户	
+2172	persian	11	['pə:∫ən]	n.波斯人[语]	
+2173	neonate	11	['ni:əneit]	n.初生婴儿	
+2174	genius	11	['dӡi:njəs]	n.天才, 天赋	
+2175	drainage	11	['dreinidӡ]	n.排水系统,下水道	
+2176	criticism	11	['kritisiz(ə)m]	n.批评, 批判	
+2177	impress	11	[im'pres]	vt.印,留下印象	
+2178	smile	11	[smail]	vi./n.微笑	
+2179	silk	11	[silk]	n.丝绸,蚕丝	
+2180	antarctic	11	[æn'tɑ:ktik]	a.南极的	
+2181	friction	11	['frik∫ən]	n.摩擦,摩擦力	
+2182	excess	11	[ik'ses,'ekses]	n./a.过量(的)	
+2183	zinc	11	[ziŋk]	n.锌	
+2184	vulnerable	11	['vʌlnərəbl]	a.易受伤的,脆弱的	
+2185	proposal	11	[prə'pəuzəl]	n.(cid:6656)议,建议	
+2186	effectively	11	[ɪ'fektɪvlɪ]	ad.有效地,生效地	
+2187	flee	11	[fli:]	v.逃避,逃跑,消失	
+2188	wartime	11	['wɔ:taɪm]	n.战时	
+2189	Euphrates	11	[ju:'freiti:z]	n.幼发拉底河	
+2190	gypsum	11	['dӡipsəm]	n.石膏,	
+2191	objective	11	[əb'dӡektiv]	n.目标,目的a.客观的,宾格的	
+2192	inspiration	11	[͵inspə'rei∫ən]	n.灵感,鼓舞	
+2193	shrine	11	[∫rain]	n.圣地, 神龛	
+2194	meltwater	11	['melt͵wɔ:tə]	n.冰雪融化成的水	
+2195	sector	11	['sektə]	n.部分, 部门	
+2196	bulb	11	[bʌlb]	n.鳞茎,球形物	
+2197	trillion	11	['triljən]	num.万亿	
+2198	isolation	11	['aisə'leiʃn]	n.隔离,孤立	
+2199	frontality	11	[frʌn'tæliti]	n.正面(cid:6655)绘	
+2200	Latin	11	['lætin]	n./a.拉丁文,拉丁语(的)	
+2201	abroad	11	[ə'brɔ:d]	ad.到国外,在国外	
+2202	burgess	11	['bə:dӡis]	n.(英国)市民,镇民	
+2203	split	11	[split]	v.分裂,撕裂.n.裂口	
+2204	alternate	11	['ɔ:ltə:neit]	v.交替, 轮流.a.交替的,间隔的	
+2205	guarantee	11	[͵ɡærən'ti:]	n.保证(书)vt.保证, 担保	
+2206	ultimately	11	['ʌltɪmətlɪ]	ad.最后,最终,基本上	
+2207	strange	11	[streindӡ]	a.陌生的,奇怪的	
+2208	journey	11	['dӡə:ni]	n.旅行	
+2209	igneous	11	['iɡniəs]	a.(指岩石)火成的, 火的	
+2210	buck	11	[bʌk]	n.(一)美元,雄鹿(兔)	
+2211	enrich	11	[in'rit∫]	vt.充实,使富裕	
+2212	metropolis	11	[mɪ'trɔpəlɪs]	n.首都,大城市	
+2213	botanical	11	[bə'tænɪk(ə)l]	a.植物(学)的	
+2214	wife	11	[waif]	n.妻子	
+2215	urge	11	[ə:dӡ]	vt.鼓励,强烈要求.n.强烈的欲望	
+2216	lomas	11	['ləumɑ:s]	n.洛马斯(阿根廷东部的一城镇)	
+2217	deform	11	[di:'fɔ:m]	v.(使)变形	
+2218	safe	11	[seif]	a.安全的.n.保险箱	
+2219	confederacy	11	[kən'fedərəsi]	n.联盟,邦联	
+2220	so-called	11	['səu'kɔ:ld]	a.所谓的,号称的	
+2221	spite	11	[spait]	n.(in ～ of)不顾,不管,恶意	
+2222	fertilize	11	['fз:tɪlaɪz]	vt.使肥沃,使多产	
+2223	withstand	11	[wið'stænd]	vt.抵挡, 经受住	
+2224	immense	11	[i'mens]	a.极广大的, 无边的,	
+2225	singer	11	['sindӡə]	n.歌手	
+2226	raft	11	[rɑ:ft]	n.木排(筏),救生圈.v.用筏子渡河	
+2227	offshore	11	['ɔ(:)f∫ɔ:]	a./ad.离岸的,近海的	
+2228	hierarchy	11	['haiərɑ:ki]	n.等级制度	
+2229	commission	11	[kə'mi∫ən]	n.委员会.vt.委任,委托,佣金	
+2230	intend	11	[in'tend]	vt.想要, 打算	
+2231	democratic	11	[͵demə'krætik]	a.民主的,民主主义的	
+2232	interlock	11	[͵intə'lɔk]	v.互锁,连锁	
+2233	truth	11	[tru:θ]	n.事实,真理	
+2234	attachment	11	[ə'tæt∫mənt]	n.附件,附加装置	
+2235	closet	11	['klɔzit]	n.壁橱,储藏室	
+2236	insulate	11	['insjuleit]	vt.使绝缘, 隔离	
+2237	mission	11	['mi∫ən]	n.使命,任务	
+2238	odd	11	[ɔd]	a.奇特的,奇数的.n.[ pl.]机会	
+2239	Illinois	11	[͵ili'nɔi(z)]	n.伊利诺斯州(美国州名)	
+2240	sieve	11	[siv]	n 筛,滤网.v.筛, 过滤	
+2241	prosperous	11	['prɔspərəs]	a.繁荣的,兴旺的	
+2242	alpine	11	['ælpain]	a.高山的, 阿尔卑斯山的	
+2243	monumental	11	[.mɔnju'mentl]	a.纪念碑的,不朽的	
+2244	twelve	11	[twelv]	num.  十二	
+2245	payment	11	['peimənt]	n.付款, 报酬, 偿还	
