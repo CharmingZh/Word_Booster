@@ -54,7 +54,7 @@ def transmit_process():
     print('Done')
 
 
-def read_from_txt(section):
+def format_txt(section):
     file_path = 'wordBooster/data_preprocess/' + section + '_word.txt'
     file = open(file_path, "r")
     result = open('wordBooster/data_preprocess/word_temp.txt', 'a')
@@ -74,10 +74,10 @@ def read_from_txt(section):
 
 if __name__ == '__main__':
     # transmit_process()
-    read_from_txt('A')
-    read_from_txt('B')
-    read_from_txt('C')
-    read_from_txt('D')
-    read_from_txt('E')
-    read_from_txt('F')
+    format_txt('A')
+    format_txt('B')
+    format_txt('C')
+    format_txt('D')
+    format_txt('E')
+    format_txt('F')
 
