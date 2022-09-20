@@ -1,5 +1,6 @@
 import linecache
 import os.path
+import random
 
 
 def ana_str(line_str):
@@ -42,17 +43,36 @@ def user_status():
 
 
 def judge_word(num):
-    print("----------------------------------------")
-    print()
+    print("----------------------------------------\n")  # 2 lines
     word_ch = get_word(word_num, 1)
     word_str = ':::::' + ' ' * ((30 - len(word_ch)) // 2) \
                + word_ch \
                + ' ' * ((30 - len(word_ch)) // 2) + ':::::'
     print(word_str)
+    while True:
+        print("\n----------------------------------------\n")  # 2 lines
+        select = input(
+            "Do you know this word?   Your response: "
+        )
+        if select == 'y':
+            word_mean = get_word(word_num, 4)
+            select_str = "Are you sure? " + word_mean + '  Your response: '
+            select = input(select_str)
+            if select == 'y':
+                print("----------------------------------------\n")
+                return True
+            elif select == 'n':
+                print("----------------------------------------\n")
+                return False
+        elif select == 'n':
+            print('No')
+            print("----------------------------------------\n")
+            return False
 
 
 if __name__ == '__main__':
-    print("Welcome to the ...")
+    print("|      为了更好的使用体验，请拉动窗口至恰好包围这两段文字。           |\n")
+    print("       Welcome to the ...")
     print(" *     _    _               _______                 _           ")
     print(" *    | |  | |             | | ___ \               | |          ")
     print(" *    | |  | | ___  _ __ __| | |_/ / ___   ___  ___| |_ ___ _ __ ")
@@ -88,9 +108,9 @@ if __name__ == '__main__':
 
     # 用户的当前学习进度指针
     GLOBAL_PROGRESS_POINTER = int(linecache.getline(user_info_path, 1))
-    print("Global learning progress pointer get.")
+    print("       Global learning progress pointer get.")
 
-    print("Checking data completeness ... ")
+    print("       Checking data completeness ... ")
     # 所有单词的历史学习数据
     ALL_WORDS_HISTORY = list(
         map(
@@ -106,7 +126,8 @@ if __name__ == '__main__':
         for i in range(GLOBAL_PROGRESS_POINTER, word_file_count + 1):
             WORDS_CURRENT.append(i)
     else:
-        for i in range(GLOBAL_PROGRESS_POINTER + 1, 50 + 1):
+        # FIXME: Remember to RESET the learning plan!!!!
+        for i in range(GLOBAL_PROGRESS_POINTER + 1, 13 + 1):
             WORDS_CURRENT.append(i)
 
     # 三级学习队列
@@ -117,18 +138,147 @@ if __name__ == '__main__':
     # 本轮学习将要复习的旧词(index)列表
     WORDS_BEFORE = []
     if not linecache.getline(user_work_path, 2):
-        print("No historical data to be loaded, initializing...")
+        print("       No historical data to be loaded, initializing...")
     else:
-        print("Reading historical learning cache.")
+        print("       Reading historical learning cache.")
         WORDS_BEFORE = list(
             map(
                 int,
                 linecache.getline(user_work_path, 2).split(' ')
             )
         )
-    better_viewer()
+    print(
+        "\n| 为了更好的使用体验，请拉动窗口至恰好包围这两段文字 .. 按 Enter 继续 |",
+        end='')
+    char_temp = input()
+
+    # better_viewer()
+    """
+    print("  _____                       _   __ ")
+    print(" |  __ \                     | | /_ |")
+    print(" | |__) |___  _   _ _ __   __| |  | |")
+    print(" |  _  // _ \| | | | '_ \ / _` |  | |")
+    print(" | | \ \ (_) | |_| | | | | (_| |  | |")
+    print(" |_|  \_\___/ \__,_|_| |_|\__,_|  |_|")
+    """
     for word_num in WORDS_CURRENT:
-        temp = input()
-        judge_word(word_num)
+        print("  _____                       _   __ ")
+        print(" |  __ \                     | | /_ |")
+        print(" | |__) |___  _   _ _ __   __| |  | |")
+        print(" |  _  // _ \| | | | '_ \ / _` |  | |")
+        print(" | | \ \ (_) | |_| | | | | (_| |  | |")
+        print(" |_|  \_\___/ \__,_|_| |_|\__,_|  |_|\n")
+        if judge_word(word_num) is True:
+            continue
+        else:
+            WORDS_LV_1.append(word_num)
+
+    # LEVEL 1 QUEUE
+    print("***        First round done. ",
+          (len(WORDS_LV_1) * 10) / 5,
+          "% unrecognized, fighting!       ***")
+    count_temp = 0
+    for word_num in WORDS_LV_1:
+        if count_temp == 10:
+            count_temp = 0
+            char_temp = input("Press Enter to continue: ")
+        print(
+            word_num, '\t',
+            get_word(word_num, 1), '\t',
+            get_word(word_num, 4), '\t',
+            get_word(word_num, 3)
+        )
+        count_temp += 1
+    char_temp = input("Press Enter to continue: ")
+    random.shuffle(WORDS_LV_1)
+
+    # LEVEL 2 QUEUE
+    for word_num in WORDS_LV_1:
+        print("  _                    _   __ ")
+        print(" | |                  | | /_ |")
+        print(" | |     _____   _____| |  | |")
+        print(" | |    / _ \ \ / / _ \ |  | |")
+        print(" | |___|  __/\ V /  __/ |  | |")
+        print(" |______\___| \_/ \___|_|  |_|\n")
+        if judge_word(word_num) is True:
+            continue
+        else:
+            WORDS_LV_2.append(word_num)
+
+    print("***        Second round done. ",
+          (len(WORDS_LV_2) * 10) / 5,
+          "% unrecognized, fighting!       *** ")
+    count_temp = 0
+    for word_num in WORDS_LV_2:
+        if count_temp == 10:
+            count_temp = 0
+            char_temp = input("Press Enter to continue: ")
+        print(
+            word_num, '\t',
+            get_word(word_num, 1), '\t',
+            get_word(word_num, 4), '\t',
+            get_word(word_num, 3)
+        )
+        count_temp += 1
+    char_temp = input("Press Enter to continue: ")
+    random.shuffle(WORDS_LV_2)
+
+    # LEVEL 3 QUEUE
+    for word_num in WORDS_LV_2:
+        print("  _                    _   ___  ")
+        print(" | |                  | | |__ \ ")
+        print(" | |     _____   _____| |    ) |")
+        print(" | |    / _ \ \ / / _ \ |   / / ")
+        print(" | |___|  __/\ V /  __/ |  / /_ ")
+        print(" |______\___| \_/ \___|_| |____|\n")
+        if judge_word(word_num) is True:
+            continue
+        else:
+            WORDS_LV_3.append(word_num)
+    print("***        LAST round done. ",
+          (len(WORDS_LV_3) * 10) / 5,
+          "% unrecognized, fighting!       ***")
+    count_temp = 0
+    for word_num in WORDS_LV_3:
+        if count_temp == 10:
+            count_temp = 0
+            char_temp = input("Press Enter to continue: ")
+        print(
+            word_num, '\t',
+            get_word(word_num, 1), '\t',
+            get_word(word_num, 4), '\t',
+            get_word(word_num, 3)
+        )
+        count_temp += 1
+    char_temp = input("Press Enter to continue: ")
+    WORDS_LV_2.sort()
+    WORDS_BEFORE = WORDS_BEFORE + WORDS_LV_2
+
+    # LEVEL 3 QUEUE
+    for word_num in WORDS_LV_2:
+        print("  _                    _   ___  ")
+        print(" | |                  | | |__ \ ")
+        print(" | |     _____   _____| |    ) |")
+        print(" | |    / _ \ \ / / _ \ |   / / ")
+        print(" | |___|  __/\ V /  __/ |  / /_ ")
+        print(" |______\___| \_/ \___|_| |____|\n")
+        if judge_word(word_num) is True:
+            continue
+        else:
+            WORDS_LV_3.append(word_num)
+
+    for word_num in WORDS_LV_2:
+        print("  _                    _   ___  ")
+        print(" | |                  | | |__ \ ")
+        print(" | |     _____   _____| |    ) |")
+        print(" | |    / _ \ \ / / _ \ |   / / ")
+        print(" | |___|  __/\ V /  __/ |  / /_ ")
+        print(" |______\___| \_/ \___|_| |____|\n")
+        if judge_word(word_num) is True:
+            continue
+        else:
+            WORDS_LV_3.append(word_num)
+
+
 
 
