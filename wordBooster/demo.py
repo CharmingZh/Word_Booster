@@ -119,7 +119,6 @@ if __name__ == '__main__':
         )
     )
     print("                   ... learning details, done")
-
     # 本轮要学习的词汇(index)列表
     WORDS_CURRENT = []
     if word_file_count - GLOBAL_PROGRESS_POINTER < 50:
@@ -127,9 +126,9 @@ if __name__ == '__main__':
             WORDS_CURRENT.append(i)
     else:
         # FIXME: Remember to RESET the learning plan!!!!
-        for i in range(GLOBAL_PROGRESS_POINTER + 1, 13 + 1):
+        for i in range(GLOBAL_PROGRESS_POINTER + 1,
+                       GLOBAL_PROGRESS_POINTER + 50 + 1):
             WORDS_CURRENT.append(i)
-
     # 三级学习队列
     WORDS_LV_1 = []
     WORDS_LV_2 = []
@@ -147,8 +146,10 @@ if __name__ == '__main__':
                 linecache.getline(user_work_path, 2).split(' ')
             )
         )
+
     print(
-        "\n| 为了更好的使用体验，请拉动窗口至恰好包围这两段文字 .. 按 Enter 继续 |",
+        "\n| 累积学习", GLOBAL_PROGRESS_POINTER, "词, 剩余",
+        word_file_count - GLOBAL_PROGRESS_POINTER, "词    .. 按 Enter 继续 |",
         end='')
     char_temp = input()
 
@@ -235,7 +236,7 @@ if __name__ == '__main__':
             continue
         else:
             WORDS_LV_3.append(word_num)
-    print("***        LAST round done. ",
+    print("***       Second round done. ",
           (len(WORDS_LV_3) * 10) / 5,
           "% unrecognized, fighting!       ***")
     count_temp = 0
@@ -251,34 +252,56 @@ if __name__ == '__main__':
         )
         count_temp += 1
     char_temp = input("Press Enter to continue: ")
-    WORDS_LV_2.sort()
-    WORDS_BEFORE = WORDS_BEFORE + WORDS_LV_2
 
     # LEVEL 3 QUEUE
-    for word_num in WORDS_LV_2:
-        print("  _                    _   ___  ")
-        print(" | |                  | | |__ \ ")
-        print(" | |     _____   _____| |    ) |")
-        print(" | |    / _ \ \ / / _ \ |   / / ")
-        print(" | |___|  __/\ V /  __/ |  / /_ ")
-        print(" |______\___| \_/ \___|_| |____|\n")
+    for word_num in WORDS_LV_3:
+        print("  _               _     _____                       _ ")
+        print(" | |             | |   |  __ \                     | |")
+        print(" | |     __ _ ___| |_  | |__) |___  _   _ _ __   __| |")
+        print(" | |    / _` / __| __| |  _  // _ \| | | | '_ \ / _` |")
+        print(" | |___| (_| \__ \ |_  | | \ \ (_) | |_| | | | | (_| |")
+        print(" |______\__,_|___/\__| |_|  \_\___/ \__,_|_| |_|\__,_|\n")
+        judge_word(word_num)
+    print("***       Last round done. ")
+
+    temp_list = []
+
+    for word_num in WORDS_BEFORE:
+        print("  _____            _                         __  ")
+        print(" |  __ \          (_)                ______  \ \ ")
+        print(" | |__) |_____   ___  _____      __ |______|  | |")
+        print(" |  _  // _ \ \ / / |/ _ \ \ /\ / /  ______   | |")
+        print(" | | \ \  __/\ V /| |  __/\ V  V /  |______|  | |")
+        print(" |_|  \_\___| \_/ |_|\___| \_/\_/            /_/ \n")
         if judge_word(word_num) is True:
-            continue
+            ALL_WORDS_HISTORY[word_num - 1] += 1
+            if ALL_WORDS_HISTORY[word_num - 1] <= 4:
+                temp_list.append(word_num)
         else:
-            WORDS_LV_3.append(word_num)
+            ALL_WORDS_HISTORY[word_num - 1] -= 1
+            temp_list.append(word_num)
 
-    for word_num in WORDS_LV_2:
-        print("  _                    _   ___  ")
-        print(" | |                  | | |__ \ ")
-        print(" | |     _____   _____| |    ) |")
-        print(" | |    / _ \ \ / / _ \ |   / / ")
-        print(" | |___|  __/\ V /  __/ |  / /_ ")
-        print(" |______\___| \_/ \___|_| |____|\n")
-        if judge_word(word_num) is True:
-            continue
-        else:
-            WORDS_LV_3.append(word_num)
+    for item in WORDS_LV_2:
+        temp_list.append(item)
+    temp_list.sort()
 
+    # 写入当前进展指针
+    temp_file = open(user_info_path, 'w')
+    temp_file.write(str(GLOBAL_PROGRESS_POINTER + 50))
+    temp_file.close()
 
+    temp_file = open(user_work_path, 'w')
+    ALL_WORDS_HISTORY = list(
+        map(str, ALL_WORDS_HISTORY)
+    )
+    write_str = ' '.join(ALL_WORDS_HISTORY)
+    temp_file.write(write_str)
 
+    temp_list = list(
+        map(str, temp_list)
+    )
+    write_str = ' '.join(temp_list)
+    temp_file.write('\n')
+    temp_file.write(write_str)
+    temp_file.close()
 
